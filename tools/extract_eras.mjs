@@ -23,7 +23,7 @@ function grabArray(name) {
 }
 
 const hex = n => (typeof n === 'number' ? '#' + n.toString(16).padStart(6, '0') : n);
-const slug = s => s.toLowerCase().normalize('NFKD').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
+const slug = s => s.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
 
 const index = [];
 for (const [name, lens] of [['ERAS_GEO', 'geo'], ['ERAS_RELIGION', 'religion']]) {
