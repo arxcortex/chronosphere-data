@@ -4658,9 +4658,9 @@
      "BEL",
      "LUX",
      "SVN",
-     "HRV",
      "ITA"
-    ]
+    ],
+    "note": "ITA is shown whole for lack of sub-national shapes; southern Italy and Sicily belonged to the Normans."
    },
    {
     "name": "Kingdom of France (Capetian)",
@@ -4774,8 +4774,7 @@
     "color": "#8a6b4a",
     "desc": "The Normans rule England (since 1066), southern Italy, and Sicily. The most dynamic military culture in Europe, and a major source of Crusading leadership — Bohemond of Antioch is a Norman.",
     "countries": [
-     "GBR",
-     "IRL"
+     "GBR"
     ],
     "subdivisions": [
      "GB-ABD",
@@ -5364,6 +5363,26 @@
      "BTN",
      "NPL",
      "PAK"
+    ]
+   },
+   {
+    "name": "Gaelic Irish kingdoms",
+    "capital": "Cashel",
+    "type": "Gaelic kingdoms",
+    "color": "#5f7a5a",
+    "desc": "Ireland is divided among Gaelic provincial kings and Norse-Gaelic port towns; the Anglo-Norman invasion is seventy years away (1169).",
+    "countries": [
+     "IRL"
+    ]
+   },
+   {
+    "name": "Kingdom of Croatia",
+    "capital": "Biograd",
+    "type": "Kingdom",
+    "color": "#7a5a6a",
+    "desc": "Croatian kingdom in its last years of independence; it enters personal union with Hungary in 1102.",
+    "countries": [
+     "HRV"
     ]
    }
   ]
@@ -6059,13 +6078,8 @@
      "GRC",
      "BGR",
      "MKD",
-     "ALB",
-     "SRB",
-     "BIH",
      "MNE",
-     "CYP",
-     "XKX",
-     "CYN"
+     "XKX"
     ]
    },
    {
@@ -6557,10 +6571,7 @@
     "desc": "West African empire on the Niger, just beginning its rise under Sunni Ali. Will dominate the trans-Saharan trade and inherit Mali's mantle as the region's great power.",
     "countries": [
      "MLI",
-     "NER",
-     "BFA",
-     "SEN",
-     "MRT"
+     "NER"
     ]
    },
    {
@@ -6776,7 +6787,10 @@
      "GNB",
      "LBR",
      "SLE",
-     "GMB"
+     "GMB",
+     "BFA",
+     "SEN",
+     "MRT"
     ]
    },
    {
@@ -6960,6 +6974,47 @@
      "RU-YEV",
      "RU-ZAB"
     ]
+   },
+   {
+    "name": "Serbian Despotate (Ottoman vassal)",
+    "capital": "Smederevo",
+    "type": "Vassal despotate",
+    "color": "#8a6b4a",
+    "desc": "The Serbian Despotate survives as an Ottoman vassal until 1459.",
+    "countries": [
+     "SRB"
+    ]
+   },
+   {
+    "name": "Kingdom of Bosnia",
+    "capital": "Jajce",
+    "type": "Kingdom",
+    "color": "#6a7a5a",
+    "desc": "Bosnia remains independent until the Ottoman conquest of 1463.",
+    "countries": [
+     "BIH"
+    ]
+   },
+   {
+    "name": "League of Lezhë (Skanderbeg)",
+    "capital": "Krujë",
+    "type": "Princely league",
+    "color": "#7a4a4a",
+    "desc": "Skanderbeg holds Albania against the Ottomans from 1443 until his death in 1468.",
+    "countries": [
+     "ALB"
+    ]
+   },
+   {
+    "name": "Kingdom of Cyprus (Lusignan)",
+    "capital": "Nicosia",
+    "type": "Crusader kingdom",
+    "color": "#6b6b8a",
+    "desc": "Lusignan Cyprus; Venice takes it in 1489 and the Ottomans only in 1570–71.",
+    "countries": [
+     "CYP",
+     "CYN"
+    ]
    }
   ]
  },
@@ -6998,22 +7053,22 @@
    },
    {
     "id": "geo-publication-of-the-prince-1513",
-    "name": "Publication of The Prince",
+    "name": "Machiavelli writes The Prince",
     "year": 1513,
     "lat": 43.77,
     "lon": 11.26,
-    "desc": "Niccolò Machiavelli writes *Il Principe* in Florence, dedicated to Lorenzo de' Medici. The first modern treatise on politics as craft rather than moral philosophy. Banned by the Church; indispensable to every subsequent political thinker.",
+    "desc": "Niccolò Machiavelli writes *Il Principe* in Florence, dedicated to Lorenzo de' Medici. The first modern treatise on politics as craft rather than moral philosophy. Banned by the Church; indispensable to every subsequent political thinker. Printed posthumously in 1532.",
     "wiki": "The_Prince"
    }
   ],
   "polities": [
    {
-    "name": "Holy Roman Empire",
+    "name": "Holy Roman Empire (Maximilian I)",
     "capital": "Vienna",
     "type": "Elective monarchy",
     "color": "#6b7a4a",
-    "desc": "Charles V rules — king of Spain, Holy Roman Emperor, ruler of the Netherlands, Naples, and the Spanish colonies in the Americas. The closest any power has come to universal monarchy in Europe since Rome. Luther's challenge will fracture his empire religiously even as external wars strain it militarily.",
-    "note": "Rendered here as a single unit per the historical moment — the HRE in 1517 still functioned as a real political entity before the Reformation shattered it.",
+    "desc": "Maximilian I is emperor (until 1519), ruling a loose federation of German princes, prince-bishops and free cities. Habsburg marriages have made his grandson Charles heir to Spain, Burgundy and Austria; Luther's challenge this year will fracture the empire religiously.",
+    "note": "ITA is shown whole; only northern Italy was imperial (Naples and Sicily belong to the Crown of Spain).",
     "countries": [
      "DEU",
      "AUT",
@@ -7023,26 +7078,7 @@
      "BEL",
      "LUX",
      "SVN",
-     "ITA",
-     "ESP",
-     "PRT",
-     "MEX",
-     "COL",
-     "VEN",
-     "ECU",
-     "PER",
-     "BOL",
-     "CHL",
-     "ARG",
-     "PRY",
-     "URY",
-     "CUB",
-     "DOM",
-     "HTI",
-     "HRV",
-     "HUN",
-     "SVK",
-     "PRI"
+     "ITA"
     ]
    },
    {
@@ -7663,7 +7699,6 @@
      "SLV",
      "GTM",
      "BLZ",
-     "JAM",
      "TTO"
     ]
    },
@@ -7708,7 +7743,12 @@
      "BRA",
      "GUY",
      "SUR",
-     "GUF"
+     "GUF",
+     "COL",
+     "VEN",
+     "ARG",
+     "PRY",
+     "URY"
     ]
    },
    {
@@ -7898,6 +7938,43 @@
      "RU-YAN",
      "RU-YEV",
      "RU-ZAB"
+    ]
+   },
+   {
+    "name": "Crown of Spain (Charles I)",
+    "capital": "Valladolid",
+    "type": "Composite monarchy",
+    "color": "#b8863b",
+    "desc": "Charles of Habsburg has been king of Castile and Aragon since 1516, with Naples, Sicily and the first Caribbean colonies. In 1519 he is elected Holy Roman Emperor as Charles V, the closest any power has come to universal monarchy in Europe since Rome.",
+    "countries": [
+     "ESP",
+     "CUB",
+     "DOM",
+     "PRI",
+     "JAM",
+     "HTI"
+    ]
+   },
+   {
+    "name": "Kingdom of Portugal (Manuel I)",
+    "capital": "Lisbon",
+    "type": "Maritime monarchy",
+    "color": "#5a7a4a",
+    "desc": "Manuel I presides over the Estado da India and the first claims on Brazil's coast.",
+    "countries": [
+     "PRT"
+    ]
+   },
+   {
+    "name": "Kingdom of Hungary (Jagiellon)",
+    "capital": "Buda",
+    "type": "Elective monarchy",
+    "color": "#7a5a6a",
+    "desc": "Under the Jagiellon kings, Hungary (with Croatia and upper Hungary) faces the Ottomans; Mohács is nine years away.",
+    "countries": [
+     "HUN",
+     "SVK",
+     "HRV"
     ]
    }
   ]
@@ -8636,9 +8713,7 @@
      "JAM",
      "BHS",
      "BLZ",
-     "BRB",
-     "TTO",
-     "GUY"
+     "BRB"
     ],
     "subdivisions": [
      "09",
@@ -8758,7 +8833,8 @@
      "PRY",
      "URY",
      "PHL",
-     "PRI"
+     "PRI",
+     "TTO"
     ]
    },
    {
@@ -9070,8 +9146,7 @@
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
     "fill": true,
     "countries": [
-     "BRA",
-     "SUR"
+     "BRA"
     ]
    },
    {
@@ -9149,6 +9224,16 @@
      "MAR",
      "ESH"
     ]
+   },
+   {
+    "name": "Dutch Guiana colonies",
+    "type": "Colonial administration",
+    "color": "#c98a4a",
+    "desc": "Dutch colonies of Essequibo, Demerara and Berbice (British from 1814) and Suriname.",
+    "countries": [
+     "GUY",
+     "SUR"
+    ]
    }
   ]
  },
@@ -9171,9 +9256,9 @@
     "id": "geo-publication-of-the-wealth-of-nations-1776",
     "name": "Publication of *The Wealth of Nations*",
     "year": 1776,
-    "lat": 55.9533,
-    "lon": -3.1883,
-    "desc": "Adam Smith publishes *An Inquiry into the Nature and Causes of the Wealth of Nations* in Edinburgh. The foundational text of modern economics. Smith is sharply critical of chartered monopolies like the East India Company — which will be reformed within a decade partly in response.",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "desc": "Adam Smith publishes *An Inquiry into the Nature and Causes of the Wealth of Nations* in London (Strahan and Cadell, 9 March 1776). The foundational text of modern economics. Smith is sharply critical of chartered monopolies like the East India Company — which will be reformed within a decade partly in response.",
     "wiki": "The_Wealth_of_Nations"
    },
    {
@@ -9659,8 +9744,6 @@
     "color": "#8a6b6b",
     "desc": "Catherine the Great rules. Russia is expanding against the Ottomans in the south and partitioning Poland in the west. Pugachev's revolt has just been crushed.",
     "countries": [
-     "BLR",
-     "LTU",
      "LVA",
      "EST",
      "UKR",
@@ -9729,7 +9812,9 @@
      "RU-SA",
      "RU-KAM",
      "RU-CHU",
-     "02"
+     "02",
+     "BY-VI",
+     "BY-MA"
     ]
    },
    {
@@ -10092,7 +10177,6 @@
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
     "fill": true,
     "countries": [
-     "POL",
      "MDA",
      "SVK"
     ],
@@ -10141,6 +10225,18 @@
      "RU-SAK",
      "RU-TY",
      "RU-X01~"
+    ]
+   },
+   {
+    "name": "Polish-Lithuanian Commonwealth",
+    "capital": "Warsaw",
+    "type": "Elective monarchy",
+    "color": "#8a5a5a",
+    "desc": "Reduced by the First Partition (1772); Russia takes eastern Belarus. The Second and Third Partitions (1793, 1795) will erase it.",
+    "countries": [
+     "POL",
+     "LTU",
+     "BLR"
     ]
    }
   ]
@@ -10224,8 +10320,7 @@
      "SVN",
      "HRV",
      "ESP",
-     "POL",
-     "PRI"
+     "POL"
     ],
     "subdivisions": [
      "FR-01",
@@ -10822,7 +10917,8 @@
      "CHL",
      "ARG",
      "PRY",
-     "URY"
+     "URY",
+     "PRI"
     ]
    },
    {
@@ -11345,7 +11441,6 @@
      "BGD",
      "MMR",
      "LKA",
-     "EGY",
      "ZAF",
      "FLK"
     ],
@@ -11725,11 +11820,7 @@
      "KAZ",
      "ARM",
      "AZE",
-     "GEO",
-     "KGZ",
-     "TJK",
-     "UZB",
-     "TKM"
+     "GEO"
     ],
     "subdivisions": [
      "RU-MOS",
@@ -12225,6 +12316,29 @@
     "desc": "Annexed by France in 1853.",
     "countries": [
      "NCL"
+    ]
+   },
+   {
+    "name": "Central Asian khanates (Bukhara, Khiva, Kokand)",
+    "capital": "Bukhara",
+    "type": "Khanates",
+    "color": "#7a6a4a",
+    "desc": "Still independent: Russia takes Tashkent in 1865, Bukhara in 1868, Khiva in 1873 and the Turkmen at Geok Tepe in 1881.",
+    "countries": [
+     "UZB",
+     "TJK",
+     "TKM",
+     "KGZ"
+    ]
+   },
+   {
+    "name": "Khedivate of Egypt (Ottoman)",
+    "capital": "Cairo",
+    "type": "Autonomous Ottoman province",
+    "color": "#4a7a6b",
+    "desc": "Nominally Ottoman, effectively autonomous under the dynasty of Muhammad Ali; the Suez Canal is under construction. British occupation comes in 1882.",
+    "countries": [
+     "EGY"
     ]
    }
   ]
@@ -12885,7 +12999,9 @@
      "IRQ",
      "SAU",
      "YEM",
-     "LBY"
+     "LBY",
+     "ALB",
+     "XKX"
     ]
    },
    {
@@ -13102,9 +13218,7 @@
      "SRB",
      "ROU",
      "BGR",
-     "MNE",
-     "ALB",
-     "XKX"
+     "MNE"
     ]
    },
    {
@@ -14405,9 +14519,7 @@
     "color": "#3a3a3a",
     "desc": "Hitler's Third Reich. The Rhineland remilitarized (1936), Austria annexed (1938), Czechoslovakia dismembered (1938–39). Wehrmacht rearmament at scale. Nuremberg Laws codify racial categories. Jewish emigration rises; concentration camps are still for political prisoners but will soon be for more. Four-Year Plan gears the economy for war.",
     "countries": [
-     "DEU",
-     "AUT",
-     "CZE"
+     "DEU"
     ]
    },
    {
@@ -15267,8 +15379,7 @@
      "POL",
      "HUN",
      "ROU",
-     "BGR",
-     "SVK"
+     "BGR"
     ],
     "subdivisions": [
      "RU-KGD",
@@ -15315,6 +15426,27 @@
     "desc": "Ceded by Spain to the United States in 1898; US citizenship since 1917.",
     "countries": [
      "PRI"
+    ]
+   },
+   {
+    "name": "First Austrian Republic (Schuschnigg)",
+    "capital": "Vienna",
+    "type": "Authoritarian corporate state",
+    "color": "#8a7a6a",
+    "desc": "The Fatherland Front regime; annexed by Germany in the Anschluss of March 1938.",
+    "countries": [
+     "AUT"
+    ]
+   },
+   {
+    "name": "Czechoslovakia",
+    "capital": "Prague",
+    "type": "Parliamentary republic",
+    "color": "#5a6a8a",
+    "desc": "Central Europe's last democracy; dismembered after Munich (1938) and occupied in March 1939.",
+    "countries": [
+     "CZE",
+     "SVK"
     ]
    }
   ]
@@ -16561,7 +16693,6 @@
     "desc": "Britain occupies northwestern Germany, northern Italy, Greece, and parts of the former Italian empire. Attlee's Labour government is elected in July. The empire is bankrupt; India will be independent within two years.",
     "countries": [
      "GBR",
-     "IRL",
      "AUS",
      "NZL",
      "IND",
@@ -17022,14 +17153,9 @@
      "PRT",
      "ESP",
      "TUR",
-     "FIN",
-     "NOR",
-     "DNK",
-     "NLD",
-     "BEL",
-     "LUX",
      "ESH",
-     "SJM"
+     "SJM",
+     "IRL"
     ]
    },
    {
@@ -17305,6 +17431,29 @@
     "desc": "Annexed by France in 1853.",
     "countries": [
      "NCL"
+    ]
+   },
+   {
+    "name": "Liberated Western Europe",
+    "type": "Allied-liberated states",
+    "color": "#6a7a8a",
+    "desc": "Norway, Denmark, the Netherlands, Belgium and Luxembourg, all invaded in 1940 and liberated in 1944–45, return to their governments-in-exile.",
+    "countries": [
+     "NOR",
+     "DNK",
+     "NLD",
+     "BEL",
+     "LUX"
+    ]
+   },
+   {
+    "name": "Finland (post-armistice)",
+    "capital": "Helsinki",
+    "type": "Parliamentary republic",
+    "color": "#7a8a9a",
+    "desc": "Co-belligerent with Germany 1941–44; the Moscow Armistice of 1944 leaves Finland independent but under Soviet pressure.",
+    "countries": [
+     "FIN"
     ]
    }
   ]
@@ -17615,7 +17764,6 @@
      "DNK",
      "ISL",
      "PRT",
-     "ESP",
      "GRC",
      "TUR",
      "AUS",
@@ -18152,8 +18300,7 @@
     "color": "#a84a3a",
     "desc": "Castro's Cuba, Soviet-aligned since 1961, survives the Bay of Pigs, the Missile Crisis, and the US embargo through massive Soviet subsidies. In the 1970s Havana becomes an improbable military expeditionary power — 30,000 Cuban troops fight for the MPLA in Angola from 1975; others deploy to Ethiopia in 1977 against Somalia. Soviet subsidies keep the economy afloat; when they stop in 1991 the 'Special Period' of malnutrition and blackouts begins.",
     "countries": [
-     "CUB",
-     "NIC"
+     "CUB"
     ]
    },
    {
@@ -18425,6 +18572,16 @@
     "desc": "Ceded by Spain to the United States in 1898; US citizenship since 1917.",
     "countries": [
      "PRI"
+    ]
+   },
+   {
+    "name": "Nicaragua (Somoza)",
+    "capital": "Managua",
+    "type": "US-aligned dictatorship",
+    "color": "#8a6b4a",
+    "desc": "The Somoza family dictatorship, a close US ally, until the Sandinista revolution of 1979.",
+    "countries": [
+     "NIC"
     ]
    }
   ]
@@ -22563,7 +22720,7 @@
     "capital": "Moscow",
     "type": "Federal republic",
     "color": "#8a6b6b",
-    "desc": "Engaged in a war in Ukraine since 2022 that has reshaped European security. Strategic partner of China; primary supplier of energy to Asia.",
+    "desc": "Annexed Crimea in 2014; backs the Donbas separatists in a frozen war. Strategic partner of China; primary supplier of energy to Asia.",
     "subdivisions": [
      "RU-MOS",
      "RU-MOW",
@@ -22664,7 +22821,7 @@
     "capital": "Riyadh / Abu Dhabi / Doha",
     "type": "Energy monarchies",
     "color": "#c9893f",
-    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's MGX and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
+    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's Mubadala and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
     "note": "The first region since medieval Venice where a small population has wielded world-historical influence by sitting on a choke point of the global economy.",
     "countries": [
      "SAU",
@@ -22680,7 +22837,7 @@
     "capital": "Tehran",
     "type": "Theocratic republic",
     "color": "#2a5a5a",
-    "desc": "The Islamic Republic has entered its fifth decade. The 'Axis of Resistance' — Hezbollah, Houthis, Iraqi militias, Assad until 2024 — has been badly battered by the 2023–2025 wars. Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
+    "desc": "The Islamic Republic has entered its fifth decade. Axis of Resistance at its height: Hezbollah, Houthis, Iraqi militias, Assad's Syria. US quits the JCPOA (2018); Soleimani killed (2020). Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
     "countries": [
      "IRN"
     ]
@@ -24375,7 +24532,7 @@
     "capital": "Moscow",
     "type": "Federal republic",
     "color": "#8a6b6b",
-    "desc": "Engaged in a war in Ukraine since 2022 that has reshaped European security. Strategic partner of China; primary supplier of energy to Asia.",
+    "desc": "Annexed Crimea in 2014; backs the Donbas separatists in a frozen war. Strategic partner of China; primary supplier of energy to Asia.",
     "subdivisions": [
      "RU-MOS",
      "RU-MOW",
@@ -24476,7 +24633,7 @@
     "capital": "Riyadh / Abu Dhabi / Doha",
     "type": "Energy monarchies",
     "color": "#c9893f",
-    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's MGX and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
+    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's Mubadala and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
     "note": "The first region since medieval Venice where a small population has wielded world-historical influence by sitting on a choke point of the global economy.",
     "countries": [
      "SAU",
@@ -24492,7 +24649,7 @@
     "capital": "Tehran",
     "type": "Theocratic republic",
     "color": "#2a5a5a",
-    "desc": "The Islamic Republic has entered its fifth decade. The 'Axis of Resistance' — Hezbollah, Houthis, Iraqi militias, Assad until 2024 — has been badly battered by the 2023–2025 wars. Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
+    "desc": "The Islamic Republic has entered its fifth decade. Axis of Resistance at its height: Hezbollah, Houthis, Iraqi militias, Assad's Syria. US quits the JCPOA (2018); Soleimani killed (2020). Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
     "countries": [
      "IRN"
     ]
@@ -26185,7 +26342,7 @@
     "capital": "Moscow",
     "type": "Federal republic",
     "color": "#8a6b6b",
-    "desc": "Engaged in a war in Ukraine since 2022 that has reshaped European security. Strategic partner of China; primary supplier of energy to Asia.",
+    "desc": "Annexed Crimea in 2014; backs the Donbas separatists in a frozen war. Strategic partner of China; primary supplier of energy to Asia.",
     "subdivisions": [
      "RU-MOS",
      "RU-MOW",
@@ -26286,7 +26443,7 @@
     "capital": "Riyadh / Abu Dhabi / Doha",
     "type": "Energy monarchies",
     "color": "#c9893f",
-    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's MGX and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
+    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's Mubadala and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
     "note": "The first region since medieval Venice where a small population has wielded world-historical influence by sitting on a choke point of the global economy.",
     "countries": [
      "SAU",
@@ -26302,7 +26459,7 @@
     "capital": "Tehran",
     "type": "Theocratic republic",
     "color": "#2a5a5a",
-    "desc": "The Islamic Republic has entered its fifth decade. The 'Axis of Resistance' — Hezbollah, Houthis, Iraqi militias, Assad until 2024 — has been badly battered by the 2023–2025 wars. Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
+    "desc": "The Islamic Republic has entered its fifth decade. Axis of Resistance at its height: Hezbollah, Houthis, Iraqi militias, Assad's Syria. US quits the JCPOA (2018); Soleimani killed (2020). Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
     "countries": [
      "IRN"
     ]
@@ -27996,7 +28153,7 @@
     "capital": "Moscow",
     "type": "Federal republic",
     "color": "#8a6b6b",
-    "desc": "Engaged in a war in Ukraine since 2022 that has reshaped European security. Strategic partner of China; primary supplier of energy to Asia.",
+    "desc": "Invaded Ukraine in February 2022. Strategic partner of China; primary supplier of energy to Asia.",
     "subdivisions": [
      "RU-MOS",
      "RU-MOW",
@@ -28097,7 +28254,7 @@
     "capital": "Riyadh / Abu Dhabi / Doha",
     "type": "Energy monarchies",
     "color": "#c9893f",
-    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's MGX and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
+    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's Mubadala and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
     "note": "The first region since medieval Venice where a small population has wielded world-historical influence by sitting on a choke point of the global economy.",
     "countries": [
      "SAU",
@@ -28113,7 +28270,7 @@
     "capital": "Tehran",
     "type": "Theocratic republic",
     "color": "#2a5a5a",
-    "desc": "The Islamic Republic has entered its fifth decade. The 'Axis of Resistance' — Hezbollah, Houthis, Iraqi militias, Assad until 2024 — has been badly battered by the 2023–2025 wars. Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
+    "desc": "The Islamic Republic has entered its fifth decade. Axis of Resistance at its height: Hezbollah, Houthis, Iraqi militias, Assad's Syria. US quits the JCPOA (2018); Soleimani killed (2020). Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
     "countries": [
      "IRN"
     ]
@@ -29806,7 +29963,7 @@
     "capital": "Moscow",
     "type": "Federal republic",
     "color": "#8a6b6b",
-    "desc": "Engaged in a war in Ukraine since 2022 that has reshaped European security. Strategic partner of China; primary supplier of energy to Asia.",
+    "desc": "Invaded Ukraine in February 2022. Strategic partner of China; primary supplier of energy to Asia.",
     "subdivisions": [
      "RU-MOS",
      "RU-MOW",
@@ -29907,7 +30064,7 @@
     "capital": "Riyadh / Abu Dhabi / Doha",
     "type": "Energy monarchies",
     "color": "#c9893f",
-    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's MGX and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
+    "desc": "The six members of the Gulf Cooperation Council — Saudi Arabia, the United Arab Emirates, Qatar, Kuwait, Bahrain, and Oman — sit on roughly a third of the world's proven oil reserves and a sixth of its natural gas. Saudi Aramco is the most profitable company in history. The UAE has become a financial, logistics, and AI hub; Qatar is the single largest LNG exporter; Abu Dhabi's Mubadala and Saudi PIF are pouring tens of billions into datacenter and semiconductor capacity. Vision 2030 and similar programs are attempting to diversify away from hydrocarbons before demand peaks. Politically, the monarchies navigate between Washington, Beijing, and Moscow with unusual freedom of action — buying Russian oil, Chinese 5G, and American F-35s in the same week.",
     "note": "The first region since medieval Venice where a small population has wielded world-historical influence by sitting on a choke point of the global economy.",
     "countries": [
      "SAU",
@@ -29923,7 +30080,7 @@
     "capital": "Tehran",
     "type": "Theocratic republic",
     "color": "#2a5a5a",
-    "desc": "The Islamic Republic has entered its fifth decade. The 'Axis of Resistance' — Hezbollah, Houthis, Iraqi militias, Assad until 2024 — has been badly battered by the 2023–2025 wars. Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
+    "desc": "The Islamic Republic has entered its fifth decade. Axis of Resistance at its height: Hezbollah, Houthis, Iraqi militias, Assad's Syria. US quits the JCPOA (2018); Soleimani killed (2020). Hamas's Oct 7 attack opens a regional war. Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
     "countries": [
      "IRN"
     ]
@@ -33128,15 +33285,6 @@
   "desc": "Trump's 'Liberation Day' tariffs hit nearly every US trading partner. Israel and the United States bomb Iran's nuclear sites in a twelve-day war. China extends its rare-earth controls to goods made abroad. A Moon landing is planned for 2028.",
   "events": [
    {
-    "id": "geo-artemis-iii-planned-lunar-south-pole-landing-2028",
-    "name": "Artemis III — planned lunar south pole landing",
-    "year": 2028,
-    "lat": -89.9,
-    "lon": 0,
-    "desc": "Planned for 2028. Artemis III will land two astronauts — including the first woman — near the lunar south pole using SpaceX's Starship Human Landing System, fueled on-orbit by tanker Starships. The target region, around Shackleton Crater and adjacent permanently shadowed craters, contains water-ice deposits that could serve as propellant for deeper missions. If successful, it inaugurates the first sustained human presence on another celestial body; if delayed, China's planned 2029–30 landing arrives first. Either way, the strategic meaning is clear: the lunar surface, empty since 1972, will host humans from at least two nations before 2030.",
-    "wiki": "Artemis_III"
-   },
-   {
     "id": "geo-liberation-day-tariffs-2025",
     "name": "Trump's 'Liberation Day' tariffs hit nearly every US trading partner",
     "year": 2025,
@@ -34963,7 +35111,7 @@
     "year": 2026,
     "lat": 28.5729,
     "lon": -80.649,
-    "desc": "April 2026. A Space Launch System rocket lifts off from Kennedy Space Center's Pad 39B carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA's Jeremy Hansen on a ten-day free-return trajectory around the Moon. The first crewed mission beyond low Earth orbit since Apollo 17 in December 1972 — a gap of fifty-three years. Koch becomes the first woman to travel beyond cislunar space; Glover the first person of color; Hansen the first non-American. The mission is Orion's shakedown cruise for Artemis III, which plans a crewed lunar south-pole landing in 2028 using SpaceX's Starship HLS. Behind the symbolism: the United States has re-established human spaceflight capability to the Moon just as China's CNSA targets its own crewed landing before 2030, turning the lunar south pole — with its water-ice deposits — into the next contested frontier.",
+    "desc": "April 2026. A Space Launch System rocket lifts off from Kennedy Space Center's Pad 39B carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA's Jeremy Hansen on a ten-day free-return trajectory around the Moon. The first crewed mission beyond low Earth orbit since Apollo 17 in December 1972 — a gap of fifty-three years. Koch becomes the first woman to travel beyond cislunar space; Glover the first person of color; Hansen the first non-American. The mission is Orion's shakedown cruise ahead of the Artemis III docking test in Earth orbit (2027) and the Artemis IV south-pole landing planned for 2028. Behind the symbolism: the United States has re-established human spaceflight capability to the Moon just as China's CNSA targets its own crewed landing before 2030, turning the lunar south pole — with its water-ice deposits — into the next contested frontier.",
     "wiki": "Artemis_II"
    },
    {
@@ -34984,6 +35132,15 @@
     "lon": -47.8828,
     "desc": "On 25 October 2026 Lula beat Flávio Bolsonaro 51.79% to 48.21%, the first comeback from a first-round loss since 1988. Flávio refused to recognize the result and sought annulment.",
     "wiki": "2026_Brazilian_general_election"
+   },
+   {
+    "id": "geo-artemis-iv-planned-lunar-south-pole-landing-2028",
+    "name": "Artemis IV — planned lunar south pole landing",
+    "year": 2028,
+    "lat": -89.9,
+    "lon": 0,
+    "desc": "Planned for 2028 (forecast). NASA's 2026 restructuring made Artemis III a 2027 crewed test in low Earth orbit, docking Orion with test versions of the SpaceX and Blue Origin landers. Artemis IV is now the first crewed Artemis landing: two of four astronauts descend near the lunar south pole for about a week while the others stay in lunar orbit. The target region contains water-ice deposits that could serve as propellant for deeper missions. China's planned crewed landing before 2030 makes it a race: the lunar surface, empty since 1972, will likely host humans from two nations before 2030.",
+    "wiki": "Artemis_IV"
    }
   ],
   "polities": [

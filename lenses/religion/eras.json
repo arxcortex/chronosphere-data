@@ -1044,7 +1044,7 @@
     "year": -528,
     "lat": 24.6958,
     "lon": 84.9914,
-    "desc": "Siddhartha Gautama awakens under the bodhi tree at Bodh Gaya. Dukkha, anatta, the Eightfold Path — a diagnosis of suffering without recourse to gods. Buddhism begins.",
+    "desc": "Siddhartha Gautama awakens under the bodhi tree at Bodh Gaya. Dukkha, anatta, the Eightfold Path — a diagnosis of suffering without recourse to gods. Buddhism begins. Traditional date; many scholars place it c. 450 BCE.",
     "wiki": "Gautama_Buddha"
    },
    {
@@ -1455,20 +1455,13 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "HTI",
-     "DOM",
-     "BHS",
      "PAN",
      "CRI",
      "NIC",
      "HND",
      "SLV",
      "GTM",
-     "BLZ",
-     "JAM",
-     "CUB",
-     "TTO",
-     "PRI"
+     "BLZ"
     ]
    },
    {
@@ -1504,16 +1497,11 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "LBN",
      "JOR",
      "ARE",
      "QAT",
      "KWT",
-     "IRQ",
      "OMN",
-     "SYR",
-     "ARM",
-     "GEO",
      "YEM",
      "SAU"
     ]
@@ -1623,6 +1611,72 @@
      "CN-NM",
      "CN-QH",
      "CN-XJ"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "HTI",
+     "DOM",
+     "BHS",
+     "JAM",
+     "CUB",
+     "TTO",
+     "PRI"
+    ]
+   },
+   {
+    "name": "Canaanite and Phoenician religion",
+    "type": "Regional fill",
+    "color": "#7f6e5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "LBN"
+    ]
+   },
+   {
+    "name": "Mesopotamian religion",
+    "type": "Regional fill",
+    "color": "#76705e",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "IRQ"
+    ]
+   },
+   {
+    "name": "Canaanite and Aramean religion",
+    "type": "Regional fill",
+    "color": "#7f6e5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "SYR"
+    ]
+   },
+   {
+    "name": "Armenian paganism (Zoroastrian-influenced)",
+    "type": "Regional fill",
+    "color": "#76705e",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "ARM"
+    ]
+   },
+   {
+    "name": "Georgian (Kartvelian) paganism",
+    "type": "Regional fill",
+    "color": "#76705e",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "GEO"
     ]
    }
   ]
@@ -2038,17 +2092,10 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "HTI",
-     "DOM",
-     "BHS",
      "PAN",
      "CRI",
      "NIC",
-     "BLZ",
-     "JAM",
-     "CUB",
-     "TTO",
-     "PRI"
+     "BLZ"
     ]
    },
    {
@@ -2098,8 +2145,6 @@
      "QAT",
      "KWT",
      "OMN",
-     "SYR",
-     "GEO",
      "YEM",
      "SAU"
     ]
@@ -2155,6 +2200,42 @@
     "fill": true,
     "countries": [
      "TWN"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "HTI",
+     "DOM",
+     "BHS",
+     "JAM",
+     "CUB",
+     "TTO",
+     "PRI"
+    ]
+   },
+   {
+    "name": "Canaanite and Aramean religion",
+    "type": "Regional fill",
+    "color": "#7f6e5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "SYR"
+    ]
+   },
+   {
+    "name": "Georgian (Kartvelian) paganism",
+    "type": "Regional fill",
+    "color": "#76705e",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "GEO"
     ]
    }
   ]
@@ -2406,16 +2487,14 @@
     "capital": "Nalanda / Dunhuang",
     "type": "Dharmic renouncer",
     "color": "#c98a4a",
-    "desc": "Theravada in South/SE Asia; Mahayana spreading rapidly across China, Central Asia, and Korea. The great monastic universities are being founded.",
+    "desc": "Theravada in South/SE Asia; Mahayana spreading across China and Central Asia. The great monastic universities are being founded.",
     "countries": [
      "PAK",
      "MMR",
      "THA",
      "KHM",
      "LAO",
-     "VNM",
-     "PRK",
-     "KOR"
+     "VNM"
     ],
     "subdivisions": [
      "CN-BJ",
@@ -2599,17 +2678,10 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "HTI",
-     "DOM",
-     "BHS",
      "PAN",
      "CRI",
      "NIC",
-     "BLZ",
-     "JAM",
-     "CUB",
-     "TTO",
-     "PRI"
+     "BLZ"
     ]
    },
    {
@@ -2703,6 +2775,33 @@
     "countries": [
      "ISL",
      "MNE"
+    ]
+   },
+   {
+    "name": "Korean shamanism (Buddhism arrives 372–384)",
+    "type": "Regional fill",
+    "color": "#6f6a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "PRK",
+     "KOR"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "HTI",
+     "DOM",
+     "BHS",
+     "JAM",
+     "CUB",
+     "TTO",
+     "PRI"
     ]
    }
   ]
@@ -3161,17 +3260,10 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "HTI",
-     "DOM",
-     "BHS",
      "PAN",
      "CRI",
      "NIC",
-     "BLZ",
-     "JAM",
-     "CUB",
-     "TTO",
-     "PRI"
+     "BLZ"
     ]
    },
    {
@@ -3261,6 +3353,22 @@
     "fill": true,
     "countries": [
      "ISL"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "HTI",
+     "DOM",
+     "BHS",
+     "JAM",
+     "CUB",
+     "TTO",
+     "PRI"
     ]
    }
   ]
@@ -3687,23 +3795,16 @@
     ]
    },
    {
-    "name": "Mesoamerican religion (Catholic after conquest)",
+    "name": "Mesoamerican religion",
     "type": "Regional fill",
     "color": "#7a6a4f",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "HTI",
-     "DOM",
-     "BHS",
      "PAN",
      "CRI",
      "NIC",
-     "BLZ",
-     "JAM",
-     "CUB",
-     "TTO",
-     "PRI"
+     "BLZ"
     ]
    },
    {
@@ -3747,7 +3848,7 @@
     ]
    },
    {
-    "name": "Andean and Amazonian traditions (Catholic after conquest)",
+    "name": "Andean and Amazonian traditions",
     "type": "Regional fill",
     "color": "#5f7466",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -3887,6 +3988,22 @@
      "RU-YAN",
      "RU-YEV",
      "RU-ZAB"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "HTI",
+     "DOM",
+     "BHS",
+     "JAM",
+     "CUB",
+     "TTO",
+     "PRI"
     ]
    }
   ]
@@ -4333,23 +4450,16 @@
     ]
    },
    {
-    "name": "Mesoamerican religion (Catholic after conquest)",
+    "name": "Mesoamerican religion",
     "type": "Regional fill",
     "color": "#7a6a4f",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "HTI",
-     "DOM",
-     "BHS",
      "PAN",
      "CRI",
      "NIC",
-     "BLZ",
-     "JAM",
-     "CUB",
-     "TTO",
-     "PRI"
+     "BLZ"
     ]
    },
    {
@@ -4393,7 +4503,7 @@
     ]
    },
    {
-    "name": "Andean and Amazonian traditions (Catholic after conquest)",
+    "name": "Andean and Amazonian traditions",
     "type": "Regional fill",
     "color": "#5f7466",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -4514,6 +4624,22 @@
      "RU-YAN",
      "RU-YEV",
      "RU-ZAB"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "HTI",
+     "DOM",
+     "BHS",
+     "JAM",
+     "CUB",
+     "TTO",
+     "PRI"
     ]
    }
   ]
@@ -4945,17 +5071,14 @@
     ]
    },
    {
-    "name": "Mesoamerican religion (Catholic after conquest)",
+    "name": "Mesoamerican religion",
     "type": "Regional fill",
     "color": "#7a6a4f",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "BHS",
      "NIC",
-     "BLZ",
-     "JAM",
-     "TTO"
+     "BLZ"
     ]
    },
    {
@@ -5011,7 +5134,7 @@
     ]
    },
    {
-    "name": "Andean and Amazonian traditions (Catholic after conquest)",
+    "name": "Andean and Amazonian traditions",
     "type": "Regional fill",
     "color": "#5f7466",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -5125,6 +5248,18 @@
      "RU-YAN",
      "RU-YEV",
      "RU-ZAB"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "BHS",
+     "JAM",
+     "TTO"
     ]
    }
   ]
@@ -5612,17 +5747,14 @@
     ]
    },
    {
-    "name": "Mesoamerican religion (Catholic after conquest)",
+    "name": "Mesoamerican religion",
     "type": "Regional fill",
     "color": "#7a6a4f",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "BHS",
      "NIC",
-     "BLZ",
-     "JAM",
-     "TTO"
+     "BLZ"
     ]
    },
    {
@@ -5662,7 +5794,7 @@
     ]
    },
    {
-    "name": "Andean and Amazonian traditions (Catholic after conquest)",
+    "name": "Andean and Amazonian traditions",
     "type": "Regional fill",
     "color": "#5f7466",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -5771,6 +5903,18 @@
      "RU-YAN",
      "RU-YEV",
      "RU-ZAB"
+    ]
+   },
+   {
+    "name": "Taíno and Caribbean traditions",
+    "type": "Regional fill",
+    "color": "#6f7a5a",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "BHS",
+     "JAM",
+     "TTO"
     ]
    }
   ]
@@ -7172,11 +7316,7 @@
      "TKM",
      "ARM",
      "AZE",
-     "GEO",
-     "MDA",
-     "EST",
-     "LVA",
-     "LTU"
+     "GEO"
     ]
    },
    {
@@ -7229,7 +7369,8 @@
      "JAM",
      "TTO",
      "PRI",
-     "GUF"
+     "GUF",
+     "LTU"
     ],
     "subdivisions": [
      "44",
@@ -7359,7 +7500,9 @@
      "NZL",
      "ZAF",
      "FLK",
-     "SJM"
+     "SJM",
+     "EST",
+     "LVA"
     ],
     "subdivisions": [
      "01",
@@ -7431,7 +7574,8 @@
      "ROU",
      "SRB",
      "BIH",
-     "CYN"
+     "CYN",
+     "MDA"
     ]
    },
    {
