@@ -1,0 +1,80 @@
+# Data track: every 6 hours, no permission needed.
+# Builds now.json on the `live` branch, validates it, then republishes GitHub Pages.
+# Never pushes to main and never triggers a Netlify deploy.
+name: Refresh Now lens
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"      # 00:17, 06:17, 12:17, 18:17 UTC
+  workflow_dispatch:
+    inputs:
+      no_grok:
+        description: "Skip the Grok step (deterministic fallback)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-now
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out the live branch (create it on first run)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          url="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$url" live >/dev/null; then
+            git clone --quiet --branch live --depth 1 "$url" live
+          else
+            mkdir live
+            git -C live init -q -b live
+            git -C live remote add origin "$url"
+          fi
+          git -C live config user.name "grok-bot"
+          git -C live config user.email "grok-bot@users.noreply.github.com"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build now.json
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+          LIVE_DIR: live
+        run: python scripts/build_now.py ${{ inputs.no_grok && '--no-grok' || '' }}
+
+      - name: Validate (restore last good files on failure)
+        run: |
+          if ! python scripts/validate.py live/now/now.json live/now/now_30d.json; then
+            git -C live checkout -- now 2>/dev/null || true
+            echo "::error::Validation failed. The previous now.json stays live."
+            exit 1
+          fi
+
+      - name: Commit to live
+        run: |
+          cd live
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Now refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q origin live
+
+  publish:
+    needs: build
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

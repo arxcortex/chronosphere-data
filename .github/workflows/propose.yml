@@ -1,0 +1,34 @@
+# Proposal track: once a week Grok reviews Chronosphere and opens up to 3 proposal issues.
+name: Weekly proposals
+
+on:
+  schedule:
+    - cron: "41 15 * * 0"       # Sundays 15:41 UTC (05:41 in Hawaii)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Make sure the labels exist
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create proposal --color B87333 --description "Grok Bot idea awaiting approval" --force
+          gh label create approved --color 2E7D32 --force
+          gh label create rejected --color 8B0000 --force
+      - name: Open proposals
+        env:
+          GH_TOKEN: ${{ github.token }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+        run: python scripts/propose.py

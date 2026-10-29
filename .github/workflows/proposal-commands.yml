@@ -1,0 +1,54 @@
+# Your reply on a proposal issue: /approve, /reject, /revise <note>.
+# Runs only for the repo owner's comments. /approve opens a pull request; it never merges.
+name: Proposal commands
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  handle:
+    if: >-
+      !github.event.issue.pull_request &&
+      contains(github.event.issue.labels.*.name, 'proposal') &&
+      github.event.comment.user.login == github.repository_owner &&
+      startsWith(github.event.comment.body, '/')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+      - name: Check out the site repo
+        if: vars.SITE_REPO != ''
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ vars.SITE_REPO }}
+          token: ${{ secrets.BOT_TOKEN }}
+          path: site
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Git identity
+        run: |
+          for d in . site; do [ -d "$d/.git" ] || continue
+            git -C "$d" config user.name "grok-bot"
+            git -C "$d" config user.email "grok-bot@users.noreply.github.com"
+          done
+      - name: Handle command
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL }}
+          SITE_REPO: ${{ vars.SITE_REPO }}
+          SITE_DIR: ${{ github.workspace }}/site
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+        run: python scripts/handle_command.py

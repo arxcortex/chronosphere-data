@@ -1,0 +1,363 @@
+{
+  "name": "Bridges",
+  "version": 0,
+  "status": "draft",
+  "bridges": [
+    {
+      "idea_id": "protestantism",
+      "lens": "religion",
+      "era_year": 1517,
+      "event_year": 1517,
+      "lat": 51.8678,
+      "lon": 12.6465,
+      "event_slug": "religion-95-theses-1517",
+      "relation": "opens",
+      "note": "Luther posts the 95 Theses at Wittenberg; Reformation begins."
+    },
+    {
+      "idea_id": "protestantism",
+      "lens": "geo",
+      "era_year": 1517,
+      "event_year": 1517,
+      "lat": 51.866,
+      "lon": 12.648,
+      "event_slug": "geo-luther-s-ninety-five-theses-1517",
+      "relation": "opens",
+      "note": "Geo-lens view of the same Wittenberg event."
+    },
+    {
+      "idea_id": "protestantism",
+      "lens": "religion",
+      "era_year": 1517,
+      "event_year": 1521,
+      "lat": 49.6305,
+      "lon": 8.3625,
+      "event_slug": "religion-diet-of-worms-1521",
+      "relation": "peaks",
+      "note": "Luther refuses to recant; Lutheran break made final."
+    },
+    {
+      "idea_id": "anglicanism",
+      "lens": "religion",
+      "era_year": 1517,
+      "event_year": 1534,
+      "lat": 51.4994,
+      "lon": -0.1248,
+      "event_slug": "religion-henry-viii-breaks-from-rome-1534",
+      "relation": "opens",
+      "note": "Act of Supremacy founds the Church of England."
+    },
+    {
+      "idea_id": "tridentine_catholicism",
+      "lens": "religion",
+      "era_year": 1517,
+      "event_year": 1545,
+      "lat": 46.0667,
+      "lon": 11.1167,
+      "event_slug": "religion-council-of-trent-1545",
+      "relation": "opens",
+      "note": "Trent defines Counter-Reformation doctrine."
+    },
+    {
+      "idea_id": "tridentine_catholicism",
+      "lens": "religion",
+      "era_year": 1517,
+      "event_year": 1540,
+      "lat": 41.9028,
+      "lon": 12.4964,
+      "event_slug": "religion-society-of-jesus-founded-1540",
+      "relation": "context",
+      "note": "Jesuits are the Counter-Reformation's main instrument."
+    },
+    {
+      "idea_id": "roman_catholicism",
+      "lens": "religion",
+      "era_year": 1054,
+      "event_year": 1054,
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "event_slug": "religion-the-great-schism-1054",
+      "relation": "opens",
+      "note": "East-West split; Latin church as a separate communion."
+    },
+    {
+      "idea_id": "eastern_orthodoxy",
+      "lens": "religion",
+      "era_year": 1054,
+      "event_year": 1054,
+      "lat": 41.0082,
+      "lon": 28.9784,
+      "event_slug": "religion-the-great-schism-1054",
+      "relation": "opens",
+      "note": "Same 1054 split, from the Orthodox side."
+    },
+    {
+      "idea_id": "apostolic_christianity",
+      "lens": "religion",
+      "era_year": 313,
+      "event_year": 325,
+      "lat": 40.4297,
+      "lon": 29.7216,
+      "event_slug": "religion-council-of-nicaea-325",
+      "relation": "peaks",
+      "note": "First ecumenical council of the undivided church."
+    },
+    {
+      "idea_id": "christianity",
+      "lens": "religion",
+      "era_year": 0,
+      "event_year": 30,
+      "lat": 31.7784,
+      "lon": 35.2298,
+      "event_slug": "religion-resurrection-of-christ-easter-30",
+      "relation": "opens",
+      "note": "Idea year 30 matches the Easter event."
+    },
+    {
+      "idea_id": "augustinian_grace",
+      "lens": "religion",
+      "era_year": 313,
+      "event_year": 386,
+      "lat": 45.4642,
+      "lon": 9.19,
+      "event_slug": "religion-augustine-converts-386",
+      "relation": "opens",
+      "note": "Augustine's conversion in Milan."
+    },
+    {
+      "idea_id": "methodism",
+      "lens": "religion",
+      "era_year": 1700,
+      "event_year": 1738,
+      "lat": 51.5156,
+      "lon": -0.1066,
+      "event_slug": "religion-wesley-s-conversion-1738",
+      "relation": "opens",
+      "note": "Aldersgate, 1738, matches idea year exactly."
+    },
+    {
+      "idea_id": "methodism",
+      "lens": "religion",
+      "era_year": 1700,
+      "event_year": 1740,
+      "lat": 42.3601,
+      "lon": -71.0589,
+      "event_slug": "religion-great-awakening-1740",
+      "relation": "context",
+      "note": "Transatlantic evangelical revival."
+    },
+    {
+      "idea_id": "post_vatican_ii_catholicism",
+      "lens": "religion",
+      "era_year": 1917,
+      "event_year": 1962,
+      "lat": 41.9029,
+      "lon": 12.4534,
+      "event_slug": "religion-second-vatican-council-1962",
+      "relation": "opens",
+      "note": "Vatican II opens 1962, matches idea year."
+    },
+    {
+      "idea_id": "catholic_integralism",
+      "lens": "religion",
+      "era_year": 1789,
+      "event_year": 1870,
+      "lat": 41.9029,
+      "lon": 12.4534,
+      "event_slug": "religion-first-vatican-council-1870",
+      "relation": "context",
+      "note": "Syllabus of Errors (1864) to papal infallibility (1870)."
+    },
+    {
+      "idea_id": "darwinian_selection",
+      "lens": "religion",
+      "era_year": 1789,
+      "event_year": 1859,
+      "lat": 51.3305,
+      "lon": 0.0579,
+      "event_slug": "religion-darwin-s-origin-1859",
+      "relation": "opens",
+      "note": "On the Origin of Species, 1859."
+    },
+    {
+      "idea_id": "young_earth_creationism",
+      "lens": "religion",
+      "era_year": 1917,
+      "event_year": 1925,
+      "lat": 35.5175,
+      "lon": -85.0189,
+      "event_slug": "religion-scopes-trial-1925",
+      "relation": "context",
+      "note": "Scopes trial is the creation/evolution flashpoint."
+    },
+    {
+      "idea_id": "christian_fundamentalism",
+      "lens": "religion",
+      "era_year": 1917,
+      "event_year": 1925,
+      "lat": 35.5175,
+      "lon": -85.0189,
+      "event_slug": "religion-scopes-trial-1925",
+      "relation": "peaks",
+      "note": "Fundamentalist-modernist fight goes public."
+    },
+    {
+      "idea_id": "buddhas_dharma",
+      "lens": "religion",
+      "era_year": -500,
+      "event_year": -528,
+      "lat": 24.6958,
+      "lon": 84.9914,
+      "event_slug": "religion-the-buddha-s-enlightenment--528",
+      "relation": "opens",
+      "note": "Enlightenment at Bodh Gaya."
+    },
+    {
+      "idea_id": "buddhas_dharma",
+      "lens": "geo",
+      "era_year": -500,
+      "event_year": -483,
+      "lat": 27.47,
+      "lon": 84.35,
+      "event_slug": "geo-death-of-the-buddha--483",
+      "relation": "context",
+      "note": "Parinirvana, geo lens."
+    },
+    {
+      "idea_id": "confucian_ethics",
+      "lens": "religion",
+      "era_year": -500,
+      "event_year": -500,
+      "lat": 35.6,
+      "lon": 117,
+      "event_slug": "religion-confucius-teaching--500",
+      "relation": "opens",
+      "note": "Confucius teaching in Lu."
+    },
+    {
+      "idea_id": "confucian_ethics",
+      "lens": "geo",
+      "era_year": -500,
+      "event_year": -479,
+      "lat": 35.6,
+      "lon": 116.99,
+      "event_slug": "geo-death-of-confucius--479",
+      "relation": "context",
+      "note": "Death of Confucius, geo lens."
+    },
+    {
+      "idea_id": "daoist_way",
+      "lens": "religion",
+      "era_year": -500,
+      "event_year": -500,
+      "lat": 34.3,
+      "lon": 113,
+      "event_slug": "religion-laozi-and-the-dao-de-jing--500",
+      "relation": "opens",
+      "note": "Dao De Jing attributed to Laozi."
+    },
+    {
+      "idea_id": "falsafa",
+      "lens": "geo",
+      "era_year": 800,
+      "event_year": 830,
+      "lat": 33.32,
+      "lon": 44.42,
+      "event_slug": "geo-founding-of-the-house-of-wisdom-830",
+      "relation": "opens",
+      "note": "Baghdad translation movement; al-Kindi era."
+    },
+    {
+      "idea_id": "nationalism",
+      "lens": "geo",
+      "era_year": 1776,
+      "event_year": 1789,
+      "lat": 48.8531,
+      "lon": 2.3692,
+      "event_slug": "geo-storming-of-the-bastille-1789",
+      "relation": "opens",
+      "note": "1789 matches idea year; nation as sovereign."
+    },
+    {
+      "idea_id": "burkean_conservatism",
+      "lens": "geo",
+      "era_year": 1776,
+      "event_year": 1789,
+      "lat": 48.8531,
+      "lon": 2.3692,
+      "event_slug": "geo-storming-of-the-bastille-1789",
+      "relation": "context",
+      "note": "Burke's Reflections (1790) answers the Revolution."
+    },
+    {
+      "idea_id": "enlightenment_liberalism",
+      "lens": "geo",
+      "era_year": 1776,
+      "event_year": 1776,
+      "lat": 39.9489,
+      "lon": -75.15,
+      "event_slug": "geo-declaration-of-independence-1776",
+      "relation": "peaks",
+      "note": "Lockean rights put into a founding document."
+    },
+    {
+      "idea_id": "marxism",
+      "lens": "geo",
+      "era_year": 1918,
+      "event_year": 1917,
+      "lat": 59.9343,
+      "lon": 30.3351,
+      "event_slug": "geo-russian-revolution-1917",
+      "relation": "peaks",
+      "note": "First Marxist seizure of state power."
+    },
+    {
+      "idea_id": "trotskyism",
+      "lens": "geo",
+      "era_year": 1918,
+      "event_year": 1917,
+      "lat": 59.9343,
+      "lon": 30.3351,
+      "event_slug": "geo-russian-revolution-1917",
+      "relation": "context",
+      "note": "Trotsky led the October insurrection."
+    },
+    {
+      "idea_id": "fascism",
+      "lens": "geo",
+      "era_year": 1936,
+      "event_year": 1922,
+      "lat": 41.9028,
+      "lon": 12.4964,
+      "event_slug": "geo-mussolini-s-march-on-rome-1922",
+      "relation": "peaks",
+      "note": "Fascism takes power in Italy."
+    },
+    {
+      "idea_id": "internet_meme_culture",
+      "lens": "geo",
+      "era_year": 1989,
+      "event_year": 1991,
+      "lat": 46.2334,
+      "lon": 6.0557,
+      "event_slug": "geo-launch-of-the-world-wide-web-1991",
+      "relation": "context",
+      "note": "The web is the medium memes need."
+    },
+    {
+      "idea_id": "effective_accelerationism",
+      "lens": "geo",
+      "era_year": 2022,
+      "event_year": 2022,
+      "lat": 37.7822,
+      "lon": -122.4188,
+      "event_slug": "geo-release-of-chatgpt-2022",
+      "relation": "context",
+      "note": "ChatGPT release, same year as e/acc."
+    }
+  ],
+  "deep_links": {
+    "memeplex": "memeplex.html#i={idea_id}",
+    "chronosphere": "chronosphere.html#{lens}/{year}/{region}/{event_slug}"
+  }
+}

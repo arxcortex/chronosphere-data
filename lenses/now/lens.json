@@ -1,0 +1,10 @@
+{
+ "id": "now",
+ "title": "Now",
+ "kind": "live",
+ "windows": [1, 7, 30],
+ "default_window": 7,
+ "files": {"7": "now/now.json", "30": "now/now_30d.json", "dispatches": "lenses/now/dispatches.json", "embeds": "lenses/now/embeds.json"},
+ "layers": ["events", "hazards", "chokepoints", "dispatches"],
+ "colors": {"conflict": "#c2452d", "unrest": "#d98a3a", "coercion": "#b87333", "diplomacy": "#7f9cb0", "economic": "#c9a54c", "political": "#9c7fb0", "hazard": "#e0b04a", "chokepoint": "#b87333"}
+}

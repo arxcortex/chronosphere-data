@@ -1,0 +1,49 @@
+# Publishes main's lens data plus the live branch's now/ folder to GitHub Pages.
+name: Publish Pages
+
+on:
+  push:
+    branches: [main]
+    paths: ["lenses/**", "static/**", "data/chokepoints.json", "data/SOURCES.md"]
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p _site/now _site/data
+          cp -r lenses _site/lenses
+          [ -d static ] && cp -r static/. _site/ || true
+          cp data/chokepoints.json data/SOURCES.md _site/data/
+          url="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$url" live >/dev/null; then
+            git clone --quiet --branch live --depth 1 "$url" live
+            cp live/now/*.json _site/now/ 2>/dev/null || true
+          fi
+          touch _site/.nojekyll
+          printf '<!doctype html><meta charset="utf-8"><title>Chronosphere data</title><p>Data for <a href="https://arxcortex.io/chronosphere.html">Chronosphere</a>.</p>' > _site/index.html
+          du -sh _site
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

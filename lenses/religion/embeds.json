@@ -1,0 +1,80 @@
+[
+ {
+  "id": "paper-religion-1517-1789-audit",
+  "kind": "document",
+  "url": "https://arxcortex.github.io/chronosphere-data/lenses/religion/papers/religion-1517-1789-audit.html",
+  "title": "Who Prayed Where, 1517–1789: Correcting the Religion Map",
+  "source": "ΛRX Chronosphere · reader note",
+  "date": "2026-10-28",
+  "attach": "religion-95-theses-1517",
+  "era": 1517,
+  "lat": 51.8678,
+  "lon": 12.6465,
+  "note": "This audit corrects 31 errors in the religion map for 1517–1789, most visibly an Orthodox Anatolia that was Sunni. It shows how Ottoman rule kept Christian majorities under a Muslim state."
+ },
+ {
+  "id": "arx-1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome",
+  "kind": "essay",
+  "url": "https://arxcortex.github.io/arxstories/dispatches/1589-02-05-moscow-gets-a-patriarch-and-calls-itself-the-third-rome/",
+  "title": "Moscow Gets a Patriarch and Calls Itself the Third Rome",
+  "source": "ΛRX Intercept",
+  "date": "1589-02-05",
+  "attach": "religion-moscow-gets-its-own-patriarch-and-the-charter-calls-russia-t-1589",
+  "era": 1517,
+  "lat": 55.7509,
+  "lon": 37.6171,
+  "note": "Constantinople's patriarch installs Job as Moscow's first patriarch in a charter that calls Russia the Third Rome; in 2018 the two churches break communion over Kyiv."
+ },
+ {
+  "id": "arx-atlas-30-how-a-jewish-sect-became-romes-religion",
+  "kind": "essay",
+  "url": "https://arxcortex.github.io/arxstories/atlas/30-how-a-jewish-sect-became-romes-religion/",
+  "title": "How a Jewish Sect Became Rome's Religion",
+  "source": "ΛRX Atlas · tour story",
+  "date": "2026-10-28",
+  "attach": "religion-resurrection-of-christ-easter-30",
+  "era": 30,
+  "lat": 31.779,
+  "lon": 35.226,
+  "note": "Of how the empire that crucified a Galilean preacher ended, 350 years later, by making his church its only lawful faith."
+ },
+ {
+  "id": "arx-atlas-610-rise-of-islam-610-750",
+  "kind": "essay",
+  "url": "https://arxcortex.github.io/arxstories/atlas/610-rise-of-islam-610-750/",
+  "title": "Rise of Islam, 610–750",
+  "source": "ΛRX Atlas · tour story",
+  "date": "2026-10-28",
+  "attach": "religion-the-hijra-622",
+  "era": 622,
+  "lat": 24.47,
+  "lon": 39.61,
+  "note": "Of how a prophet's community in Arabia became a state, defeated two empires, and fought itself over who should rule."
+ },
+ {
+  "id": "arx-atlas-1517-the-reformation-and-its-wars",
+  "kind": "essay",
+  "url": "https://arxcortex.github.io/arxstories/atlas/1517-the-reformation-and-its-wars/",
+  "title": "The Reformation and Its Wars",
+  "source": "ΛRX Atlas · tour story",
+  "date": "2026-10-28",
+  "attach": "religion-95-theses-1517",
+  "era": 1517,
+  "lat": 51.867,
+  "lon": 12.648,
+  "note": "Of how a friar's protest became a princes' settlement, and why it took 131 years and a continental war to finish."
+ },
+ {
+  "id": "arx-atlas-528bc-how-buddhism-spread",
+  "kind": "essay",
+  "url": "https://arxcortex.github.io/arxstories/atlas/528bc-how-buddhism-spread/",
+  "title": "How Buddhism Spread",
+  "source": "ΛRX Atlas · tour story",
+  "date": "2026-10-28",
+  "attach": "religion-the-buddha-s-enlightenment--528",
+  "era": -528,
+  "lat": 24.695,
+  "lon": 84.993,
+  "note": "Of how a wandering teacher's order crossed Asia by winning kings and merchants, and why it grew rich enough for an emperor to seize."
+ }
+]

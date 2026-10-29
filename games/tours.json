@@ -1,0 +1,1644 @@
+{
+ "version": 1,
+ "schema": "stops: lens (history|religion), year, lat, lon, caption, optional event (event slug), optional title",
+ "tours": [
+  {
+   "id": "silk-road",
+   "title": "The Silk Road",
+   "stops": [
+    {
+     "lens": "history",
+     "year": -100,
+     "lat": 34.3,
+     "lon": 108.9,
+     "caption": "Han envoys open the western corridor from Chang’an.",
+     "title": "Han envoys"
+    },
+    {
+     "lens": "history",
+     "year": 117,
+     "lat": 39.6,
+     "lon": 66.9,
+     "caption": "Rome, Parthia, Kushan and Han trade silk, glass and horses across Central Asia.",
+     "title": "Rome meets Han"
+    },
+    {
+     "lens": "history",
+     "year": 750,
+     "lat": 34.3,
+     "lon": 108.9,
+     "caption": "Tang Chang’an is the eastern terminus of the busiest land route on earth.",
+     "title": "Tang Chang’an"
+    },
+    {
+     "lens": "history",
+     "year": 1250,
+     "lat": 47.2,
+     "lon": 102.8,
+     "caption": "The Mongol peace makes the whole road one jurisdiction.",
+     "title": "The Mongol peace"
+    },
+    {
+     "lens": "history",
+     "year": 1453,
+     "lat": 41,
+     "lon": 28.97,
+     "caption": "Constantinople falls; Europe turns to the sea routes.",
+     "title": "Constantinople falls"
+    }
+   ],
+   "kind": "narrative"
+  },
+  {
+   "id": "rome",
+   "title": "Rome rises and falls",
+   "stops": [
+    {
+     "lens": "history",
+     "year": -500,
+     "lat": 41.89,
+     "lon": 12.48,
+     "caption": "A small republic on the Tiber.",
+     "title": "A republic on the Tiber"
+    },
+    {
+     "lens": "history",
+     "year": -44,
+     "lat": 41.89,
+     "lon": 12.48,
+     "caption": "The Ides of March: the republic ends in a dictator’s murder.",
+     "title": "The Ides of March"
+    },
+    {
+     "lens": "history",
+     "year": 117,
+     "lat": 41.89,
+     "lon": 12.48,
+     "caption": "Trajan: the empire at its greatest extent.",
+     "title": "Trajan’s empire"
+    },
+    {
+     "lens": "history",
+     "year": 476,
+     "lat": 44.4,
+     "lon": 12.2,
+     "caption": "The last western emperor is deposed at Ravenna.",
+     "title": "The fall of the West"
+    },
+    {
+     "lens": "history",
+     "year": 1453,
+     "lat": 41,
+     "lon": 28.97,
+     "caption": "The eastern empire falls with Constantinople.",
+     "title": "The fall of Constantinople"
+    }
+   ],
+   "kind": "narrative"
+  },
+  {
+   "id": "cold-war",
+   "title": "The Cold War",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1945,
+     "lat": 52.52,
+     "lon": 13.4,
+     "caption": "Berlin divided; two blocs face each other across Europe.",
+     "title": "Berlin divided"
+    },
+    {
+     "lens": "history",
+     "year": 1962,
+     "lat": 22,
+     "lon": -79.5,
+     "caption": "Cuba: the closest the world comes to nuclear war.",
+     "title": "The Cuban Missile Crisis"
+    },
+    {
+     "lens": "history",
+     "year": 1968,
+     "lat": 16,
+     "lon": 106,
+     "caption": "Vietnam and Prague: the blocs strain at both ends.",
+     "title": "Vietnam and Prague"
+    },
+    {
+     "lens": "history",
+     "year": 1989,
+     "lat": 52.52,
+     "lon": 13.4,
+     "caption": "The Wall comes down.",
+     "title": "The Wall comes down"
+    },
+    {
+     "lens": "history",
+     "year": 1991,
+     "lat": 55.75,
+     "lon": 37.62,
+     "caption": "The Soviet Union dissolves.",
+     "title": "The Soviet Union dissolves"
+    }
+   ],
+   "kind": "narrative"
+  },
+  {
+   "id": "rise-of-christianity",
+   "kind": "narrative",
+   "title": "How a Jewish sect became Rome's religion",
+   "thesis": "How did a movement whose founder Rome executed become the only faith Roman law allowed?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/30-how-a-jewish-sect-became-romes-religion/",
+   "stops": [
+    {
+     "lens": "religion",
+     "year": 30,
+     "lat": 31.779,
+     "lon": 35.226,
+     "title": "Crucifixion of Jesus",
+     "region": "Jerusalem",
+     "caption": "Pontius Pilate has Jesus of Nazareth scourged and crucified; his followers proclaim him risen and keep meeting in Jerusalem under James.",
+     "source": "\"Crucifixion of Jesus,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Crucifixion_of_Jesus.",
+     "event": "religion-resurrection-of-christ-easter-30"
+    },
+    {
+     "lens": "history",
+     "year": 49,
+     "lat": 31.779,
+     "lon": 35.226,
+     "title": "Council of Jerusalem",
+     "region": "Jerusalem",
+     "caption": "A council in Jerusalem rules that Gentile converts need not be circumcised or keep the law of Moses.",
+     "source": "\"Council of Jerusalem,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Council_of_Jerusalem."
+    },
+    {
+     "lens": "history",
+     "year": 64,
+     "lat": 41.893,
+     "lon": 12.483,
+     "title": "Great Fire of Rome",
+     "region": "Rome",
+     "caption": "After fire burns much of Rome, Nero, says Tacitus, blames the Christians and begins the first persecution.",
+     "source": "\"Great Fire of Rome,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Great_Fire_of_Rome."
+    },
+    {
+     "lens": "religion",
+     "year": 70,
+     "lat": 31.779,
+     "lon": 35.226,
+     "title": "Siege of Jerusalem (70 CE)",
+     "region": "Jerusalem",
+     "caption": "Titus's army of at least 48,200 destroys the Second Temple and razes Jerusalem.",
+     "source": "\"Siege of Jerusalem (70 CE),\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE).",
+     "event": "religion-destruction-of-the-second-temple-70"
+    },
+    {
+     "lens": "history",
+     "year": 250,
+     "lat": 41.893,
+     "lon": 12.483,
+     "title": "Decian persecution",
+     "region": "Rome",
+     "caption": "Decius orders everyone to sacrifice before a magistrate and get a certificate; Pope Fabian dies refusing.",
+     "source": "\"Decian persecution,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Decian_persecution."
+    },
+    {
+     "lens": "history",
+     "year": 303,
+     "lat": 40.76,
+     "lon": 29.92,
+     "title": "Diocletianic Persecution",
+     "region": "Nicomedia",
+     "caption": "On 23 February 303, urged by Galerius, Diocletian begins the Great Persecution from Nicomedia, where the church overlooks his palace.",
+     "source": "\"Diocletianic Persecution,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Diocletianic_Persecution."
+    },
+    {
+     "lens": "history",
+     "year": 312,
+     "lat": 41.936,
+     "lon": 12.467,
+     "title": "Battle of the Milvian Bridge",
+     "region": "Milvian Bridge, Rome",
+     "caption": "Constantine defeats Maxentius, who drowns in the Tiber; Christian writers say a vision told him to fight under the Chi-Rho.",
+     "source": "\"Battle of the Milvian Bridge,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge."
+    },
+    {
+     "lens": "religion",
+     "year": 313,
+     "lat": 45.467,
+     "lon": 9.19,
+     "title": "Edict of Milan",
+     "region": "Milan",
+     "caption": "Constantine and Licinius agree at Milan to treat Christians benevolently and allow religious freedom.",
+     "source": "\"Edict of Milan,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Edict_of_Milan.",
+     "event": "religion-edict-of-milan-313"
+    },
+    {
+     "lens": "religion",
+     "year": 325,
+     "lat": 40.429,
+     "lon": 29.721,
+     "title": "First Council of Nicaea",
+     "region": "Nicaea (İznik)",
+     "caption": "Constantine calls the bishops to Nicaea over the Arian dispute; they write the first Nicene Creed.",
+     "source": "\"First Council of Nicaea,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/First_Council_of_Nicaea.",
+     "event": "religion-council-of-nicaea-325"
+    },
+    {
+     "lens": "history",
+     "year": 380,
+     "lat": 40.64,
+     "lon": 22.936,
+     "title": "Edict of Thessalonica",
+     "region": "Thessalonica",
+     "caption": "Theodosius I makes Nicene Christianity the state church and brands other creeds heresy.",
+     "source": "\"Edict of Thessalonica,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Edict_of_Thessalonica."
+    }
+   ]
+  },
+  {
+   "id": "greek-philosophy",
+   "kind": "genealogy",
+   "title": "From Miletus to Alexandria: Greek philosophy",
+   "thesis": "How did Greek philosophy, born in free trading cities, come to depend on the protection of kings?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/585bc-from-miletus-to-alexandria-greek-philosophy/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": -585,
+     "lat": 37.53,
+     "lon": 27.278,
+     "title": "Eclipse of Thales",
+     "region": "Miletus",
+     "caption": "Thales, per Herodotus, predicts a solar eclipse; he seeks natural causes for things.",
+     "source": "\"Eclipse of Thales,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Eclipse_of_Thales."
+    },
+    {
+     "lens": "history",
+     "year": -530,
+     "lat": 39.083,
+     "lon": 17.117,
+     "title": "Pythagoreanism",
+     "region": "Croton",
+     "caption": "Pythagoras founds a brotherhood at Croton joining mathematics to a rule of life.",
+     "source": "\"Pythagoreanism,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Pythagoreanism."
+    },
+    {
+     "lens": "history",
+     "year": -475,
+     "lat": 40.161,
+     "lon": 15.155,
+     "title": "Parmenides",
+     "region": "Elea",
+     "caption": "Parmenides argues that change is illusion and only reason grasps what truly is.",
+     "source": "\"Parmenides,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Parmenides."
+    },
+    {
+     "lens": "history",
+     "year": -399,
+     "lat": 37.984,
+     "lon": 23.728,
+     "title": "Trial of Socrates",
+     "region": "Athens",
+     "caption": "Athens, recovering from defeat and oligarchic terror, condemns Socrates to death.",
+     "source": "\"Trial of Socrates,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Trial_of_Socrates."
+    },
+    {
+     "lens": "history",
+     "year": -387,
+     "lat": 37.992,
+     "lon": 23.708,
+     "title": "Platonic Academy",
+     "region": "Academy, Athens",
+     "caption": "Plato founds the Academy outside Athens.",
+     "source": "\"Platonic Academy,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Platonic_Academy."
+    },
+    {
+     "lens": "history",
+     "year": -343,
+     "lat": 40.631,
+     "lon": 22.098,
+     "title": "Aristotle",
+     "region": "Mieza, Macedon",
+     "caption": "Philip II hires Aristotle to tutor his son Alexander.",
+     "source": "\"Aristotle,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Aristotle."
+    },
+    {
+     "lens": "history",
+     "year": -335,
+     "lat": 37.974,
+     "lon": 23.744,
+     "title": "Lyceum (classical)",
+     "region": "Lyceum, Athens",
+     "caption": "Aristotle opens the Lyceum and organizes research by subject.",
+     "source": "\"Lyceum (classical),\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Lyceum_(classical)."
+    },
+    {
+     "lens": "history",
+     "year": -300,
+     "lat": 37.976,
+     "lon": 23.723,
+     "title": "Stoicism",
+     "region": "Stoa Poikile, Athens",
+     "caption": "Zeno of Citium teaches in the Painted Stoa, founding Stoicism.",
+     "source": "\"Stoicism,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Stoicism."
+    },
+    {
+     "lens": "history",
+     "year": -283,
+     "lat": 31.198,
+     "lon": 29.892,
+     "title": "Library of Alexandria",
+     "region": "Alexandria",
+     "caption": "The Ptolemies fund the Museum and Library, a state research institute.",
+     "source": "\"Library of Alexandria,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Library_of_Alexandria."
+    }
+   ]
+  },
+  {
+   "id": "rise-of-islam",
+   "kind": "narrative",
+   "title": "Rise of Islam, 610-750",
+   "thesis": "How did a prophet's community in Arabia become an empire, and why did it fight itself over who should rule?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/610-rise-of-islam-610-750/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 610,
+     "lat": 21.458,
+     "lon": 39.861,
+     "title": "Muhammad's first revelation",
+     "region": "Cave of Hira, Mecca",
+     "caption": "Muhammad reports his first revelation near Mecca.",
+     "source": "\"Muhammad's first revelation,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Muhammad%27s_first_revelation."
+    },
+    {
+     "lens": "religion",
+     "year": 622,
+     "lat": 24.47,
+     "lon": 39.61,
+     "title": "Hijrah",
+     "region": "Medina",
+     "caption": "Facing persecution, Muhammad and followers move to Yathrib (Medina).",
+     "source": "\"Hijrah,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Hijrah.",
+     "event": "religion-the-hijra-622"
+    },
+    {
+     "lens": "history",
+     "year": 624,
+     "lat": 23.78,
+     "lon": 38.791,
+     "title": "Battle of Badr",
+     "region": "Badr",
+     "caption": "A small Medinan force defeats a larger Meccan army.",
+     "source": "\"Battle of Badr,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Badr."
+    },
+    {
+     "lens": "religion",
+     "year": 630,
+     "lat": 21.422,
+     "lon": 39.823,
+     "title": "Conquest of Mecca",
+     "region": "Mecca",
+     "caption": "Mecca surrenders; the Kaaba's idols are destroyed.",
+     "source": "\"Conquest of Mecca,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Conquest_of_Mecca.",
+     "event": "religion-conquest-of-mecca-630"
+    },
+    {
+     "lens": "history",
+     "year": 632,
+     "lat": 24.47,
+     "lon": 39.61,
+     "title": "Saqifa",
+     "region": "Medina",
+     "caption": "After Muhammad dies, Medinan and Meccan leaders choose Abu Bakr as caliph.",
+     "source": "\"Saqifa,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Saqifa."
+    },
+    {
+     "lens": "religion",
+     "year": 636,
+     "lat": 32.644,
+     "lon": 35.573,
+     "title": "Battle of the Yarmuk",
+     "region": "Yarmouk River",
+     "caption": "Arab armies crush the Byzantines in Syria.",
+     "source": "\"Battle of the Yarmuk,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_the_Yarmuk.",
+     "event": "religion-early-muslim-conquests-636"
+    },
+    {
+     "lens": "history",
+     "year": 651,
+     "lat": 37.663,
+     "lon": 62.193,
+     "title": "Muslim conquest of Persia",
+     "region": "Merv",
+     "caption": "The last Sasanian shah, Yazdegerd III, dies near Merv.",
+     "source": "\"Muslim conquest of Persia,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia."
+    },
+    {
+     "lens": "history",
+     "year": 656,
+     "lat": 24.47,
+     "lon": 39.61,
+     "title": "First Fitna",
+     "region": "Medina",
+     "caption": "Rebels kill Caliph Uthman, starting civil war between Ali and Muawiya.",
+     "source": "\"First Fitna,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/First_Fitna."
+    },
+    {
+     "lens": "history",
+     "year": 661,
+     "lat": 33.513,
+     "lon": 36.309,
+     "title": "Umayyad Caliphate",
+     "region": "Damascus",
+     "caption": "Muawiya founds the Umayyad dynasty at Damascus.",
+     "source": "\"Umayyad Caliphate,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Umayyad_Caliphate."
+    },
+    {
+     "lens": "history",
+     "year": 680,
+     "lat": 32.617,
+     "lon": 44.033,
+     "title": "Battle of Karbala",
+     "region": "Karbala",
+     "caption": "Umayyad troops kill Husayn ibn Ali and his followers.",
+     "source": "\"Battle of Karbala,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Karbala."
+    },
+    {
+     "lens": "religion",
+     "year": 711,
+     "lat": 36.14,
+     "lon": -5.35,
+     "title": "Muslim conquest of the Iberian Peninsula",
+     "region": "Gibraltar",
+     "caption": "Tariq ibn Ziyad crosses into Iberia and destroys the Visigothic kingdom.",
+     "source": "\"Muslim conquest of the Iberian Peninsula,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Iberian_Peninsula.",
+     "event": "religion-umayyad-conquest-of-iberia-711"
+    },
+    {
+     "lens": "history",
+     "year": 750,
+     "lat": 35.991,
+     "lon": 43.344,
+     "title": "Battle of the Zab",
+     "region": "Great Zab River",
+     "caption": "Abbasid armies from Khurasan defeat the last Umayyad caliph.",
+     "source": "\"Battle of the Zab,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_the_Zab."
+    }
+   ]
+  },
+  {
+   "id": "mongol-empire",
+   "kind": "narrative",
+   "title": "The Mongol Empire",
+   "thesis": "How did a steppe confederation build the largest land empire yet seen, and why did its own succession rule break it apart?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/1206-the-mongol-empire/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1206,
+     "lat": 51.706,
+     "lon": 115.844,
+     "title": "Mongol Empire",
+     "region": "Onon River",
+     "caption": "A kurultai proclaims Temüjin as Genghis Khan of the united Mongols.",
+     "source": "\"Mongol Empire,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Mongol_Empire."
+    },
+    {
+     "lens": "history",
+     "year": 1215,
+     "lat": 39.907,
+     "lon": 116.397,
+     "title": "Mongol conquest of the Jin dynasty",
+     "region": "Zhongdu (Beijing)",
+     "caption": "Mongols take the Jin capital Zhongdu.",
+     "source": "\"Mongol conquest of the Jin dynasty,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Jin_dynasty."
+    },
+    {
+     "lens": "history",
+     "year": 1219,
+     "lat": 42.852,
+     "lon": 68.303,
+     "title": "Mongol invasion of the Khwarazmian Empire",
+     "region": "Otrar",
+     "caption": "After Otrar's governor kills a Mongol caravan, Genghis invades Khwarazm.",
+     "source": "\"Mongol invasion of the Khwarazmian Empire,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Mongol_invasion_of_the_Khwarazmian_Empire."
+    },
+    {
+     "lens": "history",
+     "year": 1227,
+     "lat": 38.485,
+     "lon": 106.225,
+     "title": "Genghis Khan",
+     "region": "Western Xia",
+     "caption": "Genghis dies campaigning against Western Xia.",
+     "source": "\"Genghis Khan,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Genghis_Khan."
+    },
+    {
+     "lens": "history",
+     "year": 1235,
+     "lat": 47.21,
+     "lon": 102.848,
+     "title": "Karakorum",
+     "region": "Karakorum",
+     "caption": "Ögedei walls Karakorum as imperial capital.",
+     "source": "\"Karakorum,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Karakorum."
+    },
+    {
+     "lens": "history",
+     "year": 1241,
+     "lat": 47.978,
+     "lon": 20.913,
+     "title": "Battle of Mohi",
+     "region": "Mohi",
+     "caption": "Mongols rout the Hungarians; Ögedei then dies and the armies withdraw.",
+     "source": "\"Battle of Mohi,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Mohi."
+    },
+    {
+     "lens": "history",
+     "year": 1258,
+     "lat": 33.315,
+     "lon": 44.366,
+     "title": "Siege of Baghdad",
+     "region": "Baghdad",
+     "caption": "Hülegü sacks Baghdad and kills the last Abbasid caliph.",
+     "source": "\"Siege of Baghdad,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Siege_of_Baghdad.",
+     "event": "geo-mongol-sack-of-baghdad-1258"
+    },
+    {
+     "lens": "history",
+     "year": 1260,
+     "lat": 32.549,
+     "lon": 35.357,
+     "title": "Battle of Ain Jalut",
+     "region": "Ain Jalut",
+     "caption": "The Mamluks defeat a Mongol army in Galilee.",
+     "source": "\"Battle of Ain Jalut,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut.",
+     "event": "geo-battle-of-ain-jalut-1260"
+    },
+    {
+     "lens": "history",
+     "year": 1271,
+     "lat": 39.907,
+     "lon": 116.397,
+     "title": "Yuan dynasty",
+     "region": "Khanbaliq (Beijing)",
+     "caption": "Kublai Khan proclaims the Yuan dynasty in China.",
+     "source": "\"Yuan dynasty,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Yuan_dynasty.",
+     "event": "geo-founding-of-yuan-dynasty-1271"
+    },
+    {
+     "lens": "history",
+     "year": 1346,
+     "lat": 45.034,
+     "lon": 35.379,
+     "title": "Siege of Caffa",
+     "region": "Caffa",
+     "caption": "A Golden Horde army besieges Genoese Caffa as plague breaks out.",
+     "source": "\"Siege of Caffa,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Siege_of_Caffa."
+    }
+   ]
+  },
+  {
+   "id": "fall-of-constantinople",
+   "kind": "narrative",
+   "title": "The long fall of Constantinople",
+   "thesis": "Why did a city whose walls held for a thousand years fall in 1453?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/1071-the-long-fall-of-constantinople/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1071,
+     "lat": 39.148,
+     "lon": 42.544,
+     "title": "Battle of Manzikert",
+     "region": "Manzikert",
+     "caption": "On 26 August the Seljuk sultan Alp Arslan destroys a Byzantine army and captures Emperor Romanos IV.",
+     "source": "\"Battle of Manzikert,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Manzikert.",
+     "event": "geo-battle-of-manzikert-1071"
+    },
+    {
+     "lens": "history",
+     "year": 1095,
+     "lat": 45.783,
+     "lon": 3.082,
+     "title": "Alexios I Komnenos",
+     "region": "Clermont",
+     "caption": "Alexios I's envoys ask Pope Urban II for help against the Seljuks; Urban calls the First Crusade.",
+     "source": "\"Alexios I Komnenos,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Alexios_I_Komnenos.",
+     "event": "geo-council-of-clermont-1095"
+    },
+    {
+     "lens": "history",
+     "year": 1204,
+     "lat": 41.013,
+     "lon": 28.98,
+     "title": "Sack of Constantinople",
+     "region": "Constantinople",
+     "caption": "Unable to pay Venice for its fleet, the Fourth Crusade sacks Zara and then Constantinople, founding a Latin Empire.",
+     "source": "\"Sack of Constantinople,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Sack_of_Constantinople."
+    },
+    {
+     "lens": "history",
+     "year": 1261,
+     "lat": 41.013,
+     "lon": 28.98,
+     "title": "Reconquest of Constantinople",
+     "region": "Constantinople",
+     "caption": "Alexios Strategopoulos and 800 men recover the city for Michael VIII, newly allied with Genoa.",
+     "source": "\"Reconquest of Constantinople,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Reconquest_of_Constantinople."
+    },
+    {
+     "lens": "history",
+     "year": 1354,
+     "lat": 40.414,
+     "lon": 26.67,
+     "title": "Gallipoli",
+     "region": "Gallipoli",
+     "caption": "An earthquake breaks Gallipoli's walls on 1-2 March; within a month the Ottomans hold their first base in Europe.",
+     "source": "\"Gallipoli,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Gallipoli."
+    },
+    {
+     "lens": "history",
+     "year": 1389,
+     "lat": 42.633,
+     "lon": 21.083,
+     "title": "Battle of Kosovo",
+     "region": "Kosovo Field",
+     "caption": "On 15 June Murad I and Prince Lazar meet at Kosovo; both die.",
+     "source": "\"Battle of Kosovo,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Kosovo."
+    },
+    {
+     "lens": "history",
+     "year": 1402,
+     "lat": 39.929,
+     "lon": 32.855,
+     "title": "Battle of Ankara",
+     "region": "Ankara",
+     "caption": "Bayezid I breaks off his blockade of Constantinople to fight Timur, loses on 28 July and dies a captive.",
+     "source": "\"Battle of Ankara,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Ankara."
+    },
+    {
+     "lens": "history",
+     "year": 1444,
+     "lat": 43.217,
+     "lon": 27.883,
+     "title": "Battle of Varna",
+     "region": "Varna",
+     "caption": "On 10 November Murad II destroys the crusade of Władysław III and John Hunyadi.",
+     "source": "\"Battle of Varna,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Varna."
+    },
+    {
+     "lens": "history",
+     "year": 1452,
+     "lat": 41.085,
+     "lon": 29.056,
+     "title": "Rumelihisarı",
+     "region": "Rumeli Hisarı",
+     "caption": "The young Mehmed II builds the 'strait-cutter' fortress on the Bosphorus.",
+     "source": "\"Rumelihisarı,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Rumelihisar%C4%B1."
+    },
+    {
+     "lens": "history",
+     "year": 1453,
+     "lat": 41.013,
+     "lon": 28.98,
+     "title": "Fall of Constantinople",
+     "region": "Constantinople",
+     "caption": "After a 53-day siege the city falls on 29 May; Constantine XI dies fighting.",
+     "source": "\"Fall of Constantinople,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Fall_of_Constantinople.",
+     "event": "geo-fall-of-constantinople-1453"
+    }
+   ]
+  },
+  {
+   "id": "reformation",
+   "kind": "narrative",
+   "title": "The Reformation and its wars",
+   "thesis": "When Western Christianity split, who decided what ordinary people would believe?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/1517-the-reformation-and-its-wars/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1440,
+     "lat": 49.999,
+     "lon": 8.274,
+     "title": "Printing press",
+     "region": "Mainz",
+     "caption": "Gutenberg builds a movable-type press at Mainz.",
+     "source": "\"Printing press,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Printing_press.",
+     "event": "geo-gutenberg-s-printing-press-1440"
+    },
+    {
+     "lens": "religion",
+     "year": 1517,
+     "lat": 51.867,
+     "lon": 12.648,
+     "title": "Ninety-five Theses",
+     "region": "Wittenberg",
+     "caption": "Angered by indulgences sold to rebuild St Peter's, Luther sends his theses to Archbishop Albert; printers make him Europe's most published author.",
+     "source": "\"Ninety-five Theses,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Ninety-five_Theses.",
+     "event": "religion-95-theses-1517"
+    },
+    {
+     "lens": "religion",
+     "year": 1521,
+     "lat": 49.632,
+     "lon": 8.365,
+     "title": "Diet of Worms",
+     "region": "Worms",
+     "caption": "Luther refuses to recant before Charles V; Elector Frederick has him 'kidnapped' to Wartburg Castle.",
+     "source": "\"Diet of Worms,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Diet_of_Worms.",
+     "event": "religion-diet-of-worms-1521"
+    },
+    {
+     "lens": "history",
+     "year": 1525,
+     "lat": 51.356,
+     "lon": 11.101,
+     "title": "German Peasants' War",
+     "region": "Frankenhausen",
+     "caption": "Luther sides with the lords, who crush the peasants and kill up to 100,000.",
+     "source": "\"German Peasants' War,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/German_Peasants%27_War."
+    },
+    {
+     "lens": "history",
+     "year": 1530,
+     "lat": 48.369,
+     "lon": 10.898,
+     "title": "Augsburg Confession",
+     "region": "Augsburg",
+     "caption": "On 25 June German rulers and cities present Melanchthon's confession to Charles V.",
+     "source": "\"Augsburg Confession,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Augsburg_Confession."
+    },
+    {
+     "lens": "religion",
+     "year": 1534,
+     "lat": 51.507,
+     "lon": -0.128,
+     "title": "Acts of Supremacy",
+     "region": "London",
+     "caption": "Parliament makes Henry VIII 'the only supreme head on Earth' of the English church.",
+     "source": "\"Acts of Supremacy,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Acts_of_Supremacy.",
+     "event": "religion-henry-viii-breaks-from-rome-1534"
+    },
+    {
+     "lens": "history",
+     "year": 1541,
+     "lat": 46.202,
+     "lon": 6.147,
+     "title": "Ecclesiastical Ordinances",
+     "region": "Geneva",
+     "caption": "Geneva adopts Calvin's Ordinances, with a Consistory to police doctrine and morals.",
+     "source": "\"Ecclesiastical Ordinances,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Ecclesiastical_Ordinances."
+    },
+    {
+     "lens": "religion",
+     "year": 1545,
+     "lat": 46.067,
+     "lon": 11.117,
+     "title": "Council of Trent",
+     "region": "Trento",
+     "caption": "Paul III's council meets in 25 sessions from 1545 to 1563 to fix Catholic doctrine.",
+     "source": "\"Council of Trent,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Council_of_Trent.",
+     "event": "religion-council-of-trent-1545"
+    },
+    {
+     "lens": "history",
+     "year": 1555,
+     "lat": 48.369,
+     "lon": 10.898,
+     "title": "Peace of Augsburg",
+     "region": "Augsburg",
+     "caption": "After the Schmalkaldic War, each prince may make his land Lutheran or Catholic: cuius regio, eius religio.",
+     "source": "\"Peace of Augsburg,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Peace_of_Augsburg."
+    },
+    {
+     "lens": "history",
+     "year": 1618,
+     "lat": 50.087,
+     "lon": 14.421,
+     "title": "Defenestrations of Prague",
+     "region": "Prague",
+     "caption": "On 23 May Bohemian Protestants throw two governors and a secretary from a castle window; all survive.",
+     "source": "\"Defenestrations of Prague,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Defenestrations_of_Prague."
+    },
+    {
+     "lens": "history",
+     "year": 1648,
+     "lat": 51.962,
+     "lon": 7.626,
+     "title": "Peace of Westphalia",
+     "region": "Münster",
+     "caption": "Treaties at Münster and Osnabrück end the war and legally recognize Calvinism.",
+     "source": "\"Peace of Westphalia,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Peace_of_Westphalia.",
+     "event": "geo-peace-of-westphalia-1648"
+    }
+   ]
+  },
+  {
+   "id": "age-of-revolutions",
+   "kind": "narrative",
+   "title": "The Age of Revolutions",
+   "thesis": "How did the cost of winning wars break three empires and carry revolution from Boston to Paris, Saint-Domingue and Caracas?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/1763-the-age-of-revolutions/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1763,
+     "lat": 48.857,
+     "lon": 2.352,
+     "title": "Treaty of Paris (1763)",
+     "region": "Paris",
+     "caption": "Britain wins the Seven Years' War, taking Canada and India footholds.",
+     "source": "\"Treaty of Paris (1763),\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)."
+    },
+    {
+     "lens": "history",
+     "year": 1765,
+     "lat": 51.507,
+     "lon": -0.128,
+     "title": "Stamp Act 1765",
+     "region": "London",
+     "caption": "Parliament taxes colonial paper documents.",
+     "source": "\"Stamp Act 1765,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Stamp_Act_1765."
+    },
+    {
+     "lens": "history",
+     "year": 1776,
+     "lat": 39.953,
+     "lon": -75.164,
+     "title": "United States Declaration of Independence",
+     "region": "Philadelphia",
+     "caption": "Congress declares independence.",
+     "source": "\"United States Declaration of Independence,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence.",
+     "event": "geo-declaration-of-independence-1776"
+    },
+    {
+     "lens": "history",
+     "year": 1783,
+     "lat": 48.857,
+     "lon": 2.352,
+     "title": "Treaty of Paris (1783)",
+     "region": "Paris",
+     "caption": "Britain recognizes US independence.",
+     "source": "\"Treaty of Paris (1783),\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)."
+    },
+    {
+     "lens": "history",
+     "year": 1789,
+     "lat": 48.857,
+     "lon": 2.352,
+     "title": "Storming of the Bastille",
+     "region": "Paris",
+     "caption": "Crisis over royal debt ends with crowds storming the Bastille.",
+     "source": "\"Storming of the Bastille,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Storming_of_the_Bastille.",
+     "event": "geo-storming-of-the-bastille-1789"
+    },
+    {
+     "lens": "history",
+     "year": 1791,
+     "lat": 19.76,
+     "lon": -72.2,
+     "title": "Haitian Revolution",
+     "region": "Saint-Domingue",
+     "caption": "Enslaved people rise in northern Saint-Domingue.",
+     "source": "\"Haitian Revolution,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Haitian_Revolution."
+    },
+    {
+     "lens": "history",
+     "year": 1804,
+     "lat": 19.446,
+     "lon": -72.688,
+     "title": "Haitian Declaration of Independence",
+     "region": "Gonaïves",
+     "caption": "Dessalines declares Haiti independent.",
+     "source": "\"Haitian Declaration of Independence,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Haitian_Declaration_of_Independence."
+    },
+    {
+     "lens": "history",
+     "year": 1808,
+     "lat": 43.49,
+     "lon": -1.48,
+     "title": "Abdications of Bayonne",
+     "region": "Bayonne",
+     "caption": "Napoleon forces the Spanish Bourbons to abdicate.",
+     "source": "\"Abdications of Bayonne,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Abdications_of_Bayonne."
+    },
+    {
+     "lens": "history",
+     "year": 1810,
+     "lat": 10.506,
+     "lon": -66.914,
+     "title": "Spanish American wars of independence",
+     "region": "Caracas",
+     "caption": "Juntas at Caracas, Buenos Aires and Bogotá take power.",
+     "source": "\"Spanish American wars of independence,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence.",
+     "event": "geo-start-of-latin-american-independence-1810"
+    },
+    {
+     "lens": "history",
+     "year": 1824,
+     "lat": -13.163,
+     "lon": -74.224,
+     "title": "Battle of Ayacucho",
+     "region": "Ayacucho",
+     "caption": "Sucre defeats the last major Spanish army in Peru.",
+     "source": "\"Battle of Ayacucho,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Ayacucho."
+    }
+   ]
+  },
+  {
+   "id": "opium-wars",
+   "kind": "narrative",
+   "title": "Opium, trade and the Qing",
+   "thesis": "How did Britain's thirst for tea become a drug trade, two wars and a century of foreign power in China?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/1757-opium-trade-and-the-qing/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1757,
+     "lat": 23.13,
+     "lon": 113.26,
+     "title": "Canton System",
+     "region": "Guangzhou",
+     "caption": "The Qing limit Western trade to Canton.",
+     "source": "\"Canton System,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Canton_System."
+    },
+    {
+     "lens": "history",
+     "year": 1793,
+     "lat": 40.953,
+     "lon": 117.963,
+     "title": "Macartney Embassy",
+     "region": "Chengde",
+     "caption": "Qianlong rejects Britain's trade requests.",
+     "source": "\"Macartney Embassy,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Macartney_Embassy."
+    },
+    {
+     "lens": "history",
+     "year": 1796,
+     "lat": 39.907,
+     "lon": 116.397,
+     "title": "First Opium War",
+     "region": "Beijing",
+     "caption": "The Qing court bans opium outright; in 1799 Canton's governor orders the trade halted, but smuggling goes on.",
+     "source": "\"First Opium War,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/First_Opium_War."
+    },
+    {
+     "lens": "history",
+     "year": 1839,
+     "lat": 22.793,
+     "lon": 113.598,
+     "title": "Destruction of opium at Humen",
+     "region": "Humen",
+     "caption": "Lin Zexu destroys 1,000 tonnes of seized opium.",
+     "source": "\"Destruction of opium at Humen,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Destruction_of_opium_at_Humen."
+    },
+    {
+     "lens": "history",
+     "year": 1842,
+     "lat": 32.061,
+     "lon": 118.779,
+     "title": "Treaty of Nanking",
+     "region": "Nanjing",
+     "caption": "The Qing cede Hong Kong and open five ports.",
+     "source": "\"Treaty of Nanking,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Treaty_of_Nanking.",
+     "event": "geo-treaty-of-nanking-hong-kong-ceded-1842"
+    },
+    {
+     "lens": "history",
+     "year": 1850,
+     "lat": 23.4,
+     "lon": 110.083,
+     "title": "Taiping Rebellion",
+     "region": "Jintian",
+     "caption": "Hong Xiuquan launches the Taiping Rebellion.",
+     "source": "\"Taiping Rebellion,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Taiping_Rebellion."
+    },
+    {
+     "lens": "history",
+     "year": 1856,
+     "lat": 23.13,
+     "lon": 113.26,
+     "title": "Second Opium War",
+     "region": "Guangzhou",
+     "caption": "The Arrow incident starts a second war.",
+     "source": "\"Second Opium War,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Second_Opium_War."
+    },
+    {
+     "lens": "history",
+     "year": 1860,
+     "lat": 40.007,
+     "lon": 116.293,
+     "title": "Old Summer Palace",
+     "region": "Beijing",
+     "caption": "Troops loot and burn the Old Summer Palace.",
+     "source": "\"Old Summer Palace,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Old_Summer_Palace."
+    },
+    {
+     "lens": "history",
+     "year": 1861,
+     "lat": 39.907,
+     "lon": 116.397,
+     "title": "Self-Strengthening Movement",
+     "region": "Beijing",
+     "caption": "The Qing set up the Zongli Yamen and Self-Strengthening reforms.",
+     "source": "\"Self-Strengthening Movement,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Self-Strengthening_Movement."
+    },
+    {
+     "lens": "history",
+     "year": 1900,
+     "lat": 39.907,
+     "lon": 116.397,
+     "title": "Boxer Rebellion",
+     "region": "Beijing",
+     "caption": "Boxers besiege the legations; foreign armies take Beijing.",
+     "source": "\"Boxer Rebellion,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Boxer_Rebellion.",
+     "event": "geo-boxer-rebellion-1900"
+    }
+   ]
+  },
+  {
+   "id": "decolonization",
+   "kind": "narrative",
+   "title": "Decolonization",
+   "thesis": "How did Europe's empires lose within two generations the lands they had divided among themselves?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/1885-decolonization/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1885,
+     "lat": 52.52,
+     "lon": 13.405,
+     "title": "Berlin Conference",
+     "region": "Berlin",
+     "caption": "Fourteen powers meeting in Berlin agree rules for claiming African territory by 'effective occupation'.",
+     "source": "\"Berlin Conference,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Berlin_Conference."
+    },
+    {
+     "lens": "history",
+     "year": 1919,
+     "lat": 48.857,
+     "lon": 2.352,
+     "title": "Paris Peace Conference (1919–1920)",
+     "region": "Paris",
+     "caption": "Wilson's talk of self-determination raises hopes, but the victors apply it only in Europe; petitions from colonial subjects, a young Ho Chi Minh among them, go unanswered.",
+     "source": "\"Paris Peace Conference (1919–1920),\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920).",
+     "event": "geo-treaty-of-versailles-1919"
+    },
+    {
+     "lens": "history",
+     "year": 1941,
+     "lat": 47.251,
+     "lon": -54.259,
+     "title": "Atlantic Charter",
+     "region": "Placentia Bay",
+     "caption": "Roosevelt and Churchill declare the right of all peoples to choose their form of government.",
+     "source": "\"Atlantic Charter,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Atlantic_Charter."
+    },
+    {
+     "lens": "history",
+     "year": 1947,
+     "lat": 28.614,
+     "lon": 77.209,
+     "title": "Partition of India",
+     "region": "New Delhi",
+     "caption": "A war-exhausted Britain hands power to India and Pakistan; partition kills hundreds of thousands and uproots millions.",
+     "source": "\"Partition of India,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Partition_of_India."
+    },
+    {
+     "lens": "history",
+     "year": 1949,
+     "lat": -6.18,
+     "lon": 106.83,
+     "title": "Indonesian National Revolution",
+     "region": "Jakarta",
+     "caption": "After four years of war and US pressure, the Netherlands recognizes Indonesian sovereignty.",
+     "source": "\"Indonesian National Revolution,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Indonesian_National_Revolution."
+    },
+    {
+     "lens": "history",
+     "year": 1954,
+     "lat": 21.402,
+     "lon": 103.031,
+     "title": "Battle of Dien Bien Phu",
+     "region": "Dien Bien Phu",
+     "caption": "Viet Minh artillery forces the French garrison in northern Vietnam to surrender.",
+     "source": "\"Battle of Dien Bien Phu,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu."
+    },
+    {
+     "lens": "history",
+     "year": 1955,
+     "lat": -6.922,
+     "lon": 107.607,
+     "title": "Bandung Conference",
+     "region": "Bandung",
+     "caption": "Leaders of 29 Asian and African states, including Nehru, Sukarno and Nasser, meet at Bandung.",
+     "source": "\"Bandung Conference,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Bandung_Conference."
+    },
+    {
+     "lens": "history",
+     "year": 1956,
+     "lat": 29.967,
+     "lon": 32.55,
+     "title": "Suez Crisis",
+     "region": "Suez",
+     "caption": "Britain and France invade to retake the nationalized canal; US pressure on the pound forces them out.",
+     "source": "\"Suez Crisis,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Suez_Crisis.",
+     "event": "geo-suez-crisis-1956"
+    },
+    {
+     "lens": "history",
+     "year": 1957,
+     "lat": 5.55,
+     "lon": -0.2,
+     "title": "Gold Coast (British colony)",
+     "region": "Accra",
+     "caption": "The Gold Coast becomes independent Ghana under Kwame Nkrumah, the first sub-Saharan colony to do so.",
+     "source": "\"Gold Coast (British colony),\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Gold_Coast_(British_colony)."
+    },
+    {
+     "lens": "history",
+     "year": 1960,
+     "lat": 40.749,
+     "lon": -73.968,
+     "title": "Declaration on the Granting of Independence to Colonial Countries and Peoples",
+     "region": "New York",
+     "caption": "In the 'Year of Africa' seventeen African states win independence, and the UN General Assembly declares colonial rule a denial of human rights.",
+     "source": "\"Declaration on the Granting of Independence to Colonial Countries and Peoples,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples."
+    },
+    {
+     "lens": "history",
+     "year": 1962,
+     "lat": 46.383,
+     "lon": 6.583,
+     "title": "Évian Accords",
+     "region": "Évian-les-Bains",
+     "caption": "France and the Algerian FLN sign the Évian Accords, ending the Algerian War.",
+     "source": "\"Évian Accords,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/%C3%89vian_Accords."
+    }
+   ]
+  },
+  {
+   "id": "money-and-central-banking",
+   "kind": "narrative",
+   "title": "Money and central banking",
+   "thesis": "How did money pass from stamped metal to a government's promise, and who built the banks that keep it?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/600bc-money-and-central-banking/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": -600,
+     "lat": 38.488,
+     "lon": 28.04,
+     "title": "Lydia",
+     "region": "Sardis",
+     "caption": "The kingdom of Lydia strikes the first known coins, lumps of electrum stamped with a royal guarantee.",
+     "source": "\"Lydia,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Lydia."
+    },
+    {
+     "lens": "history",
+     "year": 1202,
+     "lat": 43.717,
+     "lon": 10.4,
+     "title": "Liber Abaci",
+     "region": "Pisa",
+     "caption": "Leonardo of Pisa (Fibonacci) publishes the Liber Abaci, teaching Hindu-Arabic numerals and merchant arithmetic he learned in North Africa.",
+     "source": "\"Liber Abaci,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Liber_Abaci."
+    },
+    {
+     "lens": "history",
+     "year": 1252,
+     "lat": 43.771,
+     "lon": 11.254,
+     "title": "Florin",
+     "region": "Florence",
+     "caption": "Florence mints the gold florin, which holds its weight for centuries.",
+     "source": "\"Florin,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Florin."
+    },
+    {
+     "lens": "history",
+     "year": 1397,
+     "lat": 43.771,
+     "lon": 11.254,
+     "title": "Medici Bank",
+     "region": "Florence",
+     "caption": "Giovanni di Bicci de' Medici founds the Medici Bank, which becomes the papacy's banker.",
+     "source": "\"Medici Bank,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Medici_Bank."
+    },
+    {
+     "lens": "history",
+     "year": 1407,
+     "lat": 44.407,
+     "lon": 8.934,
+     "title": "Bank of Saint George",
+     "region": "Genoa",
+     "caption": "Genoa's state creditors form the Casa di San Giorgio, which collects taxes to service the city's debt.",
+     "source": "\"Bank of Saint George,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Bank_of_Saint_George."
+    },
+    {
+     "lens": "history",
+     "year": 1609,
+     "lat": 52.373,
+     "lon": 4.894,
+     "title": "Bank of Amsterdam",
+     "region": "Amsterdam",
+     "caption": "The city of Amsterdam founds the Wisselbank to give merchants a stable bank money.",
+     "source": "\"Bank of Amsterdam,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Bank_of_Amsterdam."
+    },
+    {
+     "lens": "history",
+     "year": 1668,
+     "lat": 59.329,
+     "lon": 18.069,
+     "title": "Sveriges Riksbank",
+     "region": "Stockholm",
+     "caption": "After the private Stockholms Banco fails, the Swedish parliament founds the Riksbank, the oldest surviving central bank.",
+     "source": "\"Sveriges Riksbank,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Sveriges_Riksbank."
+    },
+    {
+     "lens": "history",
+     "year": 1694,
+     "lat": 51.507,
+     "lon": -0.128,
+     "title": "Bank of England",
+     "region": "London",
+     "caption": "London investors lend £1.2 million to William III's war government and incorporate as the Bank of England.",
+     "source": "\"Bank of England,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Bank_of_England."
+    },
+    {
+     "lens": "history",
+     "year": 1720,
+     "lat": 48.857,
+     "lon": 2.352,
+     "title": "John Law's Company",
+     "region": "Paris",
+     "caption": "John Law's Mississippi scheme collapses in Paris as the South Sea Bubble bursts in London.",
+     "source": "\"John Law's Company,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/John_Law%27s_Company."
+    },
+    {
+     "lens": "history",
+     "year": 1913,
+     "lat": 38.905,
+     "lon": -77.016,
+     "title": "Federal Reserve Act",
+     "region": "Washington, D.C.",
+     "caption": "After the Panic of 1907, bankers and Congress create the Federal Reserve System.",
+     "source": "\"Federal Reserve Act,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Federal_Reserve_Act."
+    },
+    {
+     "lens": "history",
+     "year": 1944,
+     "lat": 44.258,
+     "lon": -71.441,
+     "title": "Bretton Woods Conference",
+     "region": "Bretton Woods",
+     "caption": "Forty-four Allied nations peg their currencies to the dollar, and the dollar to gold at $35 an ounce.",
+     "source": "\"Bretton Woods Conference,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Bretton_Woods_Conference."
+    },
+    {
+     "lens": "history",
+     "year": 1971,
+     "lat": 38.905,
+     "lon": -77.016,
+     "title": "Nixon shock",
+     "region": "Washington, D.C.",
+     "caption": "Nixon suspends conversion of the dollar into gold.",
+     "source": "\"Nixon shock,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Nixon_shock."
+    }
+   ]
+  },
+  {
+   "id": "papacy-vs-empire",
+   "kind": "narrative",
+   "title": "Papacy versus Empire",
+   "thesis": "Pope and emperor made each other; why did their fight over who stood higher end with kings on top?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/754-papacy-versus-empire/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 754,
+     "lat": 49.571,
+     "lon": 3.144,
+     "title": "Donation of Pepin",
+     "region": "Quierzy",
+     "caption": "Pepin the Short promises Pope Stephen II the lands taken from the Lombards, founding the Papal States.",
+     "source": "\"Donation of Pepin,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Donation_of_Pepin."
+    },
+    {
+     "lens": "history",
+     "year": 800,
+     "lat": 41.902,
+     "lon": 12.453,
+     "title": "Charlemagne",
+     "region": "Rome",
+     "caption": "Pope Leo III crowns Charlemagne emperor in St Peter's on Christmas Day.",
+     "source": "\"Charlemagne,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Charlemagne.",
+     "event": "geo-coronation-of-charlemagne-800"
+    },
+    {
+     "lens": "history",
+     "year": 962,
+     "lat": 41.893,
+     "lon": 12.483,
+     "title": "Otto the Great",
+     "region": "Rome",
+     "caption": "Pope John XII crowns Otto I emperor, reviving the western empire under German kings.",
+     "source": "\"Otto the Great,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Otto_the_Great."
+    },
+    {
+     "lens": "history",
+     "year": 1075,
+     "lat": 41.893,
+     "lon": 12.483,
+     "title": "Dictatus papae",
+     "region": "Rome",
+     "caption": "Gregory VII asserts that the pope alone may depose emperors and appoint bishops.",
+     "source": "\"Dictatus papae,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Dictatus_papae."
+    },
+    {
+     "lens": "history",
+     "year": 1077,
+     "lat": 44.576,
+     "lon": 10.456,
+     "title": "Road to Canossa",
+     "region": "Canossa",
+     "caption": "Henry IV waits in the snow at Canossa for Gregory's absolution.",
+     "source": "\"Road to Canossa,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Road_to_Canossa."
+    },
+    {
+     "lens": "history",
+     "year": 1122,
+     "lat": 49.632,
+     "lon": 8.365,
+     "title": "Concordat of Worms",
+     "region": "Worms",
+     "caption": "Henry V and Calixtus II split investiture into spiritual and secular parts.",
+     "source": "\"Concordat of Worms,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Concordat_of_Worms."
+    },
+    {
+     "lens": "history",
+     "year": 1176,
+     "lat": 45.578,
+     "lon": 8.918,
+     "title": "Battle of Legnano",
+     "region": "Legnano",
+     "caption": "The Lombard League, allied with Pope Alexander III, defeats Frederick Barbarossa.",
+     "source": "\"Battle of Legnano,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Battle_of_Legnano."
+    },
+    {
+     "lens": "history",
+     "year": 1250,
+     "lat": 41.683,
+     "lon": 15.283,
+     "title": "Frederick II, Holy Roman Emperor",
+     "region": "Castel Fiorentino",
+     "caption": "Frederick II, excommunicated and declared deposed by the pope, dies at Castel Fiorentino in Apulia.",
+     "source": "\"Frederick II, Holy Roman Emperor,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor."
+    },
+    {
+     "lens": "history",
+     "year": 1302,
+     "lat": 41.893,
+     "lon": 12.483,
+     "title": "Unam sanctam",
+     "region": "Rome",
+     "caption": "Boniface VIII declares that submission to the pope is necessary for salvation.",
+     "source": "\"Unam sanctam,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Unam_sanctam."
+    },
+    {
+     "lens": "history",
+     "year": 1309,
+     "lat": 43.95,
+     "lon": 4.808,
+     "title": "Avignon Papacy",
+     "region": "Avignon",
+     "caption": "Clement V, a Gascon, settles the papal court at Avignon under French influence.",
+     "source": "\"Avignon Papacy,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Avignon_Papacy."
+    },
+    {
+     "lens": "history",
+     "year": 1378,
+     "lat": 41.893,
+     "lon": 12.483,
+     "title": "Western Schism",
+     "region": "Rome",
+     "caption": "Two, later three, rival popes divide Europe along political lines.",
+     "source": "\"Western Schism,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Western_Schism."
+    },
+    {
+     "lens": "history",
+     "year": 1417,
+     "lat": 47.667,
+     "lon": 9.183,
+     "title": "Council of Constance",
+     "region": "Constance",
+     "caption": "The council removes the rival popes and elects Martin V.",
+     "source": "\"Council of Constance,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Council_of_Constance."
+    }
+   ]
+  },
+  {
+   "id": "merchant-republics",
+   "kind": "narrative",
+   "title": "Merchant republics to Amsterdam and London",
+   "thesis": "How did the center of European trade and credit move from Venice and Genoa to Amsterdam and London?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/1082-merchant-republics-to-amsterdam-and-london/",
+   "stops": [
+    {
+     "lens": "history",
+     "year": 1082,
+     "lat": 45.438,
+     "lon": 12.336,
+     "title": "Byzantine–Venetian treaty of 1082",
+     "region": "Venice",
+     "caption": "Byzantium grants Venice tax-free trade across the empire in return for naval help against the Normans.",
+     "source": "\"Byzantine–Venetian treaty of 1082,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Byzantine%E2%80%93Venetian_treaty_of_1082."
+    },
+    {
+     "lens": "history",
+     "year": 1204,
+     "lat": 41.013,
+     "lon": 28.98,
+     "title": "Fourth Crusade",
+     "region": "Constantinople",
+     "caption": "Doge Enrico Dandolo steers the Fourth Crusade into sacking Constantinople.",
+     "source": "\"Fourth Crusade,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Fourth_Crusade."
+    },
+    {
+     "lens": "history",
+     "year": 1345,
+     "lat": 43.771,
+     "lon": 11.254,
+     "title": "Bardi family",
+     "region": "Florence",
+     "caption": "The Bardi and Peruzzi banks collapse after heavy lending to Edward III and Florentine crises.",
+     "source": "\"Bardi family,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Bardi_family."
+    },
+    {
+     "lens": "history",
+     "year": 1528,
+     "lat": 44.407,
+     "lon": 8.934,
+     "title": "Andrea Doria",
+     "region": "Genoa",
+     "caption": "Admiral Andrea Doria switches Genoa from France to Charles V.",
+     "source": "\"Andrea Doria,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Andrea_Doria."
+    },
+    {
+     "lens": "history",
+     "year": 1557,
+     "lat": 40.417,
+     "lon": -3.703,
+     "title": "Philip II of Spain",
+     "region": "Madrid",
+     "caption": "Philip II suspends payments on his debts, the first of several Spanish defaults.",
+     "source": "\"Philip II of Spain,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Philip_II_of_Spain."
+    },
+    {
+     "lens": "history",
+     "year": 1585,
+     "lat": 51.218,
+     "lon": 4.4,
+     "title": "Fall of Antwerp",
+     "region": "Antwerp",
+     "caption": "Spanish forces take Antwerp; Protestant merchants must convert or leave, and many go to Amsterdam.",
+     "source": "\"Fall of Antwerp,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Fall_of_Antwerp."
+    },
+    {
+     "lens": "history",
+     "year": 1602,
+     "lat": 52.373,
+     "lon": 4.894,
+     "title": "Dutch East India Company",
+     "region": "Amsterdam",
+     "caption": "The States General charter the VOC, whose shares trade in Amsterdam.",
+     "source": "\"Dutch East India Company,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Dutch_East_India_Company."
+    },
+    {
+     "lens": "history",
+     "year": 1672,
+     "lat": 52.08,
+     "lon": 4.31,
+     "title": "Rampjaar",
+     "region": "The Hague",
+     "caption": "France, England and two German bishoprics invade the Dutch Republic; William III takes power.",
+     "source": "\"Rampjaar,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Rampjaar."
+    },
+    {
+     "lens": "history",
+     "year": 1688,
+     "lat": 51.507,
+     "lon": -0.128,
+     "title": "Glorious Revolution",
+     "region": "London",
+     "caption": "William III invades England with a Dutch fleet and takes the throne with Mary.",
+     "source": "\"Glorious Revolution,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Glorious_Revolution."
+    }
+   ]
+  },
+  {
+   "id": "buddhism-spreads",
+   "kind": "transmission",
+   "title": "How Buddhism spread",
+   "thesis": "How did a beggars' order cross Asia on the patronage of kings, and why did its wealth make it a target?",
+   "story_url": "https://arxcortex.github.io/arxstories/atlas/528bc-how-buddhism-spread/",
+   "stops": [
+    {
+     "lens": "religion",
+     "year": -528,
+     "lat": 24.695,
+     "lon": 84.993,
+     "title": "The Buddha",
+     "region": "Bodh Gaya",
+     "caption": "Siddhartha Gautama is said to attain awakening under the Bodhi tree.",
+     "source": "\"The Buddha,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/The_Buddha.",
+     "event": "religion-the-buddha-s-enlightenment--528"
+    },
+    {
+     "lens": "history",
+     "year": -483,
+     "lat": 26.741,
+     "lon": 83.888,
+     "title": "The Buddha",
+     "region": "Kushinagar",
+     "caption": "The Buddha dies at Kushinagar.",
+     "source": "\"The Buddha,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/The_Buddha.",
+     "event": "geo-death-of-the-buddha--483"
+    },
+    {
+     "lens": "history",
+     "year": -261,
+     "lat": 20.192,
+     "lon": 85.839,
+     "title": "Kalinga War",
+     "region": "Kalinga",
+     "caption": "The Mauryan emperor Ashoka conquers Kalinga at great cost in lives.",
+     "source": "\"Kalinga War,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Kalinga_War."
+    },
+    {
+     "lens": "history",
+     "year": -250,
+     "lat": 25.594,
+     "lon": 85.138,
+     "title": "Buddhist councils",
+     "region": "Pataliputra",
+     "caption": "Tradition places a Third Council under Ashoka at Pataliputra, which sends missions abroad.",
+     "source": "\"Buddhist councils,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Buddhist_councils."
+    },
+    {
+     "lens": "history",
+     "year": 127,
+     "lat": 34.014,
+     "lon": 71.567,
+     "title": "Kanishka",
+     "region": "Peshawar",
+     "caption": "The Kushan emperor Kanishka patronises Buddhism and builds a great stupa at Peshawar.",
+     "source": "\"Kanishka,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Kanishka."
+    },
+    {
+     "lens": "history",
+     "year": 178,
+     "lat": 34.62,
+     "lon": 112.454,
+     "title": "Lokaksema (Buddhist monk)",
+     "region": "Luoyang",
+     "caption": "Lokaksema, a monk traditionally called Kushan, reaches Luoyang before Emperor Huan dies in January 168 and from 178 to 189 translates Mahayana sutras into Chinese.",
+     "source": "\"Lokaksema (Buddhist monk),\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Lokaksema_(Buddhist_monk)."
+    },
+    {
+     "lens": "history",
+     "year": 372,
+     "lat": 39.017,
+     "lon": 125.748,
+     "title": "Goguryeo",
+     "region": "Goguryeo",
+     "caption": "The Former Qin court sends the monk Sundo with texts and images to Goguryeo.",
+     "source": "\"Goguryeo,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Goguryeo."
+    },
+    {
+     "lens": "history",
+     "year": 552,
+     "lat": 34.471,
+     "lon": 135.821,
+     "title": "Buddhism in Japan",
+     "region": "Nara",
+     "caption": "Baekje's king sends a Buddha image and sutras to the Yamato court.",
+     "source": "\"Buddhism in Japan,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Buddhism_in_Japan."
+    },
+    {
+     "lens": "history",
+     "year": 845,
+     "lat": 34.261,
+     "lon": 108.942,
+     "title": "Huichang persecution of Buddhism",
+     "region": "Chang'an",
+     "caption": "Tang emperor Wuzong closes thousands of monasteries and seizes their wealth.",
+     "source": "\"Huichang persecution of Buddhism,\" *Wikipedia*, accessed October 28, 2026, https://en.wikipedia.org/wiki/Huichang_persecution_of_Buddhism."
+    }
+   ]
+  }
+ ]
+}

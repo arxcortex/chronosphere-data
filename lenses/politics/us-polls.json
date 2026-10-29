@@ -1,0 +1,98 @@
+{
+  "region": "us",
+  "updated": "2026-10-25",
+  "note": "The page shows the season whose opens and closes dates contain today. Adding the next season, or moving those dates, is what turns the view over. Do not invent a number. Each poll needs the link the figure was read from.",
+  "seasons": [
+    {
+      "id": "2026-midterm",
+      "label": "2026 midterms",
+      "opens": "2024-11-06",
+      "closes": "2026-11-03",
+      "election_day": "2026-11-03",
+      "offices": ["house", "senate"]
+    },
+    {
+      "id": "2028-presidential",
+      "label": "2028 presidential",
+      "opens": "2026-11-04",
+      "closes": "2028-11-07",
+      "election_day": "2028-11-07",
+      "offices": ["president", "house", "senate"]
+    },
+    {
+      "id": "2030-midterm",
+      "label": "2030 midterms",
+      "opens": "2028-11-08",
+      "closes": "2030-11-05",
+      "election_day": "2030-11-05",
+      "offices": ["house", "senate"]
+    }
+  ],
+  "polls": [
+    {
+      "season": "2026-midterm",
+      "office": "house",
+      "title": "Generic congressional ballot",
+      "pollster": "CBS/YouGov",
+      "as_of": "2026-10-23",
+      "field": "October 21–23, 2026",
+      "sample": "2,355 likely voters",
+      "url": "https://www.cnn.com/polling/2026-generic-ballot",
+      "d": 53,
+      "r": 45,
+      "other": 1
+    },
+    {
+      "season": "2026-midterm",
+      "office": "house",
+      "title": "Generic congressional ballot",
+      "pollster": "CNN/SSRS",
+      "as_of": "2026-10-18",
+      "field": "October 15–18, 2026",
+      "sample": "1,206 registered voters",
+      "url": "https://www.cnn.com/polling/2026-generic-ballot",
+      "d": 49,
+      "r": 39,
+      "other": 11
+    },
+    {
+      "season": "2026-midterm",
+      "office": "house",
+      "title": "Generic congressional ballot",
+      "pollster": "New York Times/Siena",
+      "as_of": "2026-10-19",
+      "field": "October 12–19, 2026",
+      "sample": "3,494 likely voters",
+      "url": "https://www.cnn.com/polling/2026-generic-ballot",
+      "d": 52,
+      "r": 41,
+      "other": 6
+    },
+    {
+      "season": "2026-midterm",
+      "office": "house",
+      "title": "Generic congressional ballot",
+      "pollster": "ABC News/Washington Post/Ipsos",
+      "as_of": "2026-10-13",
+      "field": "October 9–13, 2026",
+      "sample": "2,032 likely voters",
+      "url": "https://www.cnn.com/polling/2026-generic-ballot",
+      "d": 52,
+      "r": 44,
+      "other": 4
+    },
+    {
+      "season": "2026-midterm",
+      "office": "house",
+      "title": "Generic congressional ballot",
+      "pollster": "Fox News",
+      "as_of": "2026-10-12",
+      "field": "October 9–12, 2026",
+      "sample": "1,202 registered voters",
+      "url": "https://www.cnn.com/polling/2026-generic-ballot",
+      "d": 54,
+      "r": 45,
+      "other": 1
+    }
+  ]
+}
