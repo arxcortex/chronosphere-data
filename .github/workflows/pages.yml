@@ -4,7 +4,7 @@ name: Publish Pages
 on:
   push:
     branches: [main]
-    paths: ["lenses/**", "static/**", "data/chokepoints.json", "data/SOURCES.md"]
+    paths: ["lenses/**", "static/**", "data/chokepoints.json", "data/SOURCES.md", "games/**"]
   workflow_call:
   workflow_dispatch:
 
@@ -32,6 +32,7 @@ jobs:
           mkdir -p _site/now _site/data
           cp -r lenses _site/lenses
           [ -d static ] && cp -r static/. _site/ || true
+          [ -d games ] && cp -r games _site/games || true
           cp data/chokepoints.json data/SOURCES.md _site/data/
           url="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           if git ls-remote --exit-code --heads "$url" live >/dev/null; then
