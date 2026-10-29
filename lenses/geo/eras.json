@@ -4023,7 +4023,8 @@
     "lat": 41.9022,
     "lon": 12.4533,
     "desc": "On Christmas Day 800, Pope Leo III crowns Charlemagne 'Emperor of the Romans' at Old St. Peter's Basilica. The act revives the Western imperial title dormant since 476 and creates the political-theological framework of Latin Christendom for the next thousand years.",
-    "wiki": "Coronation_of_Charlemagne"
+    "wiki": "Coronation_of_Charlemagne",
+    "grokipedia": "Charlemagne"
    },
    {
     "id": "geo-founding-of-the-house-of-wisdom-830",
@@ -4041,7 +4042,8 @@
     "lat": 53.35,
     "lon": -6.26,
     "desc": "Norse raiders establish a longphort — a fortified ship encampment — at the mouth of the Liffey. It will grow into Dublin. The Viking age is transforming Europe's coasts from Ireland to the Black Sea.",
-    "wiki": "Norse_activity_in_the_British_Isles"
+    "wiki": "Norse_activity_in_the_British_Isles",
+    "grokipedia": "Kingdom_of_Dublin"
    }
   ],
   "polities": [
@@ -5388,7 +5390,8 @@
     "lat": 33.32,
     "lon": 44.42,
     "desc": "Hulagu Khan's army takes Baghdad after a twelve-day siege. The last Abbasid caliph is executed; the House of Wisdom's library is thrown into the Tigris; perhaps 200,000 are killed. The symbolic center of Islamic civilization for five centuries is destroyed.",
-    "wiki": "Siege_of_Baghdad_(1258)"
+    "wiki": "Siege_of_Baghdad_(1258)",
+    "grokipedia": "Siege_of_Baghdad"
    },
    {
     "id": "geo-battle-of-ain-jalut-1260",
@@ -11203,15 +11206,6 @@
     "wiki": "Meiji_Restoration"
    },
    {
-    "id": "geo-drake-s-well-1859",
-    "name": "Drake's Well",
-    "year": 1859,
-    "lat": 41.6023,
-    "lon": -79.6581,
-    "desc": "Edwin Drake drills the first commercially successful oil well in Titusville, Pennsylvania. 69 feet down, 25 barrels a day. The rock-oil industry is born — initially for kerosene lamps replacing whale oil. The true age of hydrocarbons begins.",
-    "wiki": "Drake_Well"
-   },
-   {
     "id": "geo-standard-oil-founded-1870",
     "name": "Standard Oil founded",
     "year": 1870,
@@ -11227,7 +11221,8 @@
     "lat": 1.2897,
     "lon": 103.8501,
     "desc": "January 29, 1819. Stamford Raffles of the East India Company lands on a swampy island of about a thousand Malays and Chinese fishermen at the southern tip of the Malay Peninsula. Within a week he has signed a treaty with the Temenggong and the Sultan of Johor granting a British trading post. Declared a free port, Singapore's population reaches 10,000 within five years and 80,000 by 1860. The choke point of the Strait of Malacca — the shortest sea route between the Indian Ocean and China — is now in British hands. Within a century Singapore is the busiest port in Asia; within two, the wealthiest city in Southeast Asia and the model developmental state of the post-colonial era.",
-    "wiki": "Founding_of_modern_Singapore"
+    "wiki": "Founding_of_modern_Singapore",
+    "grokipedia": "Stamford_Raffles"
    },
    {
     "id": "geo-treaty-of-nanking-hong-kong-ceded-1842",
@@ -11246,6 +11241,15 @@
     "lon": 32.2654,
     "desc": "November 17, 1869. After ten years of construction under Ferdinand de Lesseps and a Franco-Egyptian company — with perhaps 120,000 Egyptian laborers dead in the cutting — a 164-kilometer channel connects the Mediterranean to the Red Sea. The voyage from London to Bombay is cut from 20,000 to 12,000 kilometers. Egypt's ruler Ismail Pasha opens the canal in a ceremony featuring Verdi's commission for Aida. Within six years Egypt is bankrupt; Britain's Disraeli borrows from the Rothschilds overnight to buy the Khedive's 44 percent stake. British occupation of Egypt follows in 1882 and lasts seventy years; the canal becomes the single most strategically important choke point of the imperial era, fought over at El Alamein in 1942 and nationalized by Nasser in 1956.",
     "wiki": "Suez_Canal"
+   },
+   {
+    "id": "geo-drake-s-well-birth-of-the-oil-industry-1859",
+    "name": "Drake's Well — birth of the oil industry",
+    "year": 1859,
+    "lat": 41.612,
+    "lon": -79.6631,
+    "desc": "Edwin Drake drills the first commercially successful oil well near Titusville, Pennsylvania, at 69 feet using a steam-powered rig. Within a year a forest of derricks covers Oil Creek Valley; Pithole City goes from farmland to 15,000 people in eighteen months. Kerosene for lighting displaces whale oil within a decade, saving the whales by accident. John D. Rockefeller arrives in 1863. The modern petroleum industry — and every politics that follows from it — begins here.",
+    "wiki": "Drake_Well"
    }
   ],
   "polities": [
@@ -12268,15 +12272,6 @@
     "wiki": "Spanish%E2%80%93American_War"
    },
    {
-    "id": "geo-baku-oil-boom-1901",
-    "name": "Baku Oil Boom",
-    "year": 1901,
-    "lat": 40.4093,
-    "lon": 49.8671,
-    "desc": "At the turn of the century the Absheron Peninsula on the Caspian produces roughly half the world's oil. The Nobel brothers (Ludvig, Robert, and Alfred of prize fame) and the Rothschilds build the first integrated oil industry — pipelines, tankers, refineries. Baku's oil wealth funds the Russian industrial revolution and, via Bolshevik organizer Joseph Stalin's early career there, the revolution that will overthrow it. The city is the first Los Angeles, the first Houston — a raw, multiethnic boomtown of Armenians, Azeris, Russians, Persians, and European capital.",
-    "wiki": "Baku#Oil_boom"
-   },
-   {
     "id": "geo-standard-oil-broken-up-1911",
     "name": "Standard Oil Broken Up",
     "year": 1911,
@@ -12311,24 +12306,6 @@
     "lon": -94.0853,
     "desc": "January 10, 1901. A well on Spindletop Hill near Beaumont, Texas blows in at 100,000 barrels a day — more than all other US wells combined. Texaco and Gulf Oil are founded to exploit the find. American oil's center of gravity moves from Pennsylvania to the Gulf coast.",
     "wiki": "Spindletop"
-   },
-   {
-    "id": "geo-anglo-persian-oil-1908",
-    "name": "Anglo-Persian Oil",
-    "year": 1908,
-    "lat": 31.3183,
-    "lon": 48.6706,
-    "desc": "William Knox D'Arcy's concession strikes oil at Masjed Soleyman in Persia. The Anglo-Persian Oil Company (later BP) is founded in 1909. Churchill, as First Lord of the Admiralty, converts the Royal Navy from coal to oil and takes the British government as majority shareholder — making Middle Eastern oil a British strategic interest for the next fifty years.",
-    "wiki": "Anglo-Persian_Oil_Company"
-   },
-   {
-    "id": "geo-drake-s-well-birth-of-the-oil-industry-1859",
-    "name": "Drake's Well — birth of the oil industry",
-    "year": 1859,
-    "lat": 41.612,
-    "lon": -79.6631,
-    "desc": "Edwin Drake drills the first commercially successful oil well near Titusville, Pennsylvania, at 69 feet using a steam-powered rig. Within a year a forest of derricks covers Oil Creek Valley; Pithole City goes from farmland to 15,000 people in eighteen months. Kerosene for lighting displaces whale oil within a decade, saving the whales by accident. John D. Rockefeller arrives in 1863. The modern petroleum industry — and every politics that follows from it — begins here.",
-    "wiki": "Drake_Well"
    },
    {
     "id": "geo-transcontinental-railroad-completed-1869",
@@ -13290,7 +13267,7 @@
     ]
    },
    {
-    "name": "British India and neighbours",
+    "name": "British India and neighbors",
     "type": "Regional fill",
     "color": "#7a6158",
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
@@ -13450,7 +13427,8 @@
     "lat": 39.0458,
     "lon": -99.2893,
     "desc": "H1N1 influenza, probably originating in military camps in Kansas or the Western Front, kills 50 to 100 million people in four waves through 1920 — more than the war itself. Young adults die disproportionately. Wartime censorship suppresses reporting outside neutral Spain (hence the name 'Spanish flu'). The first modern pandemic of a connected world.",
-    "wiki": "1918_flu_pandemic"
+    "wiki": "1918_flu_pandemic",
+    "grokipedia": "Spanish_flu"
    },
    {
     "id": "geo-russian-revolution-1917",
@@ -14267,7 +14245,7 @@
     ]
    },
    {
-    "name": "British India and neighbours",
+    "name": "British India and neighbors",
     "type": "Regional fill",
     "color": "#7a6158",
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
@@ -14399,6 +14377,24 @@
     "lon": 37.6175,
     "desc": "1936–38. Show trials of old Bolsheviks (Zinoviev, Kamenev, Bukharin); mass arrests by the NKVD; perhaps 700,000 executed outright and hundreds of thousands more dying in the Gulag. The Red Army officer corps is decimated — three of five marshals, fifteen of sixteen army commanders, half the colonels — just as war approaches. Stalin pays for it in blood two years later against the Wehrmacht.",
     "wiki": "Great_Purge"
+   },
+   {
+    "id": "geo-aramco-concession-1933",
+    "name": "Aramco concession",
+    "year": 1933,
+    "lat": 26.4207,
+    "lon": 50.0888,
+    "desc": "Standard Oil of California secures exclusive rights to prospect for oil across Saudi Arabia from Ibn Saud for £50,000 in gold. In 1938 Dammam Well No. 7 strikes commercial quantities. Aramco will become the most valuable industrial enterprise in history.",
+    "wiki": "Saudi_Aramco"
+   },
+   {
+    "id": "geo-hoover-dam-completed-1936",
+    "name": "Hoover Dam completed",
+    "year": 1936,
+    "lat": 36.0161,
+    "lon": -114.7377,
+    "desc": "221 meters of concrete across Black Canyon on the Colorado River, dedicated by Roosevelt in 1935 — the largest concrete structure on earth at the time. The dam electrifies Los Angeles, creates Lake Mead, makes the desert Southwest habitable at scale, and inaugurates the era of big-state infrastructure: the TVA, the Grand Coulee, Glen Canyon, the Aswan High Dam, China's Three Gorges. 96 workers died in the construction. Every later dispute over Western water — and there are many more coming — traces back to the allocation compact signed around its pouring.",
+    "wiki": "Hoover_Dam"
    }
   ],
   "polities": [
@@ -15237,7 +15233,7 @@
     ]
    },
    {
-    "name": "British India and neighbours",
+    "name": "British India and neighbors",
     "type": "Regional fill",
     "color": "#7a6158",
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
@@ -16221,7 +16217,7 @@
     ]
    },
    {
-    "name": "British India and neighbours",
+    "name": "British India and neighbors",
     "type": "Regional fill",
     "color": "#7a6158",
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
@@ -16347,22 +16343,14 @@
     "wiki": "United_Nations"
    },
    {
-    "id": "geo-aramco-concession-1933",
-    "name": "Aramco concession",
-    "year": 1933,
-    "lat": 26.4207,
-    "lon": 50.0888,
-    "desc": "Standard Oil of California secures exclusive rights to prospect for oil across Saudi Arabia from Ibn Saud for £50,000 in gold. In 1938 Dammam Well No. 7 strikes commercial quantities. Aramco will become the most valuable industrial enterprise in history.",
-    "wiki": "Saudi_Aramco"
-   },
-   {
     "id": "geo-seven-sisters-era-1951",
     "name": "Seven Sisters era",
     "year": 1951,
     "lat": 35.6892,
     "lon": 51.389,
     "desc": "Mossadegh nationalizes Anglo-Iranian Oil; the British and Americans overthrow him in 1953. The 'Seven Sisters' — Exxon, Mobil, Chevron, Texaco, Gulf, BP, Shell — control about 85 percent of world oil reserves until OPEC breaks their grip in the 1970s.",
-    "wiki": "Seven_Sisters_(oil_companies)"
+    "wiki": "Seven_Sisters_(oil_companies)",
+    "grokipedia": null
    },
    {
     "id": "geo-ghawar-field-discovered-1948",
@@ -16371,16 +16359,8 @@
     "lat": 25.4333,
     "lon": 49.65,
     "desc": "Aramco geologists confirm the Ghawar field in the Saudi Eastern Province — the largest conventional oil field ever discovered. 280 kilometers long, 30 wide, 70 billion barrels recovered to date with perhaps another 40 to go. Ghawar alone has produced more oil than any country except Saudi Arabia itself. For seventy years its output quietly sets the floor of world oil supply; when it finally begins to decline in the 2020s, Aramco's IPO prospectus is the first document to admit it. The single most consequential geological feature of the 20th century.",
-    "wiki": "Ghawar_field"
-   },
-   {
-    "id": "geo-hoover-dam-completed-1936",
-    "name": "Hoover Dam completed",
-    "year": 1936,
-    "lat": 36.0161,
-    "lon": -114.7377,
-    "desc": "221 meters of concrete across Black Canyon on the Colorado River, dedicated by Roosevelt in 1935 — the largest concrete structure on earth at the time. The dam electrifies Los Angeles, creates Lake Mead, makes the desert Southwest habitable at scale, and inaugurates the era of big-state infrastructure: the TVA, the Grand Coulee, Glen Canyon, the Aswan High Dam, China's Three Gorges. 96 workers died in the construction. Every later dispute over Western water — and there are many more coming — traces back to the allocation compact signed around its pouring.",
-    "wiki": "Hoover_Dam"
+    "wiki": "Ghawar_field",
+    "grokipedia": "Ghawar_Field"
    },
    {
     "id": "geo-first-transistor-1947",
@@ -17234,7 +17214,7 @@
     ]
    },
    {
-    "name": "British India and neighbours",
+    "name": "British India and neighbors",
     "type": "Regional fill",
     "color": "#7a6158",
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
@@ -17487,6 +17467,15 @@
     "lon": 103.8198,
     "desc": "August 9, 1965. Singapore is expelled from the Federation of Malaysia after two years of political conflict. Lee Kuan Yew announces independence on television, tears in his eyes — he had believed the merger was his city's only viable future. Over the next three decades the PAP-governed city-state pursues export-led industrialization, public housing, rigorous English-language education, and ruthless meritocracy; per-capita GDP rises from that of a poor country to among the highest in the world. Singapore becomes the model invoked from Dubai to Rwanda to Shenzhen — the developmental authoritarian case study of the post-colonial era.",
     "wiki": "Singapore"
+   },
+   {
+    "id": "geo-opec-founded-1960",
+    "name": "OPEC founded",
+    "year": 1960,
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "desc": "Saudi Arabia, Iraq, Iran, Kuwait, and Venezuela found the Organization of Petroleum Exporting Countries in Baghdad. The end of the Seven Sisters' pricing monopoly. By 1973 OPEC will hold the industrialized world hostage.",
+    "wiki": "OPEC"
    }
   ],
   "polities": [
@@ -18483,15 +18472,6 @@
     "wiki": "World_Wide_Web"
    },
    {
-    "id": "geo-opec-oil-embargo-1973",
-    "name": "OPEC Oil Embargo",
-    "year": 1973,
-    "lat": 24.4539,
-    "lon": 54.3773,
-    "desc": "In retaliation for American support of Israel in the Yom Kippur War, the Arab members of OPEC cut production and embargo the United States and the Netherlands. Oil prices quadruple in three months. Gasoline lines, stagflation, and the end of the postwar boom follow. For the first time the oil-exporting states — not the Seven Sisters majors who set up the industry — control the price of the blood of the industrial economy. The 'petrodollar' system is born: OPEC prices oil in dollars and recycles the surplus through Western banks, tying American monetary power to Saudi export capacity.",
-    "wiki": "1973_oil_crisis"
-   },
-   {
     "id": "geo-iranian-revolution-1979",
     "name": "Iranian Revolution",
     "year": 1979,
@@ -18501,24 +18481,6 @@
     "wiki": "Iranian_Revolution"
    },
    {
-    "id": "geo-opec-founded-1960",
-    "name": "OPEC founded",
-    "year": 1960,
-    "lat": 33.3152,
-    "lon": 44.3661,
-    "desc": "Saudi Arabia, Iraq, Iran, Kuwait, and Venezuela found the Organization of Petroleum Exporting Countries in Baghdad. The end of the Seven Sisters' pricing monopoly. By 1973 OPEC will hold the industrialized world hostage.",
-    "wiki": "OPEC"
-   },
-   {
-    "id": "geo-1973-oil-crisis-1973",
-    "name": "1973 Oil Crisis",
-    "year": 1973,
-    "lat": 24.7136,
-    "lon": 46.6753,
-    "desc": "Arab OPEC states embargo the US and the Netherlands for backing Israel in the Yom Kippur War. Oil prices quadruple in months. The end of cheap energy — the Western postwar boom ends; stagflation, deindustrialization, and the politics of scarcity begin. Saudi Arabia becomes the swing producer and central node of the global economy.",
-    "wiki": "1973_oil_crisis"
-   },
-   {
     "id": "geo-chernobyl-disaster-1986",
     "name": "Chernobyl disaster",
     "year": 1986,
@@ -18526,15 +18488,6 @@
     "lon": 30.0991,
     "desc": "Reactor No. 4 at the Chernobyl Nuclear Power Plant explodes during a safety test. Radioactive fallout over Europe. The disaster damages nuclear power's public standing for decades and reveals the Soviet state's incapacity to handle its own infrastructure — contributing to the regime's collapse five years later.",
     "wiki": "Chernobyl_disaster"
-   },
-   {
-    "id": "geo-sputnik-1957",
-    "name": "Sputnik",
-    "year": 1957,
-    "lat": 45.9204,
-    "lon": 63.3422,
-    "desc": "October 4, 1957. An R-7 rocket lifts off from Baikonur and puts an 84-kilogram aluminum sphere into low Earth orbit, beeping on shortwave every 96 minutes. The American shock is total: the USSR has not only caught up technologically but leapfrogged. NASA is founded within ten months; ARPA (later DARPA) within six; the National Defense Education Act pours federal money into physics, math, and foreign-language training. The space race, the missile-gap panic, and the computing revolution that will end the USSR all begin with this single radio tone.",
-    "wiki": "Sputnik_1"
    },
    {
     "id": "geo-intel-founded-1968",
@@ -20567,16 +20520,8 @@
     "lat": 40.7069,
     "lon": -74.0113,
     "desc": "Lehman Brothers files for bankruptcy September 15, 2008. The collapse of a 158-year-old investment bank exposes the rot in US mortgage finance; credit markets freeze worldwide. $10 trillion in global wealth destroyed. The authority of the Anglo-American financial model never fully recovers — and China emerges with reserves to buy at the bottom.",
-    "wiki": "2008_financial_crisis"
-   },
-   {
-    "id": "geo-shale-revolution-breaks-out-2008",
-    "name": "Shale Revolution breaks out",
-    "year": 2008,
-    "lat": 31.9686,
-    "lon": -102.0779,
-    "desc": "George Mitchell's thirty-year bet on hydraulic fracturing finally cracks the Barnett Shale commercially; the technique spreads to the Bakken and Permian. By 2012 US oil output is rising for the first time in forty years; by 2018 the US is the world's largest producer. The revolution collapses OPEC's pricing power and underwrites American energy independence.",
-    "wiki": "Shale_revolution"
+    "wiki": "2008_financial_crisis",
+    "grokipedia": "2007–2008_financial_crisis"
    },
    {
     "id": "geo-arab-spring-2011",
@@ -20585,7 +20530,8 @@
     "lat": 30.0444,
     "lon": 31.2357,
     "desc": "Mohamed Bouazizi self-immolates in Tunisia December 17, 2010; within months Ben Ali, Mubarak, and Gaddafi have fallen. The moment of democratic possibility in the Arab world. Within five years Syria and Libya are in civil war; Egypt has a new military regime; only Tunisia retains a fragile democracy. Counterrevolution and jihadism capture the decade.",
-    "wiki": "Arab_Spring"
+    "wiki": "Arab_Spring",
+    "grokipedia": null
    },
    {
     "id": "geo-facebook-era-2012",
@@ -22340,7 +22286,8 @@
     "lat": 31.9686,
     "lon": -102.0779,
     "desc": "Hydraulic fracturing and horizontal drilling, perfected in the Barnett, Bakken, and Permian basins through the 2000s, turn the United States from a declining oil importer into the world's largest producer of both oil and natural gas by the mid-2010s. By 2018 the US overtakes Saudi Arabia in crude; by 2023 it is the top LNG exporter. The revolution collapses OPEC's pricing power, underwrites American foreign-policy autonomy in the Middle East, and — combined with the collapse of Russian pipeline gas to Europe after 2022 — makes the Permian basin in west Texas the most strategically important patch of ground on earth.",
-    "wiki": "Shale_revolution"
+    "wiki": "Shale_revolution",
+    "grokipedia": "Fracking_in_the_United_States"
    },
    {
     "id": "geo-saudi-vision-2030-2016",
@@ -24150,7 +24097,8 @@
     "lat": 22.2819,
     "lon": 114.1659,
     "desc": "On 30 June 2020 Beijing enacted a Hong Kong law against secession, subversion, terrorism and foreign collusion. Police then jailed opposition leaders, and Britain opened a path to citizenship.",
-    "wiki": "2020_Hong_Kong_national_security_law"
+    "wiki": "2020_Hong_Kong_national_security_law",
+    "grokipedia": "Hong_Kong_national_security_law"
    },
    {
     "id": "geo-soleimani-killing-2020",
@@ -24158,8 +24106,9 @@
     "year": 2020,
     "lat": 33.2625,
     "lon": 44.2346,
-    "desc": "On 3 January 2020 a US drone strike at Baghdad airport killed Quds Force chief Qasem Soleimani. Iran fired missiles at US bases, and its air defences downed a Ukrainian airliner, killing 176.",
-    "wiki": "Assassination_of_Qasem_Soleimani"
+    "desc": "On 3 January 2020 a US drone strike at Baghdad airport killed Quds Force chief Qasem Soleimani. Iran fired missiles at US bases, and its air defenses downed a Ukrainian airliner, killing 176.",
+    "wiki": "Assassination_of_Qasem_Soleimani",
+    "grokipedia": "Qasem_Soleimani"
    }
   ],
   "polities": [
@@ -27779,7 +27728,8 @@
     "lat": 55.7609,
     "lon": 37.6205,
     "desc": "In late February 2022 the US, EU, UK and allies froze about $300 billion of Russia's central bank reserves. Central banks turned to gold, and the West still argues over spending the money on Ukraine.",
-    "wiki": "International_sanctions_during_the_Russian_invasion_of_Ukraine"
+    "wiki": "International_sanctions_during_the_Russian_invasion_of_Ukraine",
+    "grokipedia": "International_sanctions_during_the_Russo-Ukrainian_War"
    }
   ],
   "polities": [
@@ -31381,7 +31331,8 @@
     "lat": 33.5116,
     "lon": 36.3065,
     "desc": "On 8 December 2024 an HTS-led offensive took Damascus after 11 days, and Bashar al-Assad flew to Moscow. It ended 54 years of Assad rule and cost Iran and Russia their main Arab ally.",
-    "wiki": "Fall_of_the_Assad_regime"
+    "wiki": "Fall_of_the_Assad_regime",
+    "grokipedia": null
    },
    {
     "id": "geo-trump-assassination-attempt-2024",
@@ -31390,7 +31341,8 @@
     "lat": 40.8573,
     "lon": -79.9726,
     "desc": "On 13 July 2024 a gunman fired from a rooftop at a Trump rally near Butler, wounding Trump's ear and killing spectator Corey Comperatore before a Secret Service sniper killed him. The Secret Service director resigned, and Trump's raised fist became a symbol of his campaign.",
-    "wiki": "Attempted_assassination_of_Donald_Trump_in_Pennsylvania"
+    "wiki": "Attempted_assassination_of_Donald_Trump_in_Pennsylvania",
+    "grokipedia": null
    },
    {
     "id": "geo-south-korea-martial-law-2024",
@@ -33191,7 +33143,8 @@
     "lat": 38.8975,
     "lon": -77.0372,
     "desc": "On 2 April 2025 Trump put a 10% tariff on nearly all imports and higher rates on dozens of countries. It lifted US tariffs to 1930s levels until the Supreme Court struck them down in February 2026.",
-    "wiki": "Liberation_Day_tariffs"
+    "wiki": "Liberation_Day_tariffs",
+    "grokipedia": "Tariffs_in_the_second_Trump_administration"
    },
    {
     "id": "geo-china-rare-earth-controls-2025",
@@ -33209,7 +33162,8 @@
     "lat": 33.724,
     "lon": 51.727,
     "desc": "Israel struck Iran's nuclear sites and generals from 13 June 2025, and US bombers hit Fordow, Natanz and Isfahan on 22 June before a ceasefire. It set a precedent the two allies repeated in 2026.",
-    "wiki": "Twelve-Day_War"
+    "wiki": "Twelve-Day_War",
+    "grokipedia": "Iran–Israel_war"
    }
   ],
   "polities": [
@@ -35019,7 +34973,8 @@
     "lat": 25.9972,
     "lon": -97.1556,
     "desc": "On 28 September 2026 Starship lifted off from Starbase, Texas, reached orbit for the first time and deployed 26 Starlink V3 satellites before an early Pacific splashdown.",
-    "wiki": "Starship_flight_test_14"
+    "wiki": "Starship_flight_test_14",
+    "grokipedia": "SpaceX_Starship"
    },
    {
     "id": "geo-brazil-runoff-lula-2026",

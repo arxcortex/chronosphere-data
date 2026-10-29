@@ -2720,7 +2720,8 @@
     "lat": 24.4672,
     "lon": 39.6112,
     "desc": "Muhammad and the early Muslims flee Mecca for Yathrib (Medina). The year becomes year one of the Islamic calendar. The umma — the community of believers — is founded.",
-    "wiki": "Hegira"
+    "wiki": "Hegira",
+    "grokipedia": "Hijrah"
    },
    {
     "id": "religion-conquest-of-mecca-630",
@@ -2756,7 +2757,8 @@
     "lat": 36.1408,
     "lon": -5.3536,
     "desc": "Tariq ibn Ziyad crosses from Africa at the rock that will bear his name — Gibraltar, Jabal Tariq. Within seven years the Umayyads destroy the Visigothic kingdom and rule most of the peninsula. Al-Andalus will be a center of Muslim civilization for nearly eight hundred years; the Reconquista that ends it will not conclude until 1492.",
-    "wiki": "Umayyad_conquest_of_Hispania"
+    "wiki": "Umayyad_conquest_of_Hispania",
+    "grokipedia": "Muslim_conquest_of_the_Iberian_Peninsula"
    },
    {
     "id": "religion-battle-of-tours-732",
@@ -5176,7 +5178,8 @@
     "lat": 41.9028,
     "lon": 12.4964,
     "desc": "Ignatius of Loyola and his companions receive papal approval. The Jesuits will be the pope's shock troops — in education, in missions from Japan to Paraguay, in the Counter-Reformation campaign.",
-    "wiki": "Society_of_Jesus"
+    "wiki": "Society_of_Jesus",
+    "grokipedia": "Jesuits"
    },
    {
     "id": "religion-moscow-patriarchate-third-rome-1589",
@@ -7149,24 +7152,6 @@
     "lon": -85.0189,
     "desc": "Tennessee tries a high-school teacher for teaching evolution. William Jennings Bryan vs Clarence Darrow. American fundamentalism retreats from public prestige and builds its own parallel institutions for the next fifty years.",
     "wiki": "Scopes_trial"
-   },
-   {
-    "id": "religion-second-vatican-council-1962",
-    "name": "Second Vatican Council",
-    "year": 1962,
-    "lat": 41.9029,
-    "lon": 12.4534,
-    "desc": "John XXIII opens the windows of the Church. Mass in the vernacular, ecumenism, religious liberty, engagement with the modern world. The shape of post-Tridentine Catholicism ends.",
-    "wiki": "Second_Vatican_Council"
-   },
-   {
-    "id": "religion-death-of-god-theology-1966",
-    "name": "Death of God theology",
-    "year": 1966,
-    "lat": 40.7128,
-    "lon": -74.006,
-    "desc": "Time magazine's April 8 cover asks: Is God Dead? Thomas Altizer and William Hamilton argue that the Christian God has lost cultural reality. The highwater of secular confidence in the West.",
-    "wiki": "Death_of_God_theology"
    }
   ],
   "polities": [
@@ -8356,7 +8341,8 @@
     "lat": 52.2297,
     "lon": 21.0122,
     "desc": "The Polish pope returns home. Three million hear him at Victory Square. Be not afraid. Nine years until Solidarity topples communism.",
-    "wiki": "Pope_John_Paul_II%27s_first_visit_to_Poland"
+    "wiki": "Pope_John_Paul_II%27s_first_visit_to_Poland",
+    "grokipedia": "Pope_John_Paul_II"
    },
    {
     "id": "religion-9-11-attacks-2001",
@@ -8366,6 +8352,24 @@
     "lon": -74.0134,
     "desc": "Al-Qaeda hijacks four American airliners. The World Trade Center falls. Religion returns as a global security question; the War on Terror begins.",
     "wiki": "September_11_attacks"
+   },
+   {
+    "id": "religion-second-vatican-council-1962",
+    "name": "Second Vatican Council",
+    "year": 1962,
+    "lat": 41.9029,
+    "lon": 12.4534,
+    "desc": "John XXIII opens the windows of the Church. Mass in the vernacular, ecumenism, religious liberty, engagement with the modern world. The shape of post-Tridentine Catholicism ends.",
+    "wiki": "Second_Vatican_Council"
+   },
+   {
+    "id": "religion-death-of-god-theology-1966",
+    "name": "Death of God theology",
+    "year": 1966,
+    "lat": 40.7128,
+    "lon": -74.006,
+    "desc": "Time magazine's April 8 cover asks: Is God Dead? Thomas Altizer and William Hamilton argue that the Christian God has lost cultural reality. The high-water mark of secular confidence in the West.",
+    "wiki": "Death_of_God_theology"
    }
   ],
   "polities": [
