@@ -202,5 +202,17 @@
   "lat": 25.907,
   "lon": -80.278,
   "note": "Brazil's defeated candidate crossed into Argentina and flew via Ecuador to Florida after the State Department granted his family visas. He has not been charged."
+ },
+ {
+  "id": "arx-2023-04-15-sudans-army-and-rsf-go-to-war",
+  "kind": "essay",
+  "url": "https://arxcortex.github.io/arxstories/dispatches/2023-04-15-sudans-army-and-rsf-go-to-war/",
+  "title": "Sudan's Army and the RSF Go to War in Khartoum",
+  "source": "ΛRX Intercept",
+  "date": "2023-04-15",
+  "attach": "geo-sudan-s-army-and-the-rapid-support-forces-go-to-war-in-khart-2023",
+  "lat": 15.5007,
+  "lon": 32.5599,
+  "note": "Burhan's army and Hemedti's RSF, partners in the 2021 coup, turn on each other; by October 2026 UNHCR counts some 11.3 million people forced from their homes."
  }
 ]
