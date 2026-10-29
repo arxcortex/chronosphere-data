@@ -6593,6 +6593,15 @@
   "desc": "The French Revolution disestablishes the Church, declares the Rights of Man, and briefly attempts a Cult of Reason. For the first time a major state grounds its legitimacy in something other than religion. The template for every secular republic to come.",
   "events": [
    {
+    "id": "religion-clement-xiv-suppresses-the-jesuits-1773",
+    "name": "Clement XIV dissolves the Jesuits after Catholic kings expel them",
+    "year": 1773,
+    "lat": 41.9029,
+    "lon": 12.4534,
+    "desc": "Clement XIV abolished the Society of Jesus in July 1773, after Portugal, France and Spain had expelled it. It showed Catholic crowns could make the papacy abolish one of its own orders.",
+    "wiki": "Suppression_of_the_Society_of_Jesus"
+   },
+   {
     "id": "religion-civil-constitution-of-the-clergy-1790",
     "name": "Civil Constitution of the Clergy",
     "year": 1790,

@@ -939,6 +939,15 @@
     "lon": 39.03,
     "desc": "Crassus, seeking glory equal to Caesar's and Pompey's, leads seven Roman legions into Parthian territory. Parthian horse archers annihilate them. Crassus is killed; molten gold reportedly poured down his throat. The Euphrates becomes Rome's permanent eastern limit.",
     "wiki": "Battle_of_Carrhae"
+   },
+   {
+    "id": "geo-debate-on-salt-and-iron--81",
+    "name": "Han court stages the Debate on Salt and Iron",
+    "year": -81,
+    "lat": 34.3,
+    "lon": 108.86,
+    "desc": "In 81 BCE Confucian scholars at Chang'an debated the ministers who ran the Han salt and iron monopolies. The monopolies survived, and Huan Kuan's record keeps both sides of the argument.",
+    "wiki": "Discourses_on_Salt_and_Iron"
    }
   ],
   "polities": [
@@ -29697,6 +29706,16 @@
     "lon": -121.9552,
     "desc": "California seized Silicon Valley Bank on 10 March 2023 after clients pulled $42 billion in a day. Washington then covered all its deposits, stretching federal protection far past the insured limit.",
     "wiki": "Collapse_of_Silicon_Valley_Bank"
+   },
+   {
+    "id": "geo-sudan-war-2023",
+    "name": "Sudan's army and the Rapid Support Forces go to war in Khartoum",
+    "year": 2023,
+    "lat": 15.5007,
+    "lon": 32.5599,
+    "desc": "Burhan's army and Hemedti's RSF began fighting in Khartoum on 15 April 2023. The war split Sudan in two and became the world's largest displacement crisis, with famine in Darfur.",
+    "wiki": "Sudanese_civil_war_(2023%E2%80%93present)",
+    "grokipedia": "War_in_Sudan_(2023–present)"
    }
   ],
   "polities": [
