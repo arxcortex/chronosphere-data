@@ -5447,6 +5447,15 @@
     "lon": 116.4074,
     "desc": "A 1313 Yuan decree revived the civil service exams, first held in 1315, with Zhu Xi's commentaries on the Four Books as the standard. Neo-Confucian orthodoxy then set China's exams until 1905.",
     "wiki": "Zhu_Xi"
+   },
+   {
+    "id": "geo-battle-of-yamen-1279",
+    "name": "Mongol fleet destroys the last Song court at the Battle of Yamen",
+    "year": 1279,
+    "lat": 22.27,
+    "lon": 113.08,
+    "desc": "Yuan ships broke the chained Song fleet at Yamen on 19 March 1279, and Lu Xiufu drowned himself with the boy emperor. Kublai Khan's Yuan now held all of China.",
+    "wiki": "Battle_of_Yamen"
    }
   ],
   "polities": [
@@ -10318,6 +10327,15 @@
     "lon": -123.9156,
     "desc": "The Corps of Discovery reaches the Pacific near the mouth of the Columbia River after a two-and-a-half-year overland journey from St. Louis. Their maps, specimens, and diplomatic contacts with Native nations lay the factual basis for American claims to the continent's western half.",
     "wiki": "Lewis_and_Clark_Expedition"
+   },
+   {
+    "id": "geo-honda-toshiaki-secret-plan-1798",
+    "name": "Honda Toshiaki urges Japan to trade and colonize in A Secret Plan of Government",
+    "year": 1798,
+    "lat": 35.6762,
+    "lon": 139.6503,
+    "desc": "In 1798 the Edo economist Honda Toshiaki wrote Keisei Hisaku, urging an end to the ban on foreign trade and the settlement of Ezo. It set out a Western-style case for opening Japan decades early.",
+    "wiki": "Honda_Toshiaki"
    }
   ],
   "polities": [
@@ -24284,6 +24302,15 @@
     "desc": "On 3 January 2020 a US drone strike at Baghdad airport killed Quds Force chief Qasem Soleimani. Iran fired missiles at US bases, and its air defenses downed a Ukrainian airliner, killing 176.",
     "wiki": "Assassination_of_Qasem_Soleimani",
     "grokipedia": "Qasem_Soleimani"
+   },
+   {
+    "id": "geo-abraham-accords-2020",
+    "name": "UAE and Bahrain normalise ties with Israel in the Abraham Accords",
+    "year": 2020,
+    "lat": 38.8977,
+    "lon": -77.0365,
+    "desc": "The UAE and Bahrain signed normalisation deals with Israel at the White House on 15 September 2020; Morocco and Sudan followed. Gulf-Israel ties no longer waited on a Palestinian state.",
+    "wiki": "Abraham_Accords"
    }
   ],
   "polities": [
