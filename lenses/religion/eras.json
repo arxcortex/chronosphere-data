@@ -1688,6 +1688,15 @@
   "desc": "Augustus rules Rome. The Second Temple still stands. Buddhism is reaching China along the Silk Road. The Son of God is about to be born in Bethlehem.",
   "events": [
    {
+    "id": "religion-qin-burning-of-books--213",
+    "name": "Qin Shi Huang orders the Odes, the Documents and rival histories burned",
+    "year": -213,
+    "lat": 34.38,
+    "lon": 108.82,
+    "desc": "On Li Si's advice, the Qin emperor ordered private copies of the classics and non-Qin histories burned in 213 BCE. Confucians made it the emblem of tyranny, though historians doubt parts of the story.",
+    "wiki": "Burning_of_books_and_burying_of_scholars"
+   },
+   {
     "id": "religion-birth-of-jesus-christ--4",
     "name": "Birth of Jesus Christ",
     "year": -4,
