@@ -8670,6 +8670,15 @@
   "desc": "The Battle of Plassey. The East India Company, a private joint-stock corporation chartered in London in 1600, becomes the effective sovereign of Bengal. For the next century, chartered companies — not kingdoms — administer a meaningful share of the planet. This map shows the companies themselves as the polities.",
   "events": [
    {
+    "id": "geo-treaty-of-madrid-1750",
+    "name": "Spain and Portugal redraw South America's borders in the Treaty of Madrid",
+    "year": 1750,
+    "lat": 40.4168,
+    "lon": -3.7038,
+    "desc": "Spain and Portugal dropped the Tordesillas line in January 1750, trading Colonia del Sacramento for seven Jesuit missions. Its river borders largely set the shape of modern Brazil.",
+    "wiki": "Treaty_of_Madrid_(13_January_1750)"
+   },
+   {
     "id": "geo-battle-of-plassey-1757",
     "name": "Battle of Plassey",
     "year": 1757,
@@ -33303,6 +33312,15 @@
   "era": "AD",
   "desc": "Trump's 'Liberation Day' tariffs hit nearly every US trading partner. Israel and the United States bomb Iran's nuclear sites in a twelve-day war. China extends its rare-earth controls to goods made abroad. A Moon landing is planned for 2028.",
   "events": [
+   {
+    "id": "geo-india-pakistan-clash-2025",
+    "name": "India strikes Pakistan after the Pahalgam attack, and four days of fighting follow",
+    "year": 2025,
+    "lat": 34.0161,
+    "lon": 75.315,
+    "desc": "India hit nine sites in Pakistan on 7 May 2025, after gunmen killed 26 civilians at Pahalgam; a ceasefire came on 10 May. It was the two nuclear powers' first drone war.",
+    "wiki": "2025_India%E2%80%93Pakistan_conflict"
+   },
    {
     "id": "geo-liberation-day-tariffs-2025",
     "name": "Trump's 'Liberation Day' tariffs hit nearly every US trading partner",
