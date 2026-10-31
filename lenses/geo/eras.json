@@ -956,7 +956,8 @@
     "lat": 34.3,
     "lon": 108.86,
     "desc": "In 124 BCE Emperor Wu approved Gongsun Hong's plan for fifty students under the court erudites at Chang'an. The Taixue tied office to the classics, a link China kept until 1905.",
-    "wiki": "Taixue"
+    "wiki": "Taixue",
+    "grokipedia": "Guozijian"
    }
   ],
   "polities": [
@@ -8055,7 +8056,8 @@
     "lat": 55.7517,
     "lon": 37.6178,
     "desc": "The Ulozhenie of 1649, adopted by the Zemsky Sobor after Moscow's Salt Riot, ended the time limit on recovering runaway peasants. The hereditary serfdom it fixed lasted until 1861.",
-    "wiki": "Sobornoye_Ulozheniye"
+    "wiki": "Sobornoye_Ulozheniye",
+    "grokipedia": "Alexis_of_Russia"
    }
   ],
   "polities": [
@@ -10353,7 +10355,8 @@
     "lat": 35.6762,
     "lon": 139.6503,
     "desc": "In 1798 the Edo economist Honda Toshiaki wrote Keisei Hisaku, urging an end to the ban on foreign trade and the settlement of Ezo. It set out a Western-style case for opening Japan decades early.",
-    "wiki": "Honda_Toshiaki"
+    "wiki": "Honda_Toshiaki",
+    "grokipedia": "Rangaku"
    }
   ],
   "polities": [
@@ -24323,11 +24326,11 @@
    },
    {
     "id": "geo-abraham-accords-2020",
-    "name": "UAE and Bahrain normalise ties with Israel in the Abraham Accords",
+    "name": "UAE and Bahrain normalize ties with Israel in the Abraham Accords",
     "year": 2020,
     "lat": 38.8977,
     "lon": -77.0365,
-    "desc": "The UAE and Bahrain signed normalisation deals with Israel at the White House on 15 September 2020; Morocco and Sudan followed. Gulf-Israel ties no longer waited on a Palestinian state.",
+    "desc": "The UAE and Bahrain signed normalization deals with Israel at the White House on 15 September 2020; Morocco and Sudan followed. Gulf-Israel ties no longer waited on a Palestinian state.",
     "wiki": "Abraham_Accords"
    }
   ],
@@ -31562,7 +31565,7 @@
     "lon": 36.3065,
     "desc": "On 8 December 2024 an HTS-led offensive took Damascus after 11 days, and Bashar al-Assad flew to Moscow. It ended 54 years of Assad rule and cost Iran and Russia their main Arab ally.",
     "wiki": "Fall_of_the_Assad_regime",
-    "grokipedia": null
+    "grokipedia": "Syrian_civil_war"
    },
    {
     "id": "geo-trump-assassination-attempt-2024",
@@ -33382,7 +33385,7 @@
     "year": 2025,
     "lat": 39.9042,
     "lon": 116.4074,
-    "desc": "On 9 October 2025 China required licences for rare earths and magnet technology, even in goods made abroad. It turned the US chip-control playbook on Washington, which cut tariffs within weeks.",
+    "desc": "On 9 October 2025 China required licenses for rare earths and magnet technology, even in goods made abroad. It turned the US chip-control playbook on Washington, which cut tariffs within weeks.",
     "wiki": "Rare_earths_trade_dispute"
    },
    {
@@ -35223,7 +35226,7 @@
     "lon": 0,
     "desc": "Planned for 2028 (forecast). NASA's 2026 restructuring made Artemis III a 2027 crewed test in low Earth orbit, docking Orion with test versions of the SpaceX and Blue Origin landers. Artemis IV is now the first crewed Artemis landing: two of four astronauts descend near the lunar south pole for about a week while the others stay in lunar orbit. The target region contains water-ice deposits that could serve as propellant for deeper missions. China's planned crewed landing before 2030 makes it a race: the lunar surface, empty since 1972, will likely host humans from two nations before 2030.",
     "wiki": "Artemis_IV",
-    "grokipedia": null
+    "grokipedia": "Artemis_program"
    }
   ],
   "polities": [
