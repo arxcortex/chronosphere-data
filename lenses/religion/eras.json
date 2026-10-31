@@ -4685,6 +4685,15 @@
     "lon": -3.7038,
     "desc": "Ferdinand and Isabella establish the Tribunal of the Holy Office. Conversos, moriscos, Protestants, mystics — the instrument of religious enforcement that will outlast the empire that built it.",
     "wiki": "Spanish_Inquisition"
+   },
+   {
+    "id": "religion-massacre-at-beziers-1209",
+    "name": "Crusaders sack Béziers as the Albigensian Crusade against the Cathars begins",
+    "year": 1209,
+    "lat": 43.3407,
+    "lon": 3.2103,
+    "desc": "On 22 July 1209 the crusade Innocent III called against the Cathars stormed Béziers and massacred townspeople, Catholics among them. Twenty years of war bound Languedoc to France.",
+    "wiki": "Massacre_at_B%C3%A9ziers"
    }
   ],
   "polities": [
