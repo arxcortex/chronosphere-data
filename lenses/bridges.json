@@ -358,6 +358,10 @@
   ],
   "deep_links": {
     "memeplex": "memeplex.html#i={idea_id}",
-    "chronosphere": "chronosphere.html#{lens}/{year}/{region}/{event_slug}"
+    "chronosphere": "chronosphere.html#{hash_head}/{year}/{region}/{event_slug}"
+  },
+  "hash_heads": {
+    "geo": "history",
+    "religion": "religion"
   }
 }
