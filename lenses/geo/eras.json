@@ -948,6 +948,15 @@
     "lon": 108.86,
     "desc": "In 81 BCE Confucian scholars at Chang'an debated the ministers who ran the Han salt and iron monopolies. The monopolies survived, and Huan Kuan's record keeps both sides of the argument.",
     "wiki": "Discourses_on_Salt_and_Iron"
+   },
+   {
+    "id": "geo-han-taixue-imperial-academy--124",
+    "name": "Emperor Wu founds the Imperial Academy to train Han officials in the Confucian classics",
+    "year": -124,
+    "lat": 34.3,
+    "lon": 108.86,
+    "desc": "In 124 BCE Emperor Wu approved Gongsun Hong's plan for fifty students under the court erudites at Chang'an. The Taixue tied office to the classics, a link China kept until 1905.",
+    "wiki": "Taixue"
    }
   ],
   "polities": [
@@ -8038,6 +8047,15 @@
     "lon": 113.5439,
     "desc": "1557. Portuguese traders, already working the Canton coast for two decades, secure informal Ming permission to establish a permanent trading post on a small peninsula at the mouth of the Pearl River in exchange for suppressing local piracy. Macau becomes the first European settlement in China and the hinge of the silver-for-silk trade: Spanish silver from Potosí and Japanese silver from Iwami flow through Macau in exchange for Chinese silk, porcelain, and tea. Jesuit missionaries — Matteo Ricci, Adam Schall — use the city as their entry into the Ming court. Macau remains Portuguese for 442 years, the longest-held European possession in Asia, returned to China only in 1999.",
     "wiki": "Portuguese_Macau"
+   },
+   {
+    "id": "geo-sobornoye-ulozheniye-1649",
+    "name": "Tsar Alexis's Council Code binds Russia's peasants to the land",
+    "year": 1649,
+    "lat": 55.7517,
+    "lon": 37.6178,
+    "desc": "The Ulozhenie of 1649, adopted by the Zemsky Sobor after Moscow's Salt Riot, ended the time limit on recovering runaway peasants. The hereditary serfdom it fixed lasted until 1861.",
+    "wiki": "Sobornoye_Ulozheniye"
    }
   ],
   "polities": [
