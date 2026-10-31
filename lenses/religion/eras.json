@@ -1455,8 +1455,6 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "PAN",
-     "CRI",
      "NIC",
      "HND",
      "SLV",
@@ -1614,7 +1612,7 @@
     ]
    },
    {
-    "name": "Taíno and Caribbean traditions",
+    "name": "Saladoid and Archaic Caribbean traditions",
     "type": "Regional fill",
     "color": "#6f7a5a",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -1622,11 +1620,21 @@
     "countries": [
      "HTI",
      "DOM",
-     "BHS",
      "JAM",
      "CUB",
      "TTO",
      "PRI"
+    ]
+   },
+   {
+    "name": "Isthmo-Colombian (Chibchan) traditions",
+    "type": "Regional fill",
+    "color": "#75724f",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "PAN",
+     "CRI"
     ]
    },
    {
@@ -2101,8 +2109,6 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "PAN",
-     "CRI",
      "NIC",
      "BLZ"
     ]
@@ -2212,7 +2218,7 @@
     ]
    },
    {
-    "name": "Taíno and Caribbean traditions",
+    "name": "Saladoid and Archaic Caribbean traditions",
     "type": "Regional fill",
     "color": "#6f7a5a",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -2220,11 +2226,21 @@
     "countries": [
      "HTI",
      "DOM",
-     "BHS",
      "JAM",
      "CUB",
      "TTO",
      "PRI"
+    ]
+   },
+   {
+    "name": "Isthmo-Colombian (Chibchan) traditions",
+    "type": "Regional fill",
+    "color": "#75724f",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "PAN",
+     "CRI"
     ]
    },
    {
@@ -2687,8 +2703,6 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "PAN",
-     "CRI",
      "NIC",
      "BLZ"
     ]
@@ -2798,7 +2812,7 @@
     ]
    },
    {
-    "name": "Taíno and Caribbean traditions",
+    "name": "Saladoid and Archaic Caribbean traditions",
     "type": "Regional fill",
     "color": "#6f7a5a",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -2806,11 +2820,21 @@
     "countries": [
      "HTI",
      "DOM",
-     "BHS",
      "JAM",
      "CUB",
      "TTO",
      "PRI"
+    ]
+   },
+   {
+    "name": "Isthmo-Colombian (Chibchan) traditions",
+    "type": "Regional fill",
+    "color": "#75724f",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "PAN",
+     "CRI"
     ]
    }
   ]
@@ -3269,8 +3293,6 @@
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
     "fill": true,
     "countries": [
-     "PAN",
-     "CRI",
      "NIC",
      "BLZ"
     ]
@@ -3365,7 +3387,7 @@
     ]
    },
    {
-    "name": "Taíno and Caribbean traditions",
+    "name": "Ostionoid and Archaic Caribbean traditions",
     "type": "Regional fill",
     "color": "#6f7a5a",
     "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
@@ -3378,6 +3400,17 @@
      "CUB",
      "TTO",
      "PRI"
+    ]
+   },
+   {
+    "name": "Isthmo-Colombian (Chibchan) traditions",
+    "type": "Regional fill",
+    "color": "#75724f",
+    "desc": "Regional fill: the broadly dominant tradition in land not otherwise listed for this era. Approximate.",
+    "fill": true,
+    "countries": [
+     "PAN",
+     "CRI"
     ]
    }
   ]

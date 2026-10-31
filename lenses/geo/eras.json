@@ -6098,15 +6098,13 @@
     "capital": "Constantinople",
     "type": "Imperial monarchy",
     "color": "#4a7a6b",
-    "desc": "The conquering sultan styles himself 'Kayser-i Rum' — Caesar of Rome. The Ottomans now straddle Europe and Asia; the Balkans and Anatolia are theirs; Egypt, Hungary, and Vienna will follow over the next eighty years.",
-    "note": "The event that drove Europeans to seek sea routes to Asia — directly causing Columbus's voyage thirty-nine years later.",
+    "desc": "The conquering sultan styles himself 'Kayser-i Rum' — Caesar of Rome. The Ottomans now straddle Europe and Asia; the Balkans and Anatolia are theirs; Egypt and Hungary will follow, and Vienna will be besieged (1529).",
+    "note": "The event that drove Europeans to seek sea routes to Asia — directly causing Columbus's voyage thirty-nine years later. GRC is shaded whole as an approximation: the Despotate of the Morea (Peloponnese) holds out until 1460.",
     "countries": [
      "TUR",
      "GRC",
      "BGR",
-     "MKD",
-     "MNE",
-     "XKX"
+     "MKD"
     ]
    },
    {
@@ -6835,7 +6833,7 @@
     ]
    },
    {
-    "name": "Ottoman, Safavid and Arabian lands",
+    "name": "Turkmen, Georgian and Arabian lands",
     "type": "Regional fill",
     "color": "#7f6e5a",
     "desc": "Regional fill: land not held by any polity listed for this era, labelled by its broad cultural or political setting. Approximate.",
@@ -7009,7 +7007,18 @@
     "color": "#8a6b4a",
     "desc": "The Serbian Despotate survives as an Ottoman vassal until 1459.",
     "countries": [
-     "SRB"
+     "SRB",
+     "XKX"
+    ]
+   },
+   {
+    "name": "Zeta (Crnojević)",
+    "capital": "Žabljak",
+    "type": "Principality",
+    "color": "#6b5a7a",
+    "desc": "The Crnojević lords hold Zeta between Venice and the Ottomans; vassalage comes only around 1496.",
+    "countries": [
+     "MNE"
     ]
    },
    {
@@ -15483,7 +15492,7 @@
     ]
    },
    {
-    "name": "First Austrian Republic (Schuschnigg)",
+    "name": "Federal State of Austria (Schuschnigg)",
     "capital": "Vienna",
     "type": "Authoritarian corporate state",
     "color": "#8a7a6a",
@@ -22891,7 +22900,7 @@
     "capital": "Tehran",
     "type": "Theocratic republic",
     "color": "#2a5a5a",
-    "desc": "The Islamic Republic has entered its fifth decade. Axis of Resistance at its height: Hezbollah, Houthis, Iraqi militias, Assad's Syria. US quits the JCPOA (2018); Soleimani killed (2020). Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
+    "desc": "The Islamic Republic has entered its fifth decade. Axis of Resistance at its height: Hezbollah, Houthis, Iraqi militias, Assad's Syria. US quits the JCPOA (2018). Sanctions-wrecked economy, nuclear program approaching breakout, demographic pressures. Strategic partner of Russia and China.",
     "countries": [
      "IRN"
     ]
@@ -33363,7 +33372,7 @@
     "year": 2025,
     "lat": 34.0161,
     "lon": 75.315,
-    "desc": "India hit nine sites in Pakistan on 7 May 2025, after gunmen killed 26 civilians at Pahalgam; a ceasefire came on 10 May. It was the two nuclear powers' first drone war.",
+    "desc": "India hit nine sites in Pakistan and Pakistan-administered Kashmir on 7 May 2025, after gunmen killed 26 civilians at Pahalgam; a ceasefire came on 10 May.",
     "wiki": "2025_India%E2%80%93Pakistan_conflict"
    },
    {
