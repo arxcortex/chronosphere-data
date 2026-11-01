@@ -4694,6 +4694,15 @@
     "lon": 3.2103,
     "desc": "On 22 July 1209 the crusade Innocent III called against the Cathars stormed Béziers and massacred townspeople, Catholics among them. Twenty years of war bound Languedoc to France.",
     "wiki": "Massacre_at_B%C3%A9ziers"
+   },
+   {
+    "id": "religion-gennadios-patriarch-under-mehmed-1454",
+    "name": "Mehmed II makes the anti-union monk Gennadios patriarch of conquered Constantinople",
+    "year": 1454,
+    "lat": 41.0193,
+    "lon": 28.9497,
+    "desc": "In January 1454 Mehmed II handed the patriarch's staff to Gennadios Scholarios, a foe of union with Rome. The Orthodox of the empire now answered to a church head the sultan had installed.",
+    "wiki": "Gennadius_Scholarius"
    }
   ],
   "polities": [
@@ -7323,6 +7332,15 @@
     "lon": -85.0189,
     "desc": "Tennessee tries a high-school teacher for teaching evolution. William Jennings Bryan vs Clarence Darrow. American fundamentalism retreats from public prestige and builds its own parallel institutions for the next fifty years.",
     "wiki": "Scopes_trial"
+   },
+   {
+    "id": "religion-vivekananda-chicago-parliament-1893",
+    "name": "Vivekananda brings Vedanta to the West at Chicago's Parliament of the World's Religions",
+    "year": 1893,
+    "lat": 41.8796,
+    "lon": -87.6237,
+    "desc": "On 11 September 1893 the monk Swami Vivekananda opened with \"Sisters and brothers of America\". His talks brought Vedanta to Western audiences; the Vedanta Society of New York followed in 1894.",
+    "wiki": "Swami_Vivekananda"
    }
   ],
   "polities": [
