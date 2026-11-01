@@ -27950,6 +27950,16 @@
     "desc": "In late February 2022 the US, EU, UK and allies froze about $300 billion of Russia's central bank reserves. Central banks turned to gold, and the West still argues over spending the money on Ukraine.",
     "wiki": "International_sanctions_during_the_Russian_invasion_of_Ukraine",
     "grokipedia": "International_sanctions_during_the_Russo-Ukrainian_War"
+   },
+   {
+    "id": "geo-nord-stream-sabotage-2022",
+    "name": "Undersea blasts rupture the Nord Stream gas pipelines off Bornholm",
+    "year": 2022,
+    "lat": 55.54,
+    "lon": 15.78,
+    "desc": "Explosions on 26 September 2022 wrecked three of the four Nord Stream lines. Russia's direct gas route to Germany went out of action; in October 2026 a Ukrainian suspect went on trial in Hamburg.",
+    "wiki": "Nord_Stream_pipelines_sabotage",
+    "grokipedia": "Nord_Stream"
    }
   ],
   "polities": [
