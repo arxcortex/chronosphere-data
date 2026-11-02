@@ -226,5 +226,17 @@
   "lat": 55.7517,
   "lon": 37.6178,
   "note": "Accounts differ on whether the assembly chose Michael freely or under pressure from the Cossacks in Moscow."
+ },
+ {
+  "id": "arx-1787-09-17-thirty-nine-delegates-sign-the-us-constitution",
+  "kind": "essay",
+  "url": "https://arxcortex.github.io/arxstories/dispatches/1787-09-17-thirty-nine-delegates-sign-the-us-constitution/",
+  "title": "Thirty-Nine Delegates Sign the US Constitution in Philadelphia",
+  "source": "ΛRX Intercept",
+  "date": "1787-09-17",
+  "attach": "geo-philadelphia-convention-signs-the-us-constitution-and-opens--1787",
+  "lat": 39.9489,
+  "lon": -75.15,
+  "note": "Federalists won ratification by June 1788; Anti-Federalists, who feared for state sovereignty and liberty, won the Bill of Rights in 1791."
  }
 ]
