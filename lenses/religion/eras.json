@@ -7341,6 +7341,16 @@
     "lon": -87.6237,
     "desc": "On 11 September 1893 the monk Swami Vivekananda opened with \"Sisters and brothers of America\". His talks brought Vedanta to Western audiences; the Vedanta Society of New York followed in 1894.",
     "wiki": "Swami_Vivekananda"
+   },
+   {
+    "id": "religion-jintian-uprising-taiping-1851",
+    "name": "Hong Xiuquan's God Worshippers rise at Jintian and launch the Taiping Rebellion",
+    "year": 1851,
+    "lat": 23.4,
+    "lon": 110.08,
+    "desc": "On 11 January 1851 Hong Xiuquan, who preached that Jesus was his elder brother, declared revolt in Guangxi. His Taiping war on the Qing became the deadliest civil war in history.",
+    "wiki": "Jintian_Uprising",
+    "grokipedia": "Taiping_Rebellion"
    }
   ],
   "polities": [
