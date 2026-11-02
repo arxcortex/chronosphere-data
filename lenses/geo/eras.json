@@ -957,6 +957,16 @@
     "lon": 108.86,
     "desc": "In 124 BCE Emperor Wu approved Gongsun Hong's plan for fifty students under the court erudites at Chang'an. The Taixue tied office to the classics, a link China kept until 1905.",
     "wiki": "Taixue"
+   },
+   {
+    "id": "geo-qin-unifies-china-legalist-state--221",
+    "name": "Qin conquers the last rival state and builds China's first empire on Legalist lines",
+    "year": -221,
+    "lat": 34.33,
+    "lon": 108.71,
+    "desc": "In 221 BCE Qin took Qi, and Ying Zheng named himself First Emperor, ruling through 36 commanderies. The Han kept his Legalist-built system of law and appointed officials as the imperial template.",
+    "wiki": "Qin's_wars_of_unification",
+    "grokipedia": "Legalism_(Chinese_philosophy)"
    }
   ],
   "polities": [
@@ -9342,6 +9352,16 @@
     "lon": 151.21,
     "desc": "The British First Fleet arrives at Sydney Cove with 780 convicts and their guards, establishing the colony of New South Wales. Transportation is partly a response to the American Revolution cutting off the previous convict destination.",
     "wiki": "First_Fleet"
+   },
+   {
+    "id": "geo-us-constitution-signed-1787",
+    "name": "Philadelphia Convention signs the US Constitution and opens the ratification fight",
+    "year": 1787,
+    "lat": 39.9489,
+    "lon": -75.15,
+    "desc": "On 17 September 1787, 39 delegates signed a charter for a stronger national government. Ratified in 1788 over Anti-Federalist opposition, it is the oldest written national constitution in force.",
+    "wiki": "Constitution_of_the_United_States",
+    "grokipedia": "Constitution_of_the_United_States"
    }
   ],
   "polities": [
@@ -26149,6 +26169,16 @@
     "lon": 149.13,
     "desc": "On 15 September 2021 Australia, Britain and the US launched AUKUS; Australia scrapped a French submarine deal for nuclear boats. It tied Australia's navy to US and British reactors for decades.",
     "wiki": "AUKUS"
+   },
+   {
+    "id": "geo-evergrande-default-2021",
+    "name": "Fitch declares Evergrande in default, exposing China's property debt",
+    "year": 2021,
+    "lat": 22.54,
+    "lon": 114.06,
+    "desc": "On 9 December 2021 Fitch cut China Evergrande, which owed more than $300 billion, to restricted default after missed dollar coupons. Its fall set off China's property-sector crisis.",
+    "wiki": "Evergrande_Group",
+    "grokipedia": "Evergrande_Group"
    }
   ],
   "polities": [
