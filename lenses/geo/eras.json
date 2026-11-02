@@ -8056,6 +8056,16 @@
     "lon": 37.6178,
     "desc": "The Ulozhenie of 1649, adopted by the Zemsky Sobor after Moscow's Salt Riot, ended the time limit on recovering runaway peasants. The hereditary serfdom it fixed lasted until 1861.",
     "wiki": "Sobornoye_Ulozheniye"
+   },
+   {
+    "id": "geo-michael-romanov-elected-tsar-1613",
+    "name": "Zemsky Sobor elects 16-year-old Michael Romanov tsar, ending the Time of Troubles",
+    "year": 1613,
+    "lat": 55.7517,
+    "lon": 37.6178,
+    "desc": "On 3 March 1613 an assembly of the realm in the Kremlin chose Michael Romanov as tsar after Polish-Lithuanian forces were driven out. His house ruled Russia until 1917.",
+    "wiki": "Zemsky_Sobor_of_1613",
+    "grokipedia": "Michael_of_Russia"
    }
   ],
   "polities": [
@@ -31592,6 +31602,15 @@
     "lon": 126.914,
     "desc": "On 3 December 2024 President Yoon Suk Yeol declared martial law, and 190 lawmakers defied troops to vote it down within three hours. He was impeached, removed in 2025 and jailed for life in 2026.",
     "wiki": "2024_South_Korean_martial_law_crisis"
+   },
+   {
+    "id": "geo-hasina-ousted-2024",
+    "name": "Student uprising drives Sheikh Hasina from Bangladesh",
+    "year": 2024,
+    "lat": 23.7697,
+    "lon": 90.3786,
+    "desc": "On 5 August 2024, after weeks of deadly protests, Sheikh Hasina resigned and fled by helicopter to India, ending her rule since 2009. Muhammad Yunus led an interim government from 8 August.",
+    "wiki": "Resignation_of_Sheikh_Hasina"
    }
   ],
   "polities": [
