@@ -919,7 +919,7 @@
     "year": -44,
     "lat": 41.8955,
     "lon": 12.473,
-    "desc": "On the Ides of March, 44 BC, Caesar is stabbed 23 times by a conspiracy of senators at the foot of Pompey's statue in the Theatre of Pompey. The conspirators hope to restore the Republic. Instead they trigger thirteen more years of civil war ending with Augustus as emperor.",
+    "desc": "On the Ides of March, 44 BCE, Caesar is stabbed 23 times by a conspiracy of senators at the foot of Pompey's statue in the Theatre of Pompey. The conspirators hope to restore the Republic. Instead they trigger thirteen more years of civil war ending with Augustus as emperor.",
     "wiki": "Assassination_of_Julius_Caesar"
    },
    {
@@ -974,8 +974,8 @@
     "year": -67,
     "lat": 41.8925,
     "lon": 12.4853,
-    "desc": "In 67 BC, over Senate objections, the Gabinian law gave Pompey command of the sea and its coasts; he beat the pirates in three months. His sweeping powers became a model for Augustus.",
-    "wiki": "Lex_Gabinia_de_piratis_persequendis",
+    "desc": "In 67 BCE, over Senate objections, the Gabinian law gave Pompey command of the sea and its coasts; he beat the pirates in three months. His sweeping powers became a model for Augustus.",
+    "wiki": "Cilician_pirates",
     "grokipedia": "Cilician_pirates"
    }
   ],
@@ -985,7 +985,7 @@
     "capital": "Rome",
     "type": "Dying republic",
     "color": "#a84a3a",
-    "desc": "The Republic has swallowed the Mediterranean but cannot govern it. Caesar's crossing of the Rubicon in 49 BC ended the constitutional order; his assassination will not restore it. Octavian and Antony will divide the inheritance and then fight over it.",
+    "desc": "The Republic has swallowed the Mediterranean but cannot govern it. Caesar's crossing of the Rubicon in 49 BCE ended the constitutional order; his assassination will not restore it. Octavian and Antony will divide the inheritance and then fight over it.",
     "note": "Every later transition from republic to empire — French, American, any future case — is measured against this one.",
     "countries": [
      "ITA",
@@ -1112,7 +1112,7 @@
     "capital": "Alexandria",
     "type": "Hellenistic kingdom",
     "color": "#d4a24c",
-    "desc": "Cleopatra VII rules the last independent Hellenistic kingdom. Her alliance with Caesar produced a son; her alliance with Antony will end at Actium in 31 BC. Egypt will then become a Roman province of the emperor personally.",
+    "desc": "Cleopatra VII rules the last independent Hellenistic kingdom. Her alliance with Caesar produced a son; her alliance with Antony will end at Actium in 31 BCE. Egypt will then become a Roman province of the emperor personally.",
     "countries": [
      "EGY"
     ]
@@ -1122,7 +1122,7 @@
     "capital": "Ctesiphon",
     "type": "Confederation",
     "color": "#9d6b4a",
-    "desc": "Rome's great eastern rival. Crassus died at Carrhae in 53 BC trying to conquer them. The Euphrates will remain the eastern limit of Roman power for three centuries.",
+    "desc": "Rome's great eastern rival. Crassus died at Carrhae in 53 BCE trying to conquer them. The Euphrates will remain the eastern limit of Roman power for three centuries.",
     "countries": [
      "IRN",
      "IRQ",
@@ -1205,7 +1205,7 @@
     "capital": "Oppidum networks",
     "type": "Tribal confederations",
     "color": "#5a7a4a",
-    "desc": "Caesar's two expeditions in 55 and 54 BC were shows of force, not conquest — he extracted tribute and left. In 44 BC the island is still ruled by Iron-Age tribal confederations: Catuvellauni, Trinovantes, Iceni, Brigantes, Silures, Caledonians, Picts. Druids control the religious life; oppida (hillfort towns) are the political centers. Ireland, never invaded by Rome, will remain Celtic until the fifth century. Claudius's permanent invasion of Britain is still 87 years away.",
+    "desc": "Caesar's two expeditions in 55 and 54 BCE were shows of force, not conquest — he extracted tribute and left. In 44 BCE the island is still ruled by Iron-Age tribal confederations: Catuvellauni, Trinovantes, Iceni, Brigantes, Silures, Caledonians, Picts. Druids control the religious life; oppida (hillfort towns) are the political centers. Ireland, never invaded by Rome, will remain Celtic until the fifth century. Claudius's permanent invasion of Britain is still 87 years away.",
     "countries": [
      "IRL"
     ],
@@ -8084,7 +8084,7 @@
     "lat": 55.7517,
     "lon": 37.6178,
     "desc": "On 3 March 1613 an assembly of the realm in the Kremlin chose Michael Romanov as tsar after Polish-Lithuanian forces were driven out. His house ruled Russia until 1917.",
-    "wiki": "Zemsky_Sobor_of_1613",
+    "wiki": "Zemsky_Sobor",
     "grokipedia": "Michael_of_Russia"
    },
    {
@@ -31660,7 +31660,7 @@
     "lat": 23.7697,
     "lon": 90.3786,
     "desc": "On 5 August 2024, after weeks of deadly protests, Sheikh Hasina resigned and fled by helicopter to India, ending her rule since 2009. Muhammad Yunus led an interim government from 8 August.",
-    "wiki": "Resignation_of_Sheikh_Hasina"
+    "wiki": "July_Revolution"
    }
   ],
   "polities": [
