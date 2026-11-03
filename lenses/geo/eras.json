@@ -4082,6 +4082,16 @@
     "desc": "Norse raiders establish a longphort — a fortified ship encampment — at the mouth of the Liffey. It will grow into Dublin. The Viking age is transforming Europe's coasts from Ireland to the Black Sea.",
     "wiki": "Norse_activity_in_the_British_Isles",
     "grokipedia": "Kingdom_of_Dublin"
+   },
+   {
+    "id": "geo-tang-code-commentary-653",
+    "name": "Tang court adds an official commentary to its Confucian-Legalist law code",
+    "year": 653,
+    "lat": 34.27,
+    "lon": 108.95,
+    "desc": "In 653 Gaozong's court issued the Tanglü shuyi, glossing a 502-article code that fixed penalties by rank and kinship. It is the oldest Chinese code to survive whole and a model for East Asian law.",
+    "wiki": "Tang_Code",
+    "grokipedia": "Tang_dynasty"
    }
   ],
   "polities": [
@@ -24379,6 +24389,16 @@
     "lon": -77.0365,
     "desc": "The UAE and Bahrain signed normalisation deals with Israel at the White House on 15 September 2020; Morocco and Sudan followed. Gulf-Israel ties no longer waited on a Palestinian state.",
     "wiki": "Abraham_Accords"
+   },
+   {
+    "id": "geo-galwan-clash-2020",
+    "name": "Chinese and Indian troops fight hand to hand in the Galwan Valley",
+    "year": 2020,
+    "lat": 34.7491,
+    "lon": 78.1656,
+    "desc": "On 15 June 2020 troops barred from firing fought with clubs and stones in Ladakh; 20 Indian and at least four Chinese soldiers died. India answered by banning 59 Chinese apps, TikTok among them.",
+    "wiki": "2020–2021_China–India_skirmishes",
+    "grokipedia": "2020–2021_China–India_skirmishes"
    }
   ],
   "polities": [
