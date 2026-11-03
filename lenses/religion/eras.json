@@ -2876,6 +2876,16 @@
     "lon": 0.2,
     "desc": "Charles Martel halts the Umayyad advance into Francia. Islamic expansion into Western Europe peaks and reverses. Christendom retains the Frankish heartland.",
     "wiki": "Battle_of_Tours"
+   },
+   {
+    "id": "religion-council-of-chalcedon-451",
+    "name": "Council of Chalcedon defines Christ's two natures and splits the Eastern churches",
+    "year": 451,
+    "lat": 40.98,
+    "lon": 29.03,
+    "desc": "In 451 over 520 bishops at Chalcedon declared Christ one person in two natures, divine and human. Coptic, Syriac and Armenian churches rejected it, a split that still divides Eastern Christianity.",
+    "wiki": "Council_of_Chalcedon",
+    "grokipedia": "Council_of_Chalcedon"
    }
   ],
   "polities": [
