@@ -967,6 +967,16 @@
     "desc": "In 221 BCE Qin took Qi, and Ying Zheng named himself First Emperor, ruling through 36 commanderies. The Han kept his Legalist-built system of law and appointed officials as the imperial template.",
     "wiki": "Qin's_wars_of_unification",
     "grokipedia": "Legalism_(Chinese_philosophy)"
+   },
+   {
+    "id": "geo-lex-gabinia-pompey-pirates--67",
+    "name": "Rome's assembly gives Pompey command of the whole Mediterranean to crush the pirates",
+    "year": -67,
+    "lat": 41.8925,
+    "lon": 12.4853,
+    "desc": "In 67 BC, over Senate objections, the Gabinian law gave Pompey command of the sea and its coasts; he beat the pirates in three months. His sweeping powers became a model for Augustus.",
+    "wiki": "Lex_Gabinia_de_piratis_persequendis",
+    "grokipedia": "Cilician_pirates"
    }
   ],
   "polities": [
@@ -8076,6 +8086,16 @@
     "desc": "On 3 March 1613 an assembly of the realm in the Kremlin chose Michael Romanov as tsar after Polish-Lithuanian forces were driven out. His house ruled Russia until 1917.",
     "wiki": "Zemsky_Sobor_of_1613",
     "grokipedia": "Michael_of_Russia"
+   },
+   {
+    "id": "geo-hobbes-leviathan-1651",
+    "name": "Hobbes publishes Leviathan, arguing only an undivided sovereign can end civil war",
+    "year": 1651,
+    "lat": 51.5138,
+    "lon": -0.099,
+    "desc": "In 1651, as England's civil wars ended, Leviathan argued that without a sovereign life is 'nasty, brutish, and short'. It made the social contract a founding idea of modern politics.",
+    "wiki": "Leviathan_(Hobbes_book)",
+    "grokipedia": "Leviathan_(Hobbes_book)"
    }
   ],
   "polities": [

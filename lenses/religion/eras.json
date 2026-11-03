@@ -5978,6 +5978,16 @@
     "lon": -0.1066,
     "desc": "John Wesley feels his heart 'strangely warmed' at a Moravian meeting on Aldersgate Street. Methodism is born. The industrial working class will get a religion that works for them.",
     "wiki": "John_Wesley"
+   },
+   {
+    "id": "religion-edict-of-fontainebleau-1685",
+    "name": "Louis XIV revokes the Edict of Nantes and outlaws Protestant worship in France",
+    "year": 1685,
+    "lat": 48.4022,
+    "lon": 2.7003,
+    "desc": "In October 1685 Louis XIV's Edict of Fontainebleau ordered Huguenot churches destroyed and Protestant schools closed. Hundreds of thousands of Huguenots fled, carrying their skills to rival states.",
+    "wiki": "Edict_of_Fontainebleau",
+    "grokipedia": "Edict_of_Fontainebleau"
    }
   ],
   "polities": [
