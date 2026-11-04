@@ -6120,6 +6120,16 @@
     "lon": 36.38,
     "desc": "Akhmat Khan's army faced Ivan III's across the Ugra in autumn 1480, then withdrew without a major battle. Russian historians date the end of the Tatar yoke from it, though some doubt it changed much.",
     "wiki": "Great_Stand_on_the_Ugra_River"
+   },
+   {
+    "id": "geo-ibn-khaldun-muqaddimah-1377",
+    "name": "Ibn Khaldun writes the Muqaddimah, a theory of how dynasties rise and fall",
+    "year": 1377,
+    "lat": 35.0667,
+    "lon": 1.05,
+    "desc": "In 1377, sheltering with a Berber tribe at Qal'at Ibn Salama, Ibn Khaldun drafted the Muqaddimah. Its asabiyyah, the cohesion that builds dynasties and then fades, still shapes theories of power.",
+    "wiki": "Muqaddimah",
+    "grokipedia": "Muqaddimah"
    }
   ],
   "polities": [
@@ -12562,6 +12572,16 @@
     "desc": "On 31 August 1907 Britain and Russia divided Persia into zones and settled Afghanistan and Tibet without consulting their rulers. It ended the Great Game and helped complete the Triple Entente.",
     "wiki": "Anglo-Russian_Convention",
     "grokipedia": "Anglo-Russian_Convention"
+   },
+   {
+    "id": "geo-wuchang-uprising-1911",
+    "name": "New Army troops rise at Wuchang and start the revolution that ends the Qing",
+    "year": 1911,
+    "lat": 30.5446,
+    "lon": 114.3021,
+    "desc": "On 10 October 1911 New Army units in Wuchang stormed the Huguang viceroy's residence and took the city. Provinces broke away one after another, and China's last dynasty fell within months.",
+    "wiki": "Wuchang_uprising",
+    "grokipedia": "Wuchang_Uprising"
    }
   ],
   "polities": [
@@ -28050,6 +28070,16 @@
     "desc": "Explosions on 26 September 2022 wrecked three of the four Nord Stream lines. Russia's direct gas route to Germany went out of action; in October 2026 a Ukrainian suspect went on trial in Hamburg.",
     "wiki": "Nord_Stream_pipelines_sabotage",
     "grokipedia": "Nord_Stream"
+   },
+   {
+    "id": "geo-xi-third-term-2022",
+    "name": "Xi Jinping takes a third term at the 20th Party Congress",
+    "year": 2022,
+    "lat": 39.9033,
+    "lon": 116.3875,
+    "desc": "On 23 October 2022 the new Central Committee gave Xi an unprecedented third term and a Standing Committee filled almost entirely with his allies. It ended the succession norms built after Mao.",
+    "wiki": "20th_National_Congress_of_the_Chinese_Communist_Party",
+    "grokipedia": "20th_National_Congress_of_the_Chinese_Communist_Party"
    }
   ],
   "polities": [
