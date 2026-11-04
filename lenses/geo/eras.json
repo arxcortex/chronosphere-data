@@ -12552,6 +12552,16 @@
     "lon": -79.68,
     "desc": "After a French attempt that killed 22,000 workers to yellow fever and malaria, the United States completes the canal in ten years. 77 kilometers of locks and artificial lakes cut the voyage from New York to San Francisco by 13,000 kilometers. The canal formalizes American hemispheric dominance — the Panama Canal Zone is US territory until 1999 — and reorders global shipping. The Roosevelt Corollary, dollar diplomacy, and a century of US Caribbean interventions flow from its strategic logic.",
     "wiki": "Panama_Canal"
+   },
+   {
+    "id": "geo-anglo-russian-convention-1907",
+    "name": "Britain and Russia split Persia into spheres and end the Great Game",
+    "year": 1907,
+    "lat": 59.9392,
+    "lon": 30.317,
+    "desc": "On 31 August 1907 Britain and Russia divided Persia into zones and settled Afghanistan and Tibet without consulting their rulers. It ended the Great Game and helped complete the Triple Entente.",
+    "wiki": "Anglo-Russian_Convention",
+    "grokipedia": "Anglo-Russian_Convention"
    }
   ],
   "polities": [
@@ -33493,6 +33503,16 @@
     "desc": "Israel struck Iran's nuclear sites and generals from 13 June 2025, and US bombers hit Fordow, Natanz and Isfahan on 22 June before a ceasefire. It set a precedent the two allies repeated in 2026.",
     "wiki": "Twelve-Day_War",
     "grokipedia": "Iran–Israel_war"
+   },
+   {
+    "id": "geo-germany-debt-brake-2025",
+    "name": "Germany's outgoing parliament loosens the debt brake to fund defence and infrastructure",
+    "year": 2025,
+    "lat": 52.5186,
+    "lon": 13.3762,
+    "desc": "On 18 March 2025 the old Bundestag exempted defence above 1% of GDP from the debt brake and created a €500 billion infrastructure fund. It lets Europe's largest economy rearm on credit.",
+    "wiki": "German_balanced_budget_amendment",
+    "grokipedia": "German_balanced_budget_amendment"
    }
   ],
   "polities": [
