@@ -8126,6 +8126,16 @@
     "desc": "In 1651, as England's civil wars ended, Leviathan argued that without a sovereign life is 'nasty, brutish, and short'. It made the social contract a founding idea of modern politics.",
     "wiki": "Leviathan_(Hobbes_book)",
     "grokipedia": "Leviathan_(Hobbes_book)"
+   },
+   {
+    "id": "geo-bodin-six-books-commonwealth-1576",
+    "name": "Jean Bodin defines sovereignty in Six Books of the Commonwealth",
+    "year": 1576,
+    "lat": 48.8567,
+    "lon": 2.3522,
+    "desc": "In 1576 Bodin published Six Books of the Commonwealth in Paris, defining sovereignty as absolute and perpetual power still bound by divine and natural law, distinct from officers who only exercise it.",
+    "wiki": "The_Six_Books_of_the_Republic",
+    "grokipedia": null
    }
   ],
   "polities": [
@@ -29920,6 +29930,16 @@
     "desc": "Burhan's army and Hemedti's RSF began fighting in Khartoum on 15 April 2023. The war split Sudan in two and became the world's largest displacement crisis, with famine in Darfur.",
     "wiki": "Sudanese_civil_war_(2023%E2%80%93present)",
     "grokipedia": "War_in_Sudan_(2023–present)"
+   },
+   {
+    "id": "geo-finland-joins-nato-2023",
+    "name": "Finland joins NATO as the alliance's 31st member",
+    "year": 2023,
+    "lat": 50.8792,
+    "lon": 4.425,
+    "desc": "On 4 April 2023 Finland deposited its instrument of accession at NATO Headquarters in Brussels and became the 31st member, ending military non-alignment after Russia's 2022 invasion of Ukraine.",
+    "wiki": "Finland%E2%80%93NATO_relations",
+    "grokipedia": "Finland–NATO_relations"
    }
   ],
   "polities": [
