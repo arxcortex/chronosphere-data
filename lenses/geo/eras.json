@@ -5495,6 +5495,16 @@
     "lon": 113.08,
     "desc": "Yuan ships broke the chained Song fleet at Yamen on 19 March 1279, and Lu Xiufu drowned himself with the boy emperor. Kublai Khan's Yuan now held all of China.",
     "wiki": "Battle_of_Yamen"
+   },
+   {
+    "id": "geo-magna-carta-1215",
+    "name": "King John seals Magna Carta at Runnymede",
+    "year": 1215,
+    "lat": 51.4444,
+    "lon": -0.5653,
+    "desc": "On 15 June 1215 rebel barons forced King John to seal Magna Carta at Runnymede. Its clauses on lawful judgment and limits on arbitrary rule became the English template for constitutional restraint.",
+    "wiki": "Magna_Carta",
+    "grokipedia": "Magna_Carta"
    }
   ],
   "polities": [
@@ -12582,6 +12592,16 @@
     "desc": "On 10 October 1911 New Army units in Wuchang stormed the Huguang viceroy's residence and took the city. Provinces broke away one after another, and China's last dynasty fell within months.",
     "wiki": "Wuchang_uprising",
     "grokipedia": "Wuchang_Uprising"
+   },
+   {
+    "id": "geo-nietzsche-use-and-abuse-of-history-1874",
+    "name": "Nietzsche publishes On the Use and Abuse of History for Life",
+    "year": 1874,
+    "lat": 47.5596,
+    "lon": 7.5886,
+    "desc": "In 1874 Nietzsche held that monumental, antiquarian and critical history serve life when balanced and poison it when one form rules. The essay remains the brief against history that buries action.",
+    "wiki": "On_the_Advantage_and_Disadvantage_of_History_for_Life",
+    "grokipedia": "On_the_Advantage_and_Disadvantage_of_History_for_Life"
    }
   ],
   "polities": [
