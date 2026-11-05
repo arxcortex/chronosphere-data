@@ -4090,7 +4090,7 @@
     "lat": 34.27,
     "lon": 108.95,
     "desc": "In 653 Gaozong's court issued the Tanglü shuyi, glossing a 502-article code that fixed penalties by rank and kinship. It is the oldest Chinese code to survive whole and a model for East Asian law.",
-    "wiki": "Tang_Code",
+    "wiki": "tang_code",
     "grokipedia": "Tang_dynasty"
    }
   ],
@@ -12600,7 +12600,7 @@
     "lat": 30.5446,
     "lon": 114.3021,
     "desc": "On 10 October 1911 New Army units in Wuchang stormed the Huguang viceroy's residence and took the city. Provinces broke away one after another, and China's last dynasty fell within months.",
-    "wiki": "Wuchang_uprising",
+    "wiki": "Wuchang_Uprising",
     "grokipedia": "Wuchang_Uprising"
    },
    {
@@ -12610,8 +12610,8 @@
     "lat": 47.5596,
     "lon": 7.5886,
     "desc": "In 1874 Nietzsche held that monumental, antiquarian and critical history serve life when balanced and poison it when one form rules. The essay remains the brief against history that buries action.",
-    "wiki": "On_the_Advantage_and_Disadvantage_of_History_for_Life",
-    "grokipedia": "On_the_Advantage_and_Disadvantage_of_History_for_Life"
+    "wiki": "Untimely_Meditations",
+    "grokipedia": "Untimely_Meditations"
    }
   ],
   "polities": [
@@ -33576,11 +33576,11 @@
    },
    {
     "id": "geo-germany-debt-brake-2025",
-    "name": "Germany's outgoing parliament loosens the debt brake to fund defence and infrastructure",
+    "name": "Germany's outgoing parliament loosens the debt brake to fund defense and infrastructure",
     "year": 2025,
     "lat": 52.5186,
     "lon": 13.3762,
-    "desc": "On 18 March 2025 the old Bundestag exempted defence above 1% of GDP from the debt brake and created a €500 billion infrastructure fund. It lets Europe's largest economy rearm on credit.",
+    "desc": "On 18 March 2025 the old Bundestag exempted defense above 1% of GDP from the debt brake and created a €500 billion infrastructure fund. It lets Europe's largest economy rearm on credit.",
     "wiki": "German_balanced_budget_amendment",
     "grokipedia": "German_balanced_budget_amendment"
    }
