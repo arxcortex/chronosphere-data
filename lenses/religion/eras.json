@@ -9212,6 +9212,16 @@
     "lon": -122.1697,
     "desc": "Silicon Valley's technological millenarianism — longtermism, effective altruism, the Singularity — displays the structural features of religious movements. The oldest pattern in a new substrate.",
     "wiki": "Transhumanism"
+   },
+   {
+    "id": "religion-hagia-sophia-mosque-2020",
+    "name": "Turkey turns Hagia Sophia back into a mosque",
+    "year": 2020,
+    "lat": 41.0086,
+    "lon": 28.9802,
+    "desc": "On 10 July 2020 a Turkish court voided Hagia Sophia's museum status and Erdogan ordered it reopened as a mosque. The decree reversed the 1934 museum conversion of the former Byzantine cathedral.",
+    "wiki": "Hagia_Sophia",
+    "grokipedia": "Hagia_Sophia"
    }
   ],
   "polities": [
