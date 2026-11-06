@@ -4088,6 +4088,15 @@
     "lon": 35.235,
     "desc": "After the rout at Hattin, Saladin enters Jerusalem. Unlike the Christians of 1099, he does not massacre. The Third Crusade will not recover the city.",
     "wiki": "Siege_of_Jerusalem_(1187)"
+   },
+   {
+    "id": "religion-al-ghazali-incoherence-of-the-philosophers-1095",
+    "name": "Al-Ghazali completes The Incoherence of the Philosophers",
+    "year": 1095,
+    "lat": 33.3406,
+    "lon": 44.4009,
+    "desc": "In 1095 in Baghdad al-Ghazali finished The Incoherence of the Philosophers, attacking twenty Avicennan theses; he branded three as unbelief, including the world's eternity and no bodily resurrection.",
+    "wiki": "The_Incoherence_of_the_Philosophers"
    }
   ],
   "polities": [

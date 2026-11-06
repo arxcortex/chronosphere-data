@@ -17808,6 +17808,15 @@
     "lon": 44.3661,
     "desc": "Saudi Arabia, Iraq, Iran, Kuwait, and Venezuela found the Organization of Petroleum Exporting Countries in Baghdad. The end of the Seven Sisters' pricing monopoly. By 1973 OPEC will hold the industrialized world hostage.",
     "wiki": "OPEC"
+   },
+   {
+    "id": "geo-partition-of-india-1947",
+    "name": "British India is partitioned into India and Pakistan",
+    "year": 1947,
+    "lat": 28.6139,
+    "lon": 77.209,
+    "desc": "In August 1947 British India split into independent India and Pakistan along the Radcliffe Line; partition displaced 12–20 million people and left lasting Indo-Pakistani hostility.",
+    "wiki": "Partition_of_India"
    }
   ],
   "polities": [
@@ -28129,6 +28138,15 @@
     "desc": "On 23 October 2022 the new Central Committee gave Xi an unprecedented third term and a Standing Committee filled almost entirely with his allies. It ended the succession norms built after Mao.",
     "wiki": "20th_National_Congress_of_the_Chinese_Communist_Party",
     "grokipedia": "20th_National_Congress_of_the_Chinese_Communist_Party"
+   },
+   {
+    "id": "geo-us-chip-export-controls-2022",
+    "name": "US bars advanced chip and tool exports to China",
+    "year": 2022,
+    "lat": 38.8947,
+    "lon": -77.0311,
+    "desc": "On 7 October 2022 the US Commerce Department barred advanced AI chips, chipmaking tools and related US-person support for Chinese fabs, making compute a front of great-power rivalry.",
+    "wiki": "United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China"
    }
   ],
   "polities": [
