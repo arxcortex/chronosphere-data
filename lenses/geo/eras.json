@@ -8136,6 +8136,15 @@
     "desc": "In 1576 Bodin published Six Books of the Commonwealth in Paris, defining sovereignty as absolute and perpetual power still bound by divine and natural law, distinct from officers who only exercise it.",
     "wiki": "The_Six_Books_of_the_Republic",
     "grokipedia": null
+   },
+   {
+    "id": "geo-harrington-oceana-1656",
+    "name": "James Harrington publishes The Commonwealth of Oceana",
+    "year": 1656,
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "desc": "In 1656 Harrington published The Commonwealth of Oceana, laying out a republican constitution of agrarian law, rotation in office, and balanced chambers for a post-civil-war England.",
+    "wiki": "The_Commonwealth_of_Oceana"
    }
   ],
   "polities": [
@@ -26279,6 +26288,16 @@
     "desc": "On 9 December 2021 Fitch cut China Evergrande, which owed more than $300 billion, to restricted default after missed dollar coupons. Its fall set off China's property-sector crisis.",
     "wiki": "Evergrande_Group",
     "grokipedia": "Evergrande_Group"
+   },
+   {
+    "id": "geo-suez-ever-given-2021",
+    "name": "Ever Given blocks the Suez Canal for six days",
+    "year": 2021,
+    "lat": 30.0175,
+    "lon": 32.58,
+    "desc": "On 23 March 2021 the container ship Ever Given grounded and blocked the Suez Canal for six days, holding up roughly a tenth of world trade until tugs freed it on 29 March.",
+    "wiki": "2021_Suez_Canal_obstruction",
+    "grokipedia": "2021_Suez_Canal_obstruction"
    }
   ],
   "polities": [
