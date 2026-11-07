@@ -8145,6 +8145,15 @@
     "lon": -0.1278,
     "desc": "In 1656 Harrington published The Commonwealth of Oceana, laying out a republican constitution of agrarian law, rotation in office, and balanced chambers for a post-civil-war England.",
     "wiki": "The_Commonwealth_of_Oceana"
+   },
+   {
+    "id": "geo-drake-golden-hind-returns-1580",
+    "name": "Drake's Golden Hind returns to Plymouth after sailing round the world",
+    "year": 1580,
+    "lat": 50.3755,
+    "lon": -4.1427,
+    "desc": "On 26 September 1580 the Golden Hind reached Plymouth after a three-year voyage, the first English circumnavigation and a hard blow to Spain's Pacific monopoly.",
+    "wiki": "Francis_Drake's_circumnavigation"
    }
   ],
   "polities": [
@@ -16703,6 +16712,15 @@
     "lon": -94.5786,
     "desc": "Eisenhower signs the Federal-Aid Highway Act of 1956, authorizing 66,000 kilometers of controlled-access highway at a cost of $25 billion — the largest public-works project in American history. Justified in Cold War terms as an evacuation and mobilization system, it remakes the country: the suburbs, the trucking industry, the collapse of passenger rail, the hollowing of downtowns, the logistics geography that Walmart and Amazon later inherit. Eisenhower said he got the idea from the German Autobahn in 1919 and again in 1945.",
     "wiki": "Interstate_Highway_System"
+   },
+   {
+    "id": "geo-berlin-hedgehog-and-fox-1953",
+    "name": "Isaiah Berlin publishes The Hedgehog and the Fox",
+    "year": 1953,
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "desc": "In 1953 Berlin's essay cast thinkers as hedgehogs with one big idea or foxes who know many; the frame became a Cold War shorthand for pluralism against systems.",
+    "wiki": "The_Hedgehog_and_the_Fox"
    }
   ],
   "polities": [
