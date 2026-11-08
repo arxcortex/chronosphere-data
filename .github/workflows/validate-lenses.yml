@@ -1,0 +1,23 @@
+# Pull requests: the history index must match the eras, and the lens validator must pass.
+# The token can read contents. No secrets and no deploy.
+name: Validate lenses
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check history index
+        run: python3 scripts/build_history_index.py --check
+      - name: Validate lenses
+        run: python3 scripts/validate_lenses.py
