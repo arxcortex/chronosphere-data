@@ -17835,6 +17835,15 @@
     "lon": 77.209,
     "desc": "In August 1947 British India split into independent India and Pakistan along the Radcliffe Line; partition displaced 12–20 million people and left lasting Indo-Pakistani hostility.",
     "wiki": "Partition_of_India"
+   },
+   {
+    "id": "geo-said-orientalism-1978",
+    "name": "Edward Said publishes Orientalism",
+    "year": 1978,
+    "lat": 40.8075,
+    "lon": -73.9626,
+    "desc": "In 1978 Edward Said published Orientalism in New York, arguing Western study of the East served imperial power. It helped found postcolonial studies and a dispute over how the West represents Asia.",
+    "wiki": "Orientalism_(book)"
    }
   ],
   "polities": [
@@ -28165,6 +28174,15 @@
     "lon": -77.0311,
     "desc": "On 7 October 2022 the US Commerce Department barred advanced AI chips, chipmaking tools and related US-person support for Chinese fabs, making compute a front of great-power rivalry.",
     "wiki": "United_States_New_Export_Controls_on_Advanced_Computing_and_Semiconductors_to_China"
+   },
+   {
+    "id": "geo-truss-gilt-crisis-2022",
+    "name": "UK mini-budget triggers a gilt crisis and topples Liz Truss",
+    "year": 2022,
+    "lat": 51.5034,
+    "lon": -0.1276,
+    "desc": "On 23 September 2022 an unfunded UK mini-budget sent gilt yields soaring; the Bank of England bought bonds and Liz Truss resigned on 20 October. Markets had disciplined a G7 government in real time.",
+    "wiki": "September_2022_United_Kingdom_mini-budget"
    }
   ],
   "polities": [
