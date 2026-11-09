@@ -7999,6 +7999,15 @@
   "desc": "The State of Israel is declared in Tel Aviv. The Chinese Communists are a year from Beijing. Indian partition has displaced fifteen million and killed a million. The postwar religious map is being drawn in blood.",
   "events": [
    {
+    "id": "religion-dead-sea-scrolls-found-1947",
+    "name": "A Bedouin shepherd finds the first Dead Sea Scrolls in a cave near Qumran",
+    "year": 1947,
+    "lat": 31.7419,
+    "lon": 35.4586,
+    "desc": "In late 1946 or early 1947 a Bedouin shepherd found ancient scrolls in a cave near Qumran by the Dead Sea. The caves held the oldest surviving manuscripts of books later in the Bible.",
+    "wiki": "Dead_Sea_Scrolls"
+   },
+   {
     "id": "religion-declaration-of-israel-1948",
     "name": "Declaration of Israel",
     "year": 1948,

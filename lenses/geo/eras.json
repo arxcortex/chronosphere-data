@@ -7102,6 +7102,15 @@
   "desc": "Luther posts the Ninety-Five Theses at Wittenberg. Within a generation Latin Christendom will be permanently split. The religious wars that follow will kill millions and, by exhausting everyone, produce the modern state system.",
   "events": [
    {
+    "id": "geo-wang-yangming-longchang-1508",
+    "name": "Exiled to Longchang, Wang Yangming reaches the insight behind his School of Mind",
+    "year": 1508,
+    "lat": 26.8389,
+    "lon": 106.592,
+    "desc": "In 1508, exiled to a remote post station at Longchang in Guizhou, Wang Yangming concluded that moral principle lies within the mind. His school became the chief rival to Zhu Xi's orthodoxy.",
+    "wiki": "Wang_Yangming"
+   },
+   {
     "id": "geo-luther-s-ninety-five-theses-1517",
     "name": "Luther's Ninety-Five Theses",
     "year": 1517,
@@ -24522,6 +24531,15 @@
     "desc": "On 15 June 2020 troops barred from firing fought with clubs and stones in Ladakh; 20 Indian and at least four Chinese soldiers died. India answered by banning 59 Chinese apps, TikTok among them.",
     "wiki": "2020–2021_China–India_skirmishes",
     "grokipedia": "2020–2021_China–India_skirmishes"
+   },
+   {
+    "id": "geo-rcep-signed-2020",
+    "name": "Fifteen Asia-Pacific states sign RCEP, the world's largest trade bloc",
+    "year": 2020,
+    "lat": 21.0285,
+    "lon": 105.8542,
+    "desc": "On 15 November 2020 fifteen Asia-Pacific states signed RCEP at a virtual ASEAN summit hosted by Vietnam. It was the first free trade pact to join China, Japan and South Korea.",
+    "wiki": "Regional_Comprehensive_Economic_Partnership"
    }
   ],
   "polities": [
