@@ -7136,6 +7136,15 @@
     "lon": 11.26,
     "desc": "Niccolò Machiavelli writes *Il Principe* in Florence, dedicated to Lorenzo de' Medici. The first modern treatise on politics as craft rather than moral philosophy. Banned by the Church; indispensable to every subsequent political thinker. Printed posthumously in 1532.",
     "wiki": "The_Prince"
+   },
+   {
+    "id": "geo-ming-lifts-sea-ban-yuegang-1567",
+    "name": "Ming China lifts its sea ban and opens Yuegang to licensed overseas trade",
+    "year": 1567,
+    "lat": 24.415,
+    "lon": 117.8508,
+    "desc": "In 1567 the new Longqing court lifted the Ming sea ban and licensed private merchants to sail abroad from Yuegang in Fujian. The port soon fed the Manila galleon trade in American silver.",
+    "wiki": "Haijin"
    }
   ],
   "polities": [
@@ -9412,6 +9421,15 @@
     "lon": -76.5097,
     "desc": "Washington and Rochambeau trap Cornwallis on the Yorktown peninsula. The French fleet blocks escape. After a three-week siege Cornwallis surrenders 7,000 troops. The British government falls; peace negotiations begin.",
     "wiki": "Siege_of_Yorktown"
+   },
+   {
+    "id": "geo-kant-what-is-enlightenment-1784",
+    "name": "Kant publishes his answer to the question 'What is Enlightenment?'",
+    "year": 1784,
+    "lat": 54.7065,
+    "lon": 20.511,
+    "desc": "In December 1784 Immanuel Kant answered 'What is Enlightenment?' in the Berlinische Monatsschrift, calling it an exit from self-incurred immaturity. It made free public reason the age's watchword.",
+    "wiki": "Immanuel_Kant"
    },
    {
     "id": "geo-storming-of-the-bastille-1789",
