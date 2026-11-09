@@ -1731,6 +1731,15 @@
     "lon": 35.2354,
     "desc": "Titus's legions burn the Jerusalem Temple at the climax of the Jewish Revolt. The sacrificial cult ends forever; rabbinic Judaism — portable, text-based, synagogue-centered — survives the catastrophe and becomes the Jewish religion of the next two millennia. The same year the Jesus-movement definitively separates from its parent tradition.",
     "wiki": "Siege_of_Jerusalem_(70_CE)"
+   },
+   {
+    "id": "religion-xu-fu-eastward-voyage--219",
+    "name": "Qin Shi Huang sends Xu Fu east across the sea to find the elixir of immortality",
+    "year": -219,
+    "lat": 35.6494,
+    "lon": 119.902,
+    "desc": "In 219 BCE Qin Shi Huang sent Xu Fu east from Langya to seek the elixir of immortality. The Shiji records the mission; Xu sailed again in 210 BCE and never returned, feeding later East Asian legends.",
+    "wiki": "Xu_Fu"
    }
   ],
   "polities": [
