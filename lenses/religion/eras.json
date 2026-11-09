@@ -5392,6 +5392,15 @@
     "grokipedia": "Jesuits"
    },
    {
+    "id": "religion-akbar-ibadat-khana-1575",
+    "name": "Akbar builds the Ibadat Khana at Fatehpur Sikri for debates on faith",
+    "year": 1575,
+    "lat": 27.091,
+    "lon": 77.661,
+    "desc": "In 1575 the Mughal emperor Akbar built the Ibadat Khana for religious debate, first among Muslim scholars, later with Hindus, Jains, Zoroastrians and Jesuits. A ruler put rival faiths in one room.",
+    "wiki": "Ibadat_Khana"
+   },
+   {
     "id": "religion-moscow-patriarchate-third-rome-1589",
     "name": "Moscow gets its own patriarch, and the charter calls Russia the Third Rome",
     "year": 1589,
