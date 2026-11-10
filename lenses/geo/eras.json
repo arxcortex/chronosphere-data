@@ -13771,6 +13771,16 @@
     "lon": 30.3351,
     "desc": "February 1917 — the tsar abdicates. October 1917 — Bolsheviks storm the Winter Palace. Lenin sues for peace at Brest-Litovsk in 1918, losing Finland, the Baltics, Poland, Ukraine, and the Caucasus to secure Bolshevik rule. Civil war rages until 1922. The first Marxist state is created out of tsarist collapse — the twentieth century's second founding act, after the war itself.",
     "wiki": "Russian_Revolution"
+   },
+   {
+    "id": "geo-treaty-of-lausanne-1923",
+    "name": "Treaty of Lausanne replaces Sèvres and recognizes the new Turkish state",
+    "year": 1923,
+    "lat": 46.5225,
+    "lon": 6.6347,
+    "desc": "On 24 July 1923 Turkey and the Allies signed the Treaty of Lausanne, replacing the failed Treaty of Sèvres. It won international recognition for the Republic of Turkey as the Ottoman successor.",
+    "wiki": "Treaty_of_Lausanne",
+    "grokipedia": "Treaty_of_Lausanne"
    }
   ],
   "polities": [
@@ -17880,6 +17890,16 @@
     "lon": -73.9626,
     "desc": "In 1978 Edward Said published Orientalism in New York, arguing Western study of the East served imperial power. It helped found postcolonial studies and a dispute over how the West represents Asia.",
     "wiki": "Orientalism_(book)"
+   },
+   {
+    "id": "geo-wittfogel-oriental-despotism-1957",
+    "name": "Wittfogel's Oriental Despotism ties total state power to control of water",
+    "year": 1957,
+    "lat": 41.3083,
+    "lon": -72.9279,
+    "desc": "In 1957 Karl Wittfogel's Oriental Despotism traced bureaucratic despotism to states that ran big irrigation works. It fed Cold War debate on whether Soviet and Chinese rule extended that power.",
+    "wiki": "Oriental_Despotism",
+    "grokipedia": "Oriental_Despotism"
    }
   ],
   "polities": [
@@ -26379,6 +26399,16 @@
     "desc": "On 23 March 2021 the container ship Ever Given grounded and blocked the Suez Canal for six days, holding up roughly a tenth of world trade until tugs freed it on 29 March.",
     "wiki": "2021_Suez_Canal_obstruction",
     "grokipedia": "2021_Suez_Canal_obstruction"
+   },
+   {
+    "id": "geo-sudan-coup-2021",
+    "name": "Sudan's army seizes power and dissolves the civilian-military Sovereignty Council",
+    "year": 2021,
+    "lat": 15.5007,
+    "lon": 32.5599,
+    "desc": "On 25 October 2021 General Abdel Fattah al-Burhan's military took over Sudan's government, dissolved the Sovereignty Council and detained the cabinet. It halted the transition to civilian rule.",
+    "wiki": "2021_Sudanese_coup_d'état",
+    "grokipedia": "2021_Sudanese_coup_d'état"
    }
   ],
   "polities": [
