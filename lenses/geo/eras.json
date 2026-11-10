@@ -15711,6 +15711,15 @@
     "lon": 13.1643,
     "desc": "Senior Nazi officials meet at a villa outside Berlin to coordinate the 'Final Solution to the Jewish Question.' The bureaucratic formalization of genocide already underway. Over the next three years six million Jews and millions of others will be murdered.",
     "wiki": "Wannsee_Conference"
+   },
+   {
+    "id": "geo-lend-lease-act-signed-1941",
+    "name": "Roosevelt signs the Lend-Lease Act, arming Britain and later the Soviet Union",
+    "year": 1941,
+    "lat": 38.8977,
+    "lon": -77.0365,
+    "desc": "On 11 March 1941 Roosevelt signed the Lend-Lease Act, letting the US supply arms, fuel and food free to nations whose defense it deemed vital. Aid reached Britain, China and the USSR until 1945.",
+    "wiki": "Lend-Lease"
    }
   ],
   "polities": [
@@ -33692,6 +33701,15 @@
     "desc": "On 18 March 2025 the old Bundestag exempted defense above 1% of GDP from the debt brake and created a €500 billion infrastructure fund. It lets Europe's largest economy rearm on credit.",
     "wiki": "German_balanced_budget_amendment",
     "grokipedia": "German_balanced_budget_amendment"
+   },
+   {
+    "id": "geo-yoon-removed-2025",
+    "name": "South Korea's Constitutional Court removes President Yoon over martial law",
+    "year": 2025,
+    "lat": 37.5815,
+    "lon": 126.9846,
+    "desc": "On 4 April 2025 the Constitutional Court voted 8-0 to uphold Yoon Suk Yeol's impeachment over his martial-law decree. A snap election in June made Lee Jae Myung president.",
+    "wiki": "Impeachment_of_Yoon_Suk_Yeol"
    }
   ],
   "polities": [
