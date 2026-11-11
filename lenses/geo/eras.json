@@ -8847,6 +8847,16 @@
     "lon": -9.1393,
     "desc": "On All Saints' Day, a magnitude-8.5 earthquake, tsunami, and fire destroy Lisbon. Perhaps 60,000 dead. The catastrophe reshapes European theodicy — Voltaire's *Candide* is a direct response — and accelerates Enlightenment skepticism about providential design.",
     "wiki": "1755_Lisbon_earthquake"
+   },
+   {
+    "id": "geo-encyclopedie-first-volume-1751",
+    "name": "First volume of Diderot and d'Alembert's Encyclopédie appears in Paris",
+    "year": 1751,
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "desc": "In June 1751 the first volume of the Encyclopédie, edited by Denis Diderot and Jean le Rond d'Alembert, came out in Paris. The work ran to 1772 and carried Enlightenment thought across Europe.",
+    "wiki": "Encyclopédie",
+    "grokipedia": "Encyclopédie"
    }
   ],
   "polities": [
@@ -13781,6 +13791,16 @@
     "desc": "On 24 July 1923 Turkey and the Allies signed the Treaty of Lausanne, replacing the failed Treaty of Sèvres. It won international recognition for the Republic of Turkey as the Ottoman successor.",
     "wiki": "Treaty_of_Lausanne",
     "grokipedia": "Treaty_of_Lausanne"
+   },
+   {
+    "id": "geo-french-army-mutinies-1917",
+    "name": "French troops refuse to attack after the failed Nivelle offensive",
+    "year": 1917,
+    "lat": 49.44,
+    "lon": 3.66,
+    "desc": "After the April 1917 Nivelle offensive failed, units in nearly half of France's Western Front infantry divisions refused to attack. Pétain restored order with leave, reform and 26 executions.",
+    "wiki": "1917_French_Army_mutinies",
+    "grokipedia": "1917_French_Army_mutinies"
    }
   ],
   "polities": [
