@@ -8042,6 +8042,16 @@
     "lon": -118.2437,
     "desc": "Eight weeks in a tent at Washington and Hill. Hearst wires his papers: 'Puff Graham.' American evangelicalism's great postwar revival begins; Graham will advise every president from Truman to Obama.",
     "wiki": "Billy_Graham"
+   },
+   {
+    "id": "religion-dalai-lama-flees-lhasa-1959",
+    "name": "Dalai Lama flees Lhasa for India as China crushes the Tibetan uprising",
+    "year": 1959,
+    "lat": 29.6505,
+    "lon": 91.0955,
+    "desc": "On 17 March 1959, a week into the Lhasa uprising, the 14th Dalai Lama fled the city and found refuge in India. He went on to lead Tibet's government in exile from Dharamshala.",
+    "wiki": "1959_Tibetan_uprising",
+    "grokipedia": "1959_Tibetan_uprising"
    }
   ],
   "polities": [
