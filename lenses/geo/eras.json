@@ -11545,6 +11545,16 @@
     "lon": -79.6631,
     "desc": "Edwin Drake drills the first commercially successful oil well near Titusville, Pennsylvania, at 69 feet using a steam-powered rig. Within a year a forest of derricks covers Oil Creek Valley; Pithole City goes from farmland to 15,000 people in eighteen months. Kerosene for lighting displaces whale oil within a decade, saving the whales by accident. John D. Rockefeller arrives in 1863. The modern petroleum industry — and every politics that follows from it — begins here.",
     "wiki": "Drake_Well"
+   },
+   {
+    "id": "geo-thoreau-civil-disobedience-1849",
+    "name": "Thoreau publishes Resistance to Civil Government, later known as Civil Disobedience",
+    "year": 1849,
+    "lat": 42.4604,
+    "lon": -71.3489,
+    "desc": "In 1849 Thoreau argued that conscience must come before unjust laws, pointing to slavery and the Mexican War. Gandhi and Martin Luther King Jr. later drew on the essay.",
+    "wiki": "Civil_Disobedience_(essay)",
+    "grokipedia": "Henry_David_Thoreau"
    }
   ],
   "polities": [
@@ -24589,6 +24599,16 @@
     "lon": 105.8542,
     "desc": "On 15 November 2020 fifteen Asia-Pacific states signed RCEP at a virtual ASEAN summit hosted by Vietnam. It was the first free trade pact to join China, Japan and South Korea.",
     "wiki": "Regional_Comprehensive_Economic_Partnership"
+   },
+   {
+    "id": "geo-second-nagorno-karabakh-war-2020",
+    "name": "Azerbaijan retakes much of Nagorno-Karabakh in a 44-day war with Armenia",
+    "year": 2020,
+    "lat": 39.7597,
+    "lon": 46.7486,
+    "desc": "Azerbaijan opened an offensive on 27 September 2020 and took Shusha after drone-heavy fighting. A Russian-brokered truce from 10 November ceded land to Baku and brought in Russian peacekeepers.",
+    "wiki": "Second_Nagorno-Karabakh_War",
+    "grokipedia": "Second_Nagorno-Karabakh_War"
    }
   ],
   "polities": [
