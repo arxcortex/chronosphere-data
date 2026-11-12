@@ -22759,6 +22759,16 @@
     "lon": 46.6753,
     "desc": "Mohammed bin Salman's plan to diversify the Saudi economy away from oil. NEOM, the Public Investment Fund's megadeals, the Aramco IPO (2019), and the opening of the kingdom to tourism and entertainment. By 2025 the PIF is one of the world's largest sovereign wealth funds and an active investor in AI, semiconductors, and gaming. The Gulf is buying its way into the post-oil economy.",
     "wiki": "Saudi_Vision_2030"
+   },
+   {
+    "id": "geo-bolsonaro-elected-2018",
+    "name": "Jair Bolsonaro wins Brazil's presidential runoff",
+    "year": 2018,
+    "lat": -15.7939,
+    "lon": -47.8828,
+    "desc": "On 28 October 2018 right-wing congressman Jair Bolsonaro beat Fernando Haddad with over 55% of the runoff vote. His win brought Brazil's hard right to power after the Workers' Party era.",
+    "wiki": "2018_Brazilian_general_election",
+    "grokipedia": "2018_Brazilian_general_election"
    }
   ],
   "polities": [
@@ -31950,6 +31960,16 @@
     "desc": "On 5 August 2024, after weeks of deadly protests, Sheikh Hasina resigned and fled by helicopter to India, ending her rule since 2009. Muhammad Yunus led an interim government from 8 August.",
     "wiki": "Resignation_of_Sheikh_Hasina",
     "grokipedia": "Sheikh_Hasina"
+   },
+   {
+    "id": "geo-venezuela-disputed-election-2024",
+    "name": "Maduro claims victory in Venezuela's disputed presidential election",
+    "year": 2024,
+    "lat": 10.4806,
+    "lon": -66.9036,
+    "desc": "After Venezuela's 28 July 2024 vote, officials named Nicolás Maduro the winner without tallies, though opposition tally sheets showed Edmundo González ahead. Maduro held power until his 2026 capture.",
+    "wiki": "2024_Venezuelan_presidential_election",
+    "grokipedia": "2024_Venezuelan_presidential_election"
    }
   ],
   "polities": [
