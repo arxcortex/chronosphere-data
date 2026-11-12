@@ -977,6 +977,16 @@
     "desc": "In 67 BCE, over Senate objections, the Gabinian law gave Pompey command of the sea and its coasts; he beat the pirates in three months. His sweeping powers became a model for Augustus.",
     "wiki": "Cilician_pirates",
     "grokipedia": "Cilician_pirates"
+   },
+   {
+    "id": "geo-sima-qian-completes-shiji--94",
+    "name": "Sima Qian completes the Shiji, the model for China's dynastic histories",
+    "year": -94,
+    "lat": 34.3,
+    "lon": 108.87,
+    "desc": "About 94 BCE Han historian Sima Qian, castrated for defending a disgraced general, finished the Shiji, a history from the Yellow Emperor to his day. It set the form for China's official histories.",
+    "wiki": "Shiji",
+    "grokipedia": "Sima_Qian"
    }
   ],
   "polities": [
@@ -13811,6 +13821,16 @@
     "desc": "After the April 1917 Nivelle offensive failed, units in nearly half of France's Western Front infantry divisions refused to attack. Pétain restored order with leave, reform and 26 executions.",
     "wiki": "1917_French_Army_mutinies",
     "grokipedia": "1917_French_Army_mutinies"
+   },
+   {
+    "id": "geo-young-turk-revolution-1908",
+    "name": "Young Turk officers force Sultan Abdul Hamid II to restore the Ottoman constitution",
+    "year": 1908,
+    "lat": 40.6401,
+    "lon": 22.9444,
+    "desc": "In July 1908 Unionist officers in Ottoman Macedonia revolted and made Abdul Hamid II restore the constitution and recall parliament. After 1908 the sultan no longer held the empire's real power.",
+    "wiki": "Young_Turk_Revolution",
+    "grokipedia": "Young_Turk_Revolution"
    }
   ],
   "polities": [
@@ -24619,6 +24639,16 @@
     "desc": "Azerbaijan opened an offensive on 27 September 2020 and took Shusha after drone-heavy fighting. A Russian-brokered truce from 10 November ceded land to Baku and brought in Russian peacekeepers.",
     "wiki": "Second_Nagorno-Karabakh_War",
     "grokipedia": "Second_Nagorno-Karabakh_War"
+   },
+   {
+    "id": "geo-oil-price-war-negative-crude-2020",
+    "name": "Saudi-Russia price war and the pandemic push US crude below zero",
+    "year": 2020,
+    "lat": 35.985,
+    "lon": -96.767,
+    "desc": "After Russia rejected deeper OPEC+ cuts, Saudi Arabia opened an oil price war on 8 March 2020 as COVID-19 cut demand. On 20 April, with storage near full, WTI crude fell to about -$37 a barrel.",
+    "wiki": "2020_Russia–Saudi_Arabia_oil_price_war",
+    "grokipedia": "2020_Russia–Saudi_Arabia_oil_price_war"
    }
   ],
   "polities": [
