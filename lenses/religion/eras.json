@@ -1740,6 +1740,16 @@
     "lon": 119.902,
     "desc": "In 219 BCE Qin Shi Huang sent Xu Fu east from Langya to seek the elixir of immortality. The Shiji records the mission; Xu sailed again in 210 BCE and never returned, feeding later East Asian legends.",
     "wiki": "Xu_Fu"
+   },
+   {
+    "id": "religion-pali-canon-written-down--29",
+    "name": "Monks in Sri Lanka write the Pali Canon down on palm leaves",
+    "year": -29,
+    "lat": 7.4972,
+    "lon": 80.6219,
+    "desc": "Around 29 BCE, amid famine and invasion under King Vattagamani, monks at Aluvihare wrote the oral Pali Canon on palm leaves. It became the fixed scripture of Theravada Buddhism.",
+    "wiki": "Pali_Canon",
+    "grokipedia": "Pali_Canon"
    }
   ],
   "polities": [
