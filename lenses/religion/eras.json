@@ -8082,6 +8082,15 @@
     "desc": "On 17 March 1959, a week into the Lhasa uprising, the 14th Dalai Lama fled the city and found refuge in India. He went on to lead Tibet's government in exile from Dharamshala.",
     "wiki": "1959_Tibetan_uprising",
     "grokipedia": "1959_Tibetan_uprising"
+   },
+   {
+    "id": "religion-soviet-decree-separates-church-and-state-1918",
+    "name": "Soviet decree separates church from state and strips churches of property",
+    "year": 1918,
+    "lat": 59.9465,
+    "lon": 30.3958,
+    "desc": "In early 1918 Lenin's Council of People's Commissars separated church from state and school from church, denying churches property and legal standing. It laid the base for Soviet atheist campaigns.",
+    "wiki": "Decree_on_Separation_of_Church_and_State"
    }
   ],
   "polities": [
