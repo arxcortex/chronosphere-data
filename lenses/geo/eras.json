@@ -494,6 +494,16 @@
     "lon": 44.4208,
     "desc": "Alexander III of Macedon dies of fever in Nebuchadnezzar's palace in Babylon at thirty-two. In twelve years he has destroyed the Achaemenid Empire, conquered from the Aegean to the Indus, and founded some twenty cities named after himself. The empire fractures among his generals within a generation — the Seleucids in Asia, the Ptolemies in Egypt, the Antigonids in Macedon — but the Hellenistic world he created will persist for three centuries, transmitting Greek language, philosophy, and urban form from Egypt to Afghanistan. The Septuagint, the New Testament's Greek, and the Gandharan Buddhas all grow out of his wake.",
     "wiki": "Alexander_the_Great"
+   },
+   {
+    "id": "geo-cleisthenes-reforms--508",
+    "name": "Cleisthenes regroups Athenians into ten tribes and founds the democracy",
+    "year": -508,
+    "lat": 37.9747,
+    "lon": 23.7224,
+    "desc": "In 508 BCE, after Athenians drove out the Spartan-backed Isagoras, Cleisthenes split citizens into ten tribes by deme. His reforms put Athens on a democratic footing and added ostracism.",
+    "wiki": "Cleisthenes",
+    "grokipedia": "Cleisthenes"
    }
   ],
   "polities": [
@@ -987,6 +997,16 @@
     "desc": "About 94 BCE Han historian Sima Qian, castrated for defending a disgraced general, finished the Shiji, a history from the Yellow Emperor to his day. It set the form for China's official histories.",
     "wiki": "Shiji",
     "grokipedia": "Sima_Qian"
+   },
+   {
+    "id": "geo-cicero-de-re-publica--51",
+    "name": "Cicero finishes De re publica, his dialogue on the best Roman state",
+    "year": -51,
+    "lat": 41.8925,
+    "lon": 12.4853,
+    "desc": "Between 54 and 51 BCE Cicero wrote De re publica, a dialogue modeled on Plato's Republic about the ideal Roman state. Its idea of a natural law binding all nations shaped later legal thought.",
+    "wiki": "De_re_publica",
+    "grokipedia": "De_re_publica"
    }
   ],
   "polities": [
