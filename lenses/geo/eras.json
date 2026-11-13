@@ -13851,6 +13851,15 @@
     "desc": "In July 1908 Unionist officers in Ottoman Macedonia revolted and made Abdul Hamid II restore the constitution and recall parliament. After 1908 the sultan no longer held the empire's real power.",
     "wiki": "Young_Turk_Revolution",
     "grokipedia": "Young_Turk_Revolution"
+   },
+   {
+    "id": "geo-mackinder-geographical-pivot-1904",
+    "name": "Mackinder's 'Geographical Pivot of History' puts inner Eurasia at the center of power",
+    "year": 1904,
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "desc": "In 1904 Halford Mackinder told the Royal Geographical Society that whoever held inner Eurasia's pivot area could dominate the world. His heartland theory helped found modern geopolitics.",
+    "wiki": "The_Geographical_Pivot_of_History"
    }
   ],
   "polities": [
@@ -28358,6 +28367,15 @@
     "lon": -0.1276,
     "desc": "On 23 September 2022 an unfunded UK mini-budget sent gilt yields soaring; the Bank of England bought bonds and Liz Truss resigned on 20 October. Markets had disciplined a G7 government in real time.",
     "wiki": "September_2022_United_Kingdom_mini-budget"
+   },
+   {
+    "id": "geo-fed-hiking-cycle-2022",
+    "name": "Federal Reserve starts raising rates from near zero to fight inflation",
+    "year": 2022,
+    "lat": 38.8928,
+    "lon": -77.0458,
+    "desc": "On 16 March 2022 the Fed began lifting rates from near zero against the highest US inflation since 1981, reaching 5.25-5.5% by July 2023. The jump exposed banks such as Silicon Valley Bank.",
+    "wiki": "History_of_Federal_Open_Market_Committee_actions"
    }
   ],
   "polities": [
