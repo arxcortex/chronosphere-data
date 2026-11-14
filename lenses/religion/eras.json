@@ -31,6 +31,16 @@
     "lon": -1.8262,
     "desc": "The great stone circle takes its final form. Its solar alignments encode a cosmology whose priests left no texts.",
     "wiki": "Stonehenge"
+   },
+   {
+    "id": "religion-pyramid-texts-unas-saqqara--2350",
+    "name": "Pyramid Texts are carved inside Unas's pyramid at Saqqara",
+    "year": -2350,
+    "lat": 29.8686,
+    "lon": 31.2153,
+    "desc": "In the 24th century BCE scribes carved spells for the dead king's afterlife on the walls of Unas's pyramid at Saqqara. They are the oldest known body of Egyptian religious texts.",
+    "wiki": "Pyramid_Texts",
+    "grokipedia": "Pyramid_Texts"
    }
   ],
   "polities": [

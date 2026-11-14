@@ -11585,6 +11585,16 @@
     "desc": "In 1849 Thoreau argued that conscience must come before unjust laws, pointing to slavery and the Mexican War. Gandhi and Martin Luther King Jr. later drew on the essay.",
     "wiki": "Civil_Disobedience_(essay)",
     "grokipedia": "Henry_David_Thoreau"
+   },
+   {
+    "id": "geo-russia-emancipates-serfs-1861",
+    "name": "Alexander II's Emancipation Manifesto frees Russia's serfs",
+    "year": 1861,
+    "lat": 59.9398,
+    "lon": 30.3146,
+    "desc": "On 3 March 1861 Alexander II's manifesto freed more than 23 million serfs, after defeat in Crimea exposed Russia's weakness. Its land terms still favored the landowners.",
+    "wiki": "Emancipation_reform_of_1861",
+    "grokipedia": "Emancipation_reform_of_1861"
    }
   ],
   "polities": [
@@ -24678,6 +24688,16 @@
     "desc": "After Russia rejected deeper OPEC+ cuts, Saudi Arabia opened an oil price war on 8 March 2020 as COVID-19 cut demand. On 20 April, with storage near full, WTI crude fell to about -$37 a barrel.",
     "wiki": "2020_Russia–Saudi_Arabia_oil_price_war",
     "grokipedia": "2020_Russia–Saudi_Arabia_oil_price_war"
+   },
+   {
+    "id": "geo-us-election-2020-2020",
+    "name": "Biden defeats Trump, who refuses to accept the result",
+    "year": 2020,
+    "lat": 38.8977,
+    "lon": -77.0365,
+    "desc": "On 3 November 2020 Joe Biden beat Donald Trump 306 electoral votes to 232, drawing over 81 million votes. Trump's failed push to overturn the result ended in the 6 January Capitol attack.",
+    "wiki": "2020_United_States_presidential_election",
+    "grokipedia": "2020_United_States_presidential_election"
    }
   ],
   "polities": [
