@@ -18029,6 +18029,16 @@
     "desc": "In 1973 Hayden White's Metahistory read eight 19th-century thinkers as writers who cast events as romance, tragedy, comedy or satire. It put narrative form at the center of debates on history.",
     "wiki": "Metahistory:_The_Historical_Imagination_in_Nineteenth-century_Europe",
     "grokipedia": "Hayden_White"
+   },
+   {
+    "id": "geo-imperialism-of-free-trade-1953",
+    "name": "Gallagher and Robinson argue Britain ruled an informal empire through free trade",
+    "year": 1953,
+    "lat": 52.2053,
+    "lon": 0.1218,
+    "desc": "In 1953 Jack Gallagher and Ronald Robinson argued that Victorian Britain preferred informal control through trade to formal rule. Their essay became one of the most cited articles in imperial history.",
+    "wiki": "The_Imperialism_of_Free_Trade",
+    "grokipedia": "Informal_empire"
    }
   ],
   "polities": [
@@ -28436,6 +28446,16 @@
     "lon": -77.0458,
     "desc": "On 16 March 2022 the Fed began lifting rates from near zero against the highest US inflation since 1981, reaching 5.25-5.5% by July 2023. The jump exposed banks such as Silicon Valley Bank.",
     "wiki": "History_of_Federal_Open_Market_Committee_actions"
+   },
+   {
+    "id": "geo-sri-lanka-collapse-2022",
+    "name": "Sri Lanka defaults on its foreign debt and protesters drive out President Rajapaksa",
+    "year": 2022,
+    "lat": 6.9271,
+    "lon": 79.8612,
+    "desc": "In April 2022 Sri Lanka stopped paying its foreign debt, its first default since independence. By July mass protests in Colombo forced President Gotabaya Rajapaksa to flee and resign.",
+    "wiki": "Sri_Lankan_economic_crisis_(2019–2024)",
+    "grokipedia": "Gotabaya_Rajapaksa"
    }
   ],
   "polities": [
