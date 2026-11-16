@@ -1092,6 +1092,16 @@
     "lon": 44.421,
     "desc": "Nebuchadnezzar destroys Jerusalem and deports the Judean elite to Babylon. In exile the Torah is compiled; Yahweh becomes the universal creator rather than a tribal god; a synagogue-and-text religion replaces the cult of the temple.",
     "wiki": "Babylonian_captivity"
+   },
+   {
+    "id": "religion-edict-of-cyrus-return-to-zion--539",
+    "name": "Cyrus takes Babylon and lets exiled Judeans go home to rebuild the Temple",
+    "year": -539,
+    "lat": 32.5364,
+    "lon": 44.4208,
+    "desc": "After Persia took Babylon in 539 BCE, the Bible records, Cyrus the Great let exiled Judeans return to rebuild Jerusalem's Temple. That Second Temple stood until Rome destroyed it in 70 CE.",
+    "wiki": "Edict_of_Cyrus",
+    "grokipedia": "Edict_of_Cyrus"
    }
   ],
   "polities": [

@@ -1007,6 +1007,16 @@
     "desc": "Between 54 and 51 BCE Cicero wrote De re publica, a dialogue modeled on Plato's Republic about the ideal Roman state. Its idea of a natural law binding all nations shaped later legal thought.",
     "wiki": "De_re_publica",
     "grokipedia": "De_re_publica"
+   },
+   {
+    "id": "geo-battle-of-cynoscephalae--197",
+    "name": "Rome's legions break Philip V's phalanx at Cynoscephalae",
+    "year": -197,
+    "lat": 39.43,
+    "lon": 22.55,
+    "desc": "In June 197 BCE Flamininus's Roman-Aetolian army routed Philip V of Macedon in Thessaly. Macedon kept its throne but gave up its Greek conquests and never again checked Rome's rise in the east.",
+    "wiki": "Battle_of_Cynoscephalae",
+    "grokipedia": "Battle_of_Cynoscephalae"
    }
   ],
   "polities": [
@@ -18009,6 +18019,16 @@
     "desc": "In 1957 Karl Wittfogel's Oriental Despotism traced bureaucratic despotism to states that ran big irrigation works. It fed Cold War debate on whether Soviet and Chinese rule extended that power.",
     "wiki": "Oriental_Despotism",
     "grokipedia": "Oriental_Despotism"
+   },
+   {
+    "id": "geo-hayden-white-metahistory-1973",
+    "name": "Hayden White's Metahistory argues that historians shape the past as story",
+    "year": 1973,
+    "lat": 39.2904,
+    "lon": -76.6122,
+    "desc": "In 1973 Hayden White's Metahistory read eight 19th-century thinkers as writers who cast events as romance, tragedy, comedy or satire. It put narrative form at the center of debates on history.",
+    "wiki": "Metahistory:_The_Historical_Imagination_in_Nineteenth-century_Europe",
+    "grokipedia": "Hayden_White"
    }
   ],
   "polities": [
