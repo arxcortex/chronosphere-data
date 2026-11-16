@@ -6769,6 +6769,16 @@
     "lon": 12.4534,
     "desc": "Pius IX defines papal infallibility on matters of faith and morals. The pope becomes the authoritative voice of Catholicism in a way he never was before.",
     "wiki": "First_Vatican_Council"
+   },
+   {
+    "id": "religion-concordat-of-1801",
+    "name": "Napoleon's France and Pope Pius VII agree the Concordat of 1801",
+    "year": 1801,
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "desc": "On 15 July 1801 France and the Holy See signed a Concordat that restored the Catholic Church's civil standing after the Revolution but not its seized lands. Its terms held in France until 1905.",
+    "wiki": "Concordat_of_1801",
+    "grokipedia": "Concordat_of_1801"
    }
   ],
   "polities": [
