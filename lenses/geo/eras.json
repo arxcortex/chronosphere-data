@@ -19104,6 +19104,16 @@
     "lon": 113.5439,
     "desc": "December 20, 1999. Portugal returns Macau to China after 442 years — the longest-held European colony in Asia. The handover ceremony is quieter than Hong Kong's two years earlier; Macau has fewer than 450,000 residents and a fraction of Hong Kong's global profile. Over the next two decades Macau is transformed into the world's largest gambling center — casino revenues surpass the Las Vegas Strip by 2006 and reach six times Las Vegas's level at their peak. The last European colonial flag in Asia comes down, ending the era of European territorial presence on the continent that began with Vasco da Gama in 1498.",
     "wiki": "Handover_of_Macau"
+   },
+   {
+    "id": "geo-gulf-war-1991",
+    "name": "US-led coalition drives Iraq out of Kuwait in the Gulf War",
+    "year": 1991,
+    "lat": 29.3759,
+    "lon": 47.9774,
+    "desc": "After Iraq invaded Kuwait in August 1990, a 42-country coalition led by the US bombed Iraq from 17 January 1991 and freed Kuwait by 28 February. It set the pattern for US power after the Cold War.",
+    "wiki": "Gulf_War",
+    "grokipedia": "Gulf_War"
    }
   ],
   "polities": [
@@ -26588,6 +26598,16 @@
     "desc": "On 25 October 2021 General Abdel Fattah al-Burhan's military took over Sudan's government, dissolved the Sovereignty Council and detained the cabinet. It halted the transition to civilian rule.",
     "wiki": "2021_Sudanese_coup_d'état",
     "grokipedia": "2021_Sudanese_coup_d'état"
+   },
+   {
+    "id": "geo-el-salvador-bitcoin-2021",
+    "name": "El Salvador makes bitcoin legal tender, the first country to do so",
+    "year": 2021,
+    "lat": 13.6929,
+    "lon": -89.2182,
+    "desc": "In 2021 President Nayib Bukele's El Salvador became the first country to make bitcoin legal tender. Public use stayed low, and the country dropped bitcoin's legal-tender status in 2025.",
+    "wiki": "Bitcoin_in_El_Salvador",
+    "grokipedia": "Bitcoin_in_El_Salvador"
    }
   ],
   "polities": [
