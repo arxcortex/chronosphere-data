@@ -4781,6 +4781,16 @@
     "lon": 28.9497,
     "desc": "In January 1454 Mehmed II handed the patriarch's staff to Gennadios Scholarios, a foe of union with Rome. The Orthodox of the empire now answered to a church head the sultan had installed.",
     "wiki": "Gennadius_Scholarius"
+   },
+   {
+    "id": "religion-council-of-constance-1417",
+    "name": "Council of Constance ends the Western Schism by electing Pope Martin V",
+    "year": 1417,
+    "lat": 47.6633,
+    "lon": 9.1753,
+    "desc": "The Council of Constance (1414-1418) deposed or accepted the resignation of rival popes and elected Martin V in 1417, ending the Western Schism. It also condemned Jan Hus, who was burned in 1415.",
+    "wiki": "Council_of_Constance",
+    "grokipedia": "Council_of_Constance"
    }
   ],
   "polities": [
