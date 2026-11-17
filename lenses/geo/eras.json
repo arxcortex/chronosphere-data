@@ -3355,6 +3355,16 @@
     "lon": 48.37,
     "desc": "Yazdegerd III's last great army is destroyed in the Zagros in 642. He flees east and is killed near Merv in 651, ending the Sasanian dynasty.",
     "wiki": "Battle_of_Nahavand"
+   },
+   {
+    "id": "geo-salic-law-507",
+    "name": "Clovis has the Salian Franks' customary law written down as the Salic law",
+    "year": 507,
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "desc": "Clovis I had the Franks' customary law compiled in Late Latin between 507 and 511. Its later use to bar women from inheriting the throne shaped royal succession in France for centuries.",
+    "wiki": "Salic_law",
+    "grokipedia": "Salic_law"
    }
   ],
   "polities": [
@@ -11625,6 +11635,16 @@
     "desc": "On 3 March 1861 Alexander II's manifesto freed more than 23 million serfs, after defeat in Crimea exposed Russia's weakness. Its land terms still favored the landowners.",
     "wiki": "Emancipation_reform_of_1861",
     "grokipedia": "Emancipation_reform_of_1861"
+   },
+   {
+    "id": "geo-panic-of-1857",
+    "name": "Ohio Life's collapse sets off the Panic of 1857, the first worldwide economic crisis",
+    "year": 1857,
+    "lat": 40.7069,
+    "lon": -74.0113,
+    "desc": "Ohio Life Insurance and Trust suspended payments in New York on 24 August 1857, and panic spread through US banks and railroads to Britain. Telegraph and trade made it the first worldwide crisis.",
+    "wiki": "Panic_of_1857",
+    "grokipedia": "Panic_of_1857"
    }
   ],
   "polities": [
@@ -30316,6 +30336,16 @@
     "desc": "On 19 November 2023 libertarian Javier Milei beat Economy Minister Sergio Massa with 56% amid severe inflation, the highest share since Argentina's return to democracy.",
     "wiki": "2023_Argentine_general_election",
     "grokipedia": "2023_Argentine_general_election"
+   },
+   {
+    "id": "geo-china-gallium-germanium-2023",
+    "name": "China puts export licences on gallium and germanium, two chipmaking metals",
+    "year": 2023,
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "desc": "China said on 3 July 2023 that exports of eight gallium and six germanium products would need licences from 1 August. Widely read as a reply to US chip curbs, it put mineral supply into the tech war.",
+    "wiki": "Gallium",
+    "grokipedia": "Gallium"
    }
   ],
   "polities": [
