@@ -4136,6 +4136,16 @@
     "lon": 44.4009,
     "desc": "In 1095 in Baghdad al-Ghazali finished The Incoherence of the Philosophers, attacking twenty Avicennan theses; he branded three as unbelief, including the world's eternity and no bodily resurrection.",
     "wiki": "The_Incoherence_of_the_Philosophers"
+   },
+   {
+    "id": "religion-road-to-canossa-1077",
+    "name": "Excommunicated Henry IV waits in the snow at Canossa for Pope Gregory VII's pardon",
+    "year": 1077,
+    "lat": 44.5764,
+    "lon": 10.4558,
+    "desc": "In January 1077 Henry IV, excommunicated in the investiture fight, waited three days at Canossa until Gregory VII absolved him. It became a lasting symbol of the struggle between popes and kings.",
+    "wiki": "Road_to_Canossa",
+    "grokipedia": "Road_to_Canossa"
    }
   ],
   "polities": [
