@@ -19154,6 +19154,16 @@
     "desc": "After Iraq invaded Kuwait in August 1990, a 42-country coalition led by the US bombed Iraq from 17 January 1991 and freed Kuwait by 28 February. It set the pattern for US power after the Cold War.",
     "wiki": "Gulf_War",
     "grokipedia": "Gulf_War"
+   },
+   {
+    "id": "geo-wolfowitz-doctrine-1992",
+    "name": "Leaked Pentagon draft makes blocking any rival superpower the US strategic aim",
+    "year": 1992,
+    "lat": 38.8719,
+    "lon": -77.0563,
+    "desc": "On 8 March 1992 the New York Times printed excerpts of a draft Defense Planning Guidance aimed at stopping any new rival from rising. Its goal of lasting US primacy shaped later strategy.",
+    "wiki": "Wolfowitz_Doctrine",
+    "grokipedia": "Wolfowitz_Doctrine"
    }
   ],
   "polities": [
@@ -24798,6 +24808,16 @@
     "desc": "On 3 November 2020 Joe Biden beat Donald Trump 306 electoral votes to 232, drawing over 81 million votes. Trump's failed push to overturn the result ended in the 6 January Capitol attack.",
     "wiki": "2020_United_States_presidential_election",
     "grokipedia": "2020_United_States_presidential_election"
+   },
+   {
+    "id": "geo-huawei-fdpr-2020",
+    "name": "US extends export rules to stop Huawei getting chips made with American technology",
+    "year": 2020,
+    "lat": 38.8941,
+    "lon": -77.0327,
+    "desc": "On 15 May 2020 the US Commerce Department barred Huawei from chips made abroad with US technology or software. It showed Washington could use its grip on chip tools to choke a Chinese champion.",
+    "wiki": "Huawei",
+    "grokipedia": "Huawei"
    }
   ],
   "polities": [
