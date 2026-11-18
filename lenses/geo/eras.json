@@ -1017,6 +1017,16 @@
     "desc": "In June 197 BCE Flamininus's Roman-Aetolian army routed Philip V of Macedon in Thessaly. Macedon kept its throne but gave up its Greek conquests and never again checked Rome's rise in the east.",
     "wiki": "Battle_of_Cynoscephalae",
     "grokipedia": "Battle_of_Cynoscephalae"
+   },
+   {
+    "id": "geo-second-triumvirate-lex-titia--43",
+    "name": "Lex Titia makes Octavian, Antony and Lepidus Rome's legal triumvirs",
+    "year": -43,
+    "lat": 41.8925,
+    "lon": 12.4853,
+    "desc": "On 27 November 43 BCE the lex Titia gave Octavian, Antony and Lepidus near-absolute power for five years. Their proscriptions and war on Caesar's assassins hastened the end of the Roman Republic.",
+    "wiki": "Second_Triumvirate",
+    "grokipedia": "Second_Triumvirate"
    }
   ],
   "polities": [
@@ -14877,6 +14887,16 @@
     "lon": -114.7377,
     "desc": "221 meters of concrete across Black Canyon on the Colorado River, dedicated by Roosevelt in 1935 — the largest concrete structure on earth at the time. The dam electrifies Los Angeles, creates Lake Mead, makes the desert Southwest habitable at scale, and inaugurates the era of big-state infrastructure: the TVA, the Grand Coulee, Glen Canyon, the Aswan High Dam, China's Three Gorges. 96 workers died in the construction. Every later dispute over Western water — and there are many more coming — traces back to the allocation compact signed around its pouring.",
     "wiki": "Hoover_Dam"
+   },
+   {
+    "id": "geo-mauss-the-gift-1925",
+    "name": "Marcel Mauss publishes The Gift, on how giving and repaying bind societies",
+    "year": 1925,
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "desc": "In 1925 French sociologist Marcel Mauss argued in The Gift that archaic societies rest on duties to give, receive and repay. It became the foundation of social theories of reciprocity and exchange.",
+    "wiki": "The_Gift_(essay)",
+    "grokipedia": "The_Gift_(essay)"
    }
   ],
   "polities": [
