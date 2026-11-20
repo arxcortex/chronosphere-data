@@ -1832,6 +1832,16 @@
     "lon": 108.94,
     "desc": "The Han court official Cai Lun presents a process for making paper from tree bark, hemp, and old rags. The invention will take a thousand years to reach Europe but will, when it does, make printing economically feasible.",
     "wiki": "History_of_paper"
+   },
+   {
+    "id": "geo-octavian-named-augustus--27",
+    "name": "Rome's Senate names Octavian Augustus, launching the principate",
+    "year": -27,
+    "lat": 41.893,
+    "lon": 12.4853,
+    "desc": "In January 27 BCE Octavian handed power back to the Senate, which gave him key provinces and their legions and, on 16 January, the name Augustus. The Republic gave way to rule by one man.",
+    "wiki": "Augustus",
+    "grokipedia": "Augustus"
    }
   ],
   "polities": [
@@ -16926,6 +16936,16 @@
     "lon": -0.1278,
     "desc": "In 1953 Berlin's essay cast thinkers as hedgehogs with one big idea or foxes who know many; the frame became a Cold War shorthand for pluralism against systems.",
     "wiki": "The_Hedgehog_and_the_Fox"
+   },
+   {
+    "id": "geo-braudel-the-mediterranean-1949",
+    "name": "Fernand Braudel publishes The Mediterranean, putting the long term ahead of events",
+    "year": 1949,
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "desc": "In 1949 Fernand Braudel published The Mediterranean, largely drafted in German prison camps. Its stress on slow geographic and economic forces over events reshaped how history is written.",
+    "wiki": "Fernand_Braudel",
+    "grokipedia": "Fernand_Braudel"
    }
   ],
   "polities": [
