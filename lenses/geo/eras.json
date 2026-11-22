@@ -1027,6 +1027,16 @@
     "desc": "On 27 November 43 BCE the lex Titia gave Octavian, Antony and Lepidus near-absolute power for five years. Their proscriptions and war on Caesar's assassins hastened the end of the Roman Republic.",
     "wiki": "Second_Triumvirate",
     "grokipedia": "Second_Triumvirate"
+   },
+   {
+    "id": "geo-delian-treasury-to-athens--454",
+    "name": "Athens moves the Delian League treasury from Delos to Athens",
+    "year": -454,
+    "lat": 37.9715,
+    "lon": 23.7257,
+    "desc": "In 454 BCE Athens moved the Delian League's common treasury from Delos to Athens. Allied tribute then funded Athenian power, the Parthenon included, and the alliance hardened into an empire.",
+    "wiki": "Delian_League",
+    "grokipedia": "Delian_League"
    }
   ],
   "polities": [
@@ -28556,6 +28566,16 @@
     "desc": "In April 2022 Sri Lanka stopped paying its foreign debt, its first default since independence. By July mass protests in Colombo forced President Gotabaya Rajapaksa to flee and resign.",
     "wiki": "Sri_Lankan_economic_crisis_(2019–2024)",
     "grokipedia": "Gotabaya_Rajapaksa"
+   },
+   {
+    "id": "geo-mahsa-amini-protests-2022",
+    "name": "Mahsa Amini's death in police custody sets off Iran's 'Woman, Life, Freedom' protests",
+    "year": 2022,
+    "lat": 35.6892,
+    "lon": 51.389,
+    "desc": "Mahsa Amini, 22, died on 16 September 2022 after Iran's morality police detained her over her hijab. Protests under 'Woman, Life, Freedom' spread nationwide but left the leadership in power.",
+    "wiki": "Mahsa_Amini_protests",
+    "grokipedia": "Mahsa_Amini_protests"
    }
   ],
   "polities": [
