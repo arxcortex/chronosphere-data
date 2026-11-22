@@ -2358,6 +2358,16 @@
     "lon": 28.9784,
     "desc": "The Theodosian decrees outlaw all non-Christian sacrifice, close temples, and end the Olympic Games. Christianity becomes the state religion of the Roman Empire.",
     "wiki": "Persecution_of_pagans_in_the_late_Roman_Empire"
+   },
+   {
+    "id": "religion-diocletian-great-persecution-303",
+    "name": "Diocletian's edict against the Christians opens the Great Persecution",
+    "year": 303,
+    "lat": 40.7656,
+    "lon": 29.9406,
+    "desc": "On 23 February 303 Diocletian had the church at Nicomedia razed; next day an edict ordered scriptures and churches destroyed empire-wide. It opened Rome's last, harshest persecution of Christians.",
+    "wiki": "Diocletianic_Persecution",
+    "grokipedia": "Diocletianic_Persecution"
    }
   ],
   "polities": [
