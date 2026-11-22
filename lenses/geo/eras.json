@@ -1027,6 +1027,16 @@
     "desc": "On 27 November 43 BCE the lex Titia gave Octavian, Antony and Lepidus near-absolute power for five years. Their proscriptions and war on Caesar's assassins hastened the end of the Roman Republic.",
     "wiki": "Second_Triumvirate",
     "grokipedia": "Second_Triumvirate"
+   },
+   {
+    "id": "geo-delian-treasury-to-athens--454",
+    "name": "Athens moves the Delian League treasury from Delos to Athens",
+    "year": -454,
+    "lat": 37.9715,
+    "lon": 23.7257,
+    "desc": "In 454 BCE Athens moved the Delian League's common treasury from Delos to Athens. Allied tribute then funded Athenian power, the Parthenon included, and the alliance hardened into an empire.",
+    "wiki": "Delian_League",
+    "grokipedia": "Delian_League"
    }
   ],
   "polities": [
@@ -1832,6 +1842,16 @@
     "lon": 108.94,
     "desc": "The Han court official Cai Lun presents a process for making paper from tree bark, hemp, and old rags. The invention will take a thousand years to reach Europe but will, when it does, make printing economically feasible.",
     "wiki": "History_of_paper"
+   },
+   {
+    "id": "geo-marcus-aurelius-meditations-170",
+    "name": "Marcus Aurelius writes his Stoic Meditations while campaigning on the Danube frontier",
+    "year": 170,
+    "lat": 48.1117,
+    "lon": 16.8636,
+    "desc": "From about 170 CE, on campaign along the Danube, Emperor Marcus Aurelius wrote private Stoic notes in Greek. The Meditations became a lasting handbook on power, duty and self-command.",
+    "wiki": "Meditations",
+    "grokipedia": "Meditations"
    },
    {
     "id": "geo-octavian-named-augustus--27",
@@ -14907,6 +14927,16 @@
     "desc": "In 1925 French sociologist Marcel Mauss argued in The Gift that archaic societies rest on duties to give, receive and repay. It became the foundation of social theories of reciprocity and exchange.",
     "wiki": "The_Gift_(essay)",
     "grokipedia": "The_Gift_(essay)"
+   },
+   {
+    "id": "geo-einstein-szilard-letter-1939",
+    "name": "Einstein signs Szilard's letter warning Roosevelt that Germany may build an atomic bomb",
+    "year": 1939,
+    "lat": 38.8977,
+    "lon": -77.0365,
+    "desc": "On 2 August 1939 Einstein signed Leo Szilard's letter urging Roosevelt to fund uranium research. Delivered in October, it led to the Advisory Committee on Uranium, the first step toward the bomb.",
+    "wiki": "Einstein–Szilard_letter",
+    "grokipedia": "Einstein–Szilard_letter"
    }
   ],
   "polities": [
@@ -28556,6 +28586,16 @@
     "desc": "In April 2022 Sri Lanka stopped paying its foreign debt, its first default since independence. By July mass protests in Colombo forced President Gotabaya Rajapaksa to flee and resign.",
     "wiki": "Sri_Lankan_economic_crisis_(2019–2024)",
     "grokipedia": "Gotabaya_Rajapaksa"
+   },
+   {
+    "id": "geo-mahsa-amini-protests-2022",
+    "name": "Mahsa Amini's death in police custody sets off Iran's 'Woman, Life, Freedom' protests",
+    "year": 2022,
+    "lat": 35.6892,
+    "lon": 51.389,
+    "desc": "Mahsa Amini, 22, died on 16 September 2022 after Iran's morality police detained her over her hijab. Protests under 'Woman, Life, Freedom' spread nationwide but left the leadership in power.",
+    "wiki": "Mahsa_Amini_protests",
+    "grokipedia": "Mahsa_Amini_protests"
    }
   ],
   "polities": [
@@ -30406,6 +30446,16 @@
     "desc": "China said on 3 July 2023 that exports of eight gallium and six germanium products would need licences from 1 August. Widely read as a reply to US chip curbs, it put mineral supply into the tech war.",
     "wiki": "Gallium",
     "grokipedia": "Gallium"
+   },
+   {
+    "id": "geo-niger-coup-2023",
+    "name": "Niger's presidential guard detains President Bazoum and seizes power",
+    "year": 2023,
+    "lat": 13.5116,
+    "lon": 2.1254,
+    "desc": "On 26 July 2023 General Abdourahamane Tiani's presidential guard detained President Mohamed Bazoum. France, which had made Niger its Sahel hub, pulled its troops out by the end of 2023.",
+    "wiki": "2023_Nigerien_coup_d'état",
+    "grokipedia": "2023_Nigerien_coup_d'état"
    }
   ],
   "polities": [

@@ -544,6 +544,16 @@
     "lon": 33.9734,
     "desc": "Traditional attribution of the first five books of the Hebrew Bible. Whether Moses is historical, the Torah crystallizes the memory of covenant, law, and a jealous God who permits no rivals.",
     "wiki": "Moses"
+   },
+   {
+    "id": "religion-shang-oracle-bones-wu-ding--1250",
+    "name": "Shang diviners under King Wu Ding carve questions to ancestors and gods on oracle bones",
+    "year": -1250,
+    "lat": 36.1286,
+    "lon": 114.3197,
+    "desc": "From about 1250 BCE Shang diviners at Anyang cracked ox bones and turtle shells to put questions to ancestors and gods. Their carved records are the earliest large body of Chinese writing.",
+    "wiki": "Oracle_bone",
+    "grokipedia": "Oracle_bone"
    }
   ],
   "polities": [
