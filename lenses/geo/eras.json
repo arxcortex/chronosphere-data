@@ -16986,6 +16986,16 @@
     "desc": "In 1949 Fernand Braudel published The Mediterranean, largely drafted in German prison camps. Its stress on slow geographic and economic forces over events reshaped how history is written.",
     "wiki": "Fernand_Braudel",
     "grokipedia": "Fernand_Braudel"
+   },
+   {
+    "id": "geo-mossadegh-coup-1953",
+    "name": "CIA and MI6-backed coup ousts Iranian Prime Minister Mohammad Mosaddegh",
+    "year": 1953,
+    "lat": 35.6892,
+    "lon": 51.389,
+    "desc": "On 19 August 1953 a coup backed by the CIA and MI6 toppled Mosaddegh, who had nationalized Iran's oil in 1951. The Shah then ruled for 26 more years, and the coup shaped how Iran saw the West.",
+    "wiki": "1953_Iranian_coup_d'état",
+    "grokipedia": "1953_Iranian_coup_d'état"
    }
   ],
   "polities": [
@@ -32298,6 +32308,16 @@
     "desc": "After Venezuela's 28 July 2024 vote, officials named Nicolás Maduro the winner without tallies, though opposition tally sheets showed Edmundo González ahead. Maduro held power until his 2026 capture.",
     "wiki": "2024_Venezuelan_presidential_election",
     "grokipedia": "2024_Venezuelan_presidential_election"
+   },
+   {
+    "id": "geo-india-election-2024",
+    "name": "Modi's BJP loses its majority in India's election but keeps power with allies",
+    "year": 2024,
+    "lat": 28.6172,
+    "lon": 77.2082,
+    "desc": "Results on 4 June 2024 gave the BJP 240 of 543 seats, short of a majority, while its NDA alliance won 293. Modi began a third term relying on coalition partners for the first time.",
+    "wiki": "2024_Indian_general_election",
+    "grokipedia": "2024_Indian_general_election"
    }
   ],
   "polities": [
