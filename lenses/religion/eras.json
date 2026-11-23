@@ -6134,6 +6134,16 @@
     "lon": 26.5557,
     "desc": "In September 1666 Sabbatai Zevi, whom many Jews across Europe and the Ottoman lands hailed as messiah, chose conversion to Islam at Adrianople. His fall split Jewish communities for generations.",
     "wiki": "Sabbatai_Zevi"
+   },
+   {
+    "id": "religion-city-upon-a-hill-sermon-1630",
+    "name": "A Puritan sermon casts the Massachusetts Bay colony as 'a city upon a hill'",
+    "year": 1630,
+    "lat": 50.9097,
+    "lon": -1.4044,
+    "desc": "In 1630 a sermon credited to John Winthrop told Puritans leaving for Massachusetts Bay they would be 'as a city upon a hill.' Cold War leaders later made the line a creed of American exceptionalism.",
+    "wiki": "A_Model_of_Christian_Charity",
+    "grokipedia": "A_Model_of_Christian_Charity"
    }
   ],
   "polities": [
