@@ -487,6 +487,16 @@
     "wiki": "Roman_Republic"
    },
    {
+    "id": "geo-delian-treasury-to-athens--454",
+    "name": "Athens moves the Delian League treasury from Delos to Athens",
+    "year": -454,
+    "lat": 37.9715,
+    "lon": 23.7257,
+    "desc": "In 454 BCE Athens moved the Delian League's common treasury from Delos to Athens. Allied tribute then funded Athenian power, the Parthenon included, and the alliance hardened into an empire.",
+    "wiki": "Delian_League",
+    "grokipedia": "Delian_League"
+   },
+   {
     "id": "geo-alexander-the-great-greatest-extent--323",
     "name": "Alexander the Great — greatest extent",
     "year": -323,
@@ -1027,16 +1037,6 @@
     "desc": "On 27 November 43 BCE the lex Titia gave Octavian, Antony and Lepidus near-absolute power for five years. Their proscriptions and war on Caesar's assassins hastened the end of the Roman Republic.",
     "wiki": "Second_Triumvirate",
     "grokipedia": "Second_Triumvirate"
-   },
-   {
-    "id": "geo-delian-treasury-to-athens--454",
-    "name": "Athens moves the Delian League treasury from Delos to Athens",
-    "year": -454,
-    "lat": 37.9715,
-    "lon": 23.7257,
-    "desc": "In 454 BCE Athens moved the Delian League's common treasury from Delos to Athens. Allied tribute then funded Athenian power, the Parthenon included, and the alliance hardened into an empire.",
-    "wiki": "Delian_League",
-    "grokipedia": "Delian_League"
    }
   ],
   "polities": [
