@@ -9577,6 +9577,16 @@
     "desc": "On 17 September 1787, 39 delegates signed a charter for a stronger national government. Ratified in 1788 over Anti-Federalist opposition, it is the oldest written national constitution in force.",
     "wiki": "Constitution_of_the_United_States",
     "grokipedia": "Constitution_of_the_United_States"
+   },
+   {
+    "id": "geo-gibbon-decline-and-fall-1776",
+    "name": "Edward Gibbon publishes the first volume of The Decline and Fall of the Roman Empire",
+    "year": 1776,
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "desc": "In February 1776 Edward Gibbon published the first volume of his history of Rome's fall, blaming lost civic virtue among other causes. It became a touchstone for debates over why empires decline.",
+    "wiki": "The_History_of_the_Decline_and_Fall_of_the_Roman_Empire",
+    "grokipedia": "The_History_of_the_Decline_and_Fall_of_the_Roman_Empire"
    }
   ],
   "polities": [
@@ -35950,6 +35960,16 @@
     "desc": "Planned for 2028 (forecast). NASA's 2026 restructuring made Artemis III a 2027 crewed test in low Earth orbit, docking Orion with test versions of the SpaceX and Blue Origin landers. Artemis IV is now the first crewed Artemis landing: two of four astronauts descend near the lunar south pole for about a week while the others stay in lunar orbit. The target region contains water-ice deposits that could serve as propellant for deeper missions. China's planned crewed landing before 2030 makes it a race: the lunar surface, empty since 1972, will likely host humans from two nations before 2030.",
     "wiki": "Artemis_IV",
     "grokipedia": null
+   },
+   {
+    "id": "geo-orban-ousted-2026",
+    "name": "Péter Magyar's Tisza Party ends Viktor Orbán's 16 years in power in Hungary",
+    "year": 2026,
+    "lat": 47.5071,
+    "lon": 19.0456,
+    "desc": "On 12 April 2026 Péter Magyar's Tisza won 141 of 199 seats and Viktor Orbán conceded after 16 years in power. His style of rule had been a template for conservatives across the West.",
+    "wiki": "2026_Hungarian_parliamentary_election",
+    "grokipedia": "Viktor_Orbán"
    }
   ],
   "polities": [
