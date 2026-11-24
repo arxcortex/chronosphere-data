@@ -1037,6 +1037,16 @@
     "desc": "On 27 November 43 BCE the lex Titia gave Octavian, Antony and Lepidus near-absolute power for five years. Their proscriptions and war on Caesar's assassins hastened the end of the Roman Republic.",
     "wiki": "Second_Triumvirate",
     "grokipedia": "Second_Triumvirate"
+   },
+   {
+    "id": "geo-battle-of-zama--202",
+    "name": "Scipio Africanus defeats Hannibal at Zama, ending the Second Punic War",
+    "year": -202,
+    "lat": 36.2989,
+    "lon": 9.4492,
+    "desc": "In 202 BCE Scipio Africanus defeated Hannibal at Zama, in what is now Tunisia. Carthage capitulated after the defeat, and Hannibal was forced into exile.",
+    "wiki": "Battle_of_Zama",
+    "grokipedia": "Battle_of_Zama"
    }
   ],
   "polities": [
@@ -8272,6 +8282,16 @@
     "desc": "On 22 October 1633 Zheng Zhilong's fireships routed a Dutch East India Company fleet off Kinmen. The largest Sino-European sea battle before the Opium Wars left Zheng master of the Fujian trade.",
     "wiki": "Battle_of_Liaoluo_Bay",
     "grokipedia": "Battle_of_Liaoluo_Bay"
+   },
+   {
+    "id": "geo-milton-tenure-of-kings-1649",
+    "name": "Milton publishes The Tenure of Kings and Magistrates on the right to try a king",
+    "year": 1649,
+    "lat": 51.5156,
+    "lon": -0.0931,
+    "desc": "In 1649 John Milton published The Tenure of Kings and Magistrates, defending a people's right to execute a guilty sovereign. He argued that Parliament had the right to prosecute Charles I.",
+    "wiki": "The_Tenure_of_Kings_and_Magistrates",
+    "grokipedia": "John_Milton"
    }
   ],
   "polities": [
@@ -17004,7 +17024,7 @@
     "lat": 55.7558,
     "lon": 37.6173,
     "desc": "On 22 February 1946 US diplomat George Kennan cabled Washington from Moscow, tracing Soviet conduct to Russian history and Marxist-Leninist ideology. It became the basis of US containment policy.",
-    "wiki": "X_Article",
+    "wiki": "Long_Telegram",
     "grokipedia": "George_F._Kennan"
    }
   ],
