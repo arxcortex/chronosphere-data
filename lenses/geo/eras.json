@@ -514,6 +514,16 @@
     "desc": "In 508 BCE, after Athenians drove out the Spartan-backed Isagoras, Cleisthenes split citizens into ten tribes by deme. His reforms put Athens on a democratic footing and added ostracism.",
     "wiki": "Cleisthenes",
     "grokipedia": "Cleisthenes"
+   },
+   {
+    "id": "geo-battle-of-zama--202",
+    "name": "Scipio Africanus defeats Hannibal at Zama, ending the Second Punic War",
+    "year": -202,
+    "lat": 36.2989,
+    "lon": 9.4492,
+    "desc": "In 202 BCE Scipio Africanus defeated Hannibal at Zama, in what is now Tunisia. Carthage sued for peace, ending the Second Punic War and its days as a Mediterranean power.",
+    "wiki": "Battle_of_Zama",
+    "grokipedia": "Battle_of_Zama"
    }
   ],
   "polities": [
@@ -1037,16 +1047,6 @@
     "desc": "On 27 November 43 BCE the lex Titia gave Octavian, Antony and Lepidus near-absolute power for five years. Their proscriptions and war on Caesar's assassins hastened the end of the Roman Republic.",
     "wiki": "Second_Triumvirate",
     "grokipedia": "Second_Triumvirate"
-   },
-   {
-    "id": "geo-battle-of-zama--202",
-    "name": "Scipio Africanus defeats Hannibal at Zama, ending the Second Punic War",
-    "year": -202,
-    "lat": 36.2989,
-    "lon": 9.4492,
-    "desc": "In 202 BCE Scipio Africanus defeated Hannibal at Zama, in what is now Tunisia. Carthage capitulated after the defeat, and Hannibal was forced into exile.",
-    "wiki": "Battle_of_Zama",
-    "grokipedia": "Battle_of_Zama"
    }
   ],
   "polities": [
