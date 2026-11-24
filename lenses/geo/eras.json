@@ -16996,6 +16996,16 @@
     "desc": "On 19 August 1953 a coup backed by the CIA and MI6 toppled Mosaddegh, who had nationalized Iran's oil in 1951. The Shah then ruled for 26 more years, and the coup shaped how Iran saw the West.",
     "wiki": "1953_Iranian_coup_d'état",
     "grokipedia": "1953_Iranian_coup_d'état"
+   },
+   {
+    "id": "geo-kennan-long-telegram-1946",
+    "name": "George Kennan's 'Long Telegram' from Moscow lays the groundwork for US containment",
+    "year": 1946,
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "desc": "On 22 February 1946 US diplomat George Kennan cabled Washington from Moscow, tracing Soviet conduct to Russian history and Marxist-Leninist ideology. It became the basis of US containment policy.",
+    "wiki": "X_Article",
+    "grokipedia": "George_F._Kennan"
    }
   ],
   "polities": [
@@ -19234,6 +19244,16 @@
     "desc": "On 8 March 1992 the New York Times printed excerpts of a draft Defense Planning Guidance aimed at stopping any new rival from rising. Its goal of lasting US primacy shaped later strategy.",
     "wiki": "Wolfowitz_Doctrine",
     "grokipedia": "Wolfowitz_Doctrine"
+   },
+   {
+    "id": "geo-fukuyama-end-of-history-1989",
+    "name": "Fukuyama's essay 'The End of History?' casts liberal democracy as history's end point",
+    "year": 1989,
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "desc": "In summer 1989 Francis Fukuyama argued in The National Interest that liberal democracy might be the end point of ideological evolution. It became a defining, and contested, post-Cold War thesis.",
+    "wiki": "The_End_of_History_and_the_Last_Man",
+    "grokipedia": "The_End_of_History_and_the_Last_Man"
    }
   ],
   "polities": [
@@ -34150,6 +34170,16 @@
     "desc": "On 4 April 2025 the Constitutional Court voted 8-0 to uphold Yoon Suk Yeol's impeachment over his martial-law decree. A snap election in June made Lee Jae Myung president.",
     "wiki": "Impeachment_of_Yoon_Suk_Yeol",
     "grokipedia": "Yoon_Suk_Yeol"
+   },
+   {
+    "id": "geo-deepseek-shock-2025",
+    "name": "China's DeepSeek releases a low-cost AI model and Nvidia loses about $600 billion in a day",
+    "year": 2025,
+    "lat": 30.2741,
+    "lon": 120.1551,
+    "desc": "DeepSeek launched its low-cost R1 model on 20 January 2025; on 27 January Nvidia shed about $600 billion in market value. It raised doubts that US chip controls could hold back China's AI.",
+    "wiki": "DeepSeek",
+    "grokipedia": "Liang_Wenfeng"
    }
   ],
   "polities": [
