@@ -10639,6 +10639,16 @@
     "desc": "In 1824 Leopold Ranke's first history, built on memoirs, letters and diplomatic papers, vowed to show the past 'as it actually happened.' It set the source-first standard for modern historians.",
     "wiki": "Leopold_von_Ranke",
     "grokipedia": "Leopold_von_Ranke"
+   },
+   {
+    "id": "geo-communist-manifesto-1848",
+    "name": "Marx and Engels publish The Communist Manifesto in London",
+    "year": 1848,
+    "lat": 51.5178,
+    "lon": -0.0817,
+    "desc": "On 21 February 1848 Marx and Engels published a manifesto for the Communist League in London, casting history as class struggle. It became a core text for socialist movements worldwide.",
+    "wiki": "The_Communist_Manifesto",
+    "grokipedia": "The_Communist_Manifesto"
    }
   ],
   "polities": [
@@ -11715,16 +11725,6 @@
     "desc": "Ohio Life Insurance and Trust suspended payments in New York on 24 August 1857, and panic spread through US banks and railroads to Britain. Telegraph and trade made it the first worldwide crisis.",
     "wiki": "Panic_of_1857",
     "grokipedia": "Panic_of_1857"
-   },
-   {
-    "id": "geo-communist-manifesto-1848",
-    "name": "Marx and Engels publish The Communist Manifesto in London",
-    "year": 1848,
-    "lat": 51.5178,
-    "lon": -0.0817,
-    "desc": "On 21 February 1848 Marx and Engels published a manifesto for the Communist League in London, casting history as class struggle. It became a core text for socialist movements worldwide.",
-    "wiki": "The_Communist_Manifesto",
-    "grokipedia": "The_Communist_Manifesto"
    }
   ],
   "polities": [
