@@ -11715,6 +11715,16 @@
     "desc": "Ohio Life Insurance and Trust suspended payments in New York on 24 August 1857, and panic spread through US banks and railroads to Britain. Telegraph and trade made it the first worldwide crisis.",
     "wiki": "Panic_of_1857",
     "grokipedia": "Panic_of_1857"
+   },
+   {
+    "id": "geo-communist-manifesto-1848",
+    "name": "Marx and Engels publish The Communist Manifesto in London",
+    "year": 1848,
+    "lat": 51.5178,
+    "lon": -0.0817,
+    "desc": "On 21 February 1848 Marx and Engels published a manifesto for the Communist League in London, casting history as class struggle. It became a core text for socialist movements worldwide.",
+    "wiki": "The_Communist_Manifesto",
+    "grokipedia": "The_Communist_Manifesto"
    }
   ],
   "polities": [
@@ -32358,6 +32368,16 @@
     "desc": "Results on 4 June 2024 gave the BJP 240 of 543 seats, short of a majority, while its NDA alliance won 293. Modi began a third term relying on coalition partners for the first time.",
     "wiki": "2024_Indian_general_election",
     "grokipedia": "2024_Indian_general_election"
+   },
+   {
+    "id": "geo-france-snap-election-2024",
+    "name": "Macron's snap election leaves France with a hung parliament",
+    "year": 2024,
+    "lat": 48.8617,
+    "lon": 2.3186,
+    "desc": "After the far right won France's EU vote, Macron dissolved the National Assembly on 9 June 2024. The 7 July runoff gave no bloc a majority, opening a long institutional crisis.",
+    "wiki": "2024_French_legislative_election",
+    "grokipedia": "Emmanuel_Macron"
    }
   ],
   "polities": [
