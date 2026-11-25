@@ -10649,6 +10649,16 @@
     "desc": "On 21 February 1848 Marx and Engels published a manifesto for the Communist League in London, casting history as class struggle. It became a core text for socialist movements worldwide.",
     "wiki": "The_Communist_Manifesto",
     "grokipedia": "The_Communist_Manifesto"
+   },
+   {
+    "id": "geo-panic-of-1857",
+    "name": "Ohio Life's collapse sets off the Panic of 1857, the first worldwide economic crisis",
+    "year": 1857,
+    "lat": 40.7069,
+    "lon": -74.0113,
+    "desc": "Ohio Life Insurance and Trust suspended payments in New York on 24 August 1857, and panic spread through US banks and railroads to Britain. Telegraph and trade made it the first worldwide crisis.",
+    "wiki": "Panic_of_1857",
+    "grokipedia": "Panic_of_1857"
    }
   ],
   "polities": [
@@ -11715,16 +11725,6 @@
     "desc": "On 3 March 1861 Alexander II's manifesto freed more than 23 million serfs, after defeat in Crimea exposed Russia's weakness. Its land terms still favored the landowners.",
     "wiki": "Emancipation_reform_of_1861",
     "grokipedia": "Emancipation_reform_of_1861"
-   },
-   {
-    "id": "geo-panic-of-1857",
-    "name": "Ohio Life's collapse sets off the Panic of 1857, the first worldwide economic crisis",
-    "year": 1857,
-    "lat": 40.7069,
-    "lon": -74.0113,
-    "desc": "Ohio Life Insurance and Trust suspended payments in New York on 24 August 1857, and panic spread through US banks and railroads to Britain. Telegraph and trade made it the first worldwide crisis.",
-    "wiki": "Panic_of_1857",
-    "grokipedia": "Panic_of_1857"
    }
   ],
   "polities": [
