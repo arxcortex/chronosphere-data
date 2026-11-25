@@ -10659,6 +10659,16 @@
     "desc": "Ohio Life Insurance and Trust suspended payments in New York on 24 August 1857, and panic spread through US banks and railroads to Britain. Telegraph and trade made it the first worldwide crisis.",
     "wiki": "Panic_of_1857",
     "grokipedia": "Panic_of_1857"
+   },
+   {
+    "id": "geo-monroe-doctrine-1823",
+    "name": "Monroe tells Congress the Americas are closed to European colonization",
+    "year": 1823,
+    "lat": 38.8899,
+    "lon": -77.0091,
+    "desc": "On 2 December 1823 Monroe told Congress the Americas were closed to new European colonies and meddling. The Monroe Doctrine became a pillar of US strategy in the hemisphere.",
+    "wiki": "Monroe_Doctrine",
+    "grokipedia": "Monroe_Doctrine"
    }
   ],
   "polities": [
@@ -30526,6 +30536,16 @@
     "desc": "On 26 July 2023 General Abdourahamane Tiani's presidential guard detained President Mohamed Bazoum. France, which had made Niger its Sahel hub, pulled its troops out by the end of 2023.",
     "wiki": "2023_Nigerien_coup_d'état",
     "grokipedia": "2023_Nigerien_coup_d'état"
+   },
+   {
+    "id": "geo-red-sea-houthi-attacks-2023",
+    "name": "Houthis seize the Galaxy Leader and begin attacking Red Sea shipping",
+    "year": 2023,
+    "lat": 14.8,
+    "lon": 42.95,
+    "desc": "On 19 November 2023 Yemen's Houthis hijacked the Galaxy Leader, citing Gaza, then struck ships near Bab el-Mandeb. Carriers rerouted around Africa, choking a lane for about 10% of world trade.",
+    "wiki": "Red_Sea_crisis",
+    "grokipedia": "Red_Sea_crisis"
    }
   ],
   "polities": [
