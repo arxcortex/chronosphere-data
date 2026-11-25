@@ -4196,6 +4196,16 @@
     "desc": "In January 1077 Henry IV, excommunicated in the investiture fight, waited three days at Canossa until Gregory VII absolved him. It became a lasting symbol of the struggle between popes and kings.",
     "wiki": "Road_to_Canossa",
     "grokipedia": "Road_to_Canossa"
+   },
+   {
+    "id": "religion-papacy-moves-to-avignon-1309",
+    "name": "Pope Clement V moves the papal court to Avignon",
+    "year": 1309,
+    "lat": 43.9508,
+    "lon": 4.8075,
+    "desc": "In 1309 Clement V, a French pope elected under pressure from Philip IV, settled his court at Avignon. Seven popes ruled from there until 1376, and the return led into the Western Schism.",
+    "wiki": "Avignon_Papacy",
+    "grokipedia": "Avignon_Papacy"
    }
   ],
   "polities": [
