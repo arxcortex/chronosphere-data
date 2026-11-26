@@ -11745,6 +11745,16 @@
     "desc": "On 17 January 1893 a Committee of Safety, with US sailors and Marines ashore, deposed Queen Liliʻuokalani in Honolulu. The US annexed the islands in 1898 and apologized for the coup in 1993.",
     "wiki": "Overthrow_of_the_Hawaiian_Kingdom",
     "grokipedia": "Overthrow_of_the_Hawaiian_Kingdom"
+   },
+   {
+    "id": "geo-manifest-destiny-annexation-1845",
+    "name": "An 1845 'Annexation' editorial coins 'manifest destiny' to make the case for Texas",
+    "year": 1845,
+    "lat": 40.7128,
+    "lon": -74.006,
+    "desc": "The Democratic Review essay, usually credited to John L. O'Sullivan, claimed a 'manifest destiny to overspread the continent.' The phrase became the creed of US westward expansion.",
+    "wiki": "Manifest_destiny",
+    "grokipedia": "Manifest_destiny"
    }
   ],
   "polities": [
@@ -15999,6 +16009,16 @@
     "lon": -77.0365,
     "desc": "On 11 March 1941 Roosevelt signed the Lend-Lease Act, letting the US supply arms, fuel and food free to nations whose defense it deemed vital. Aid reached Britain, China and the USSR until 1945.",
     "wiki": "Lend-Lease"
+   },
+   {
+    "id": "geo-atlantic-charter-1941",
+    "name": "Roosevelt and Churchill issue the Atlantic Charter after meeting off Newfoundland",
+    "year": 1941,
+    "lat": 47.3,
+    "lon": -53.99,
+    "desc": "On 14 August 1941, months before the US entered the war, the two leaders set postwar aims: no land grabs, self-determination, freer trade. It became the basis of the 1942 UN declaration.",
+    "wiki": "Atlantic_Charter",
+    "grokipedia": "Atlantic_Charter"
    }
   ],
   "polities": [
