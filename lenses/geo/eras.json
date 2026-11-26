@@ -12857,6 +12857,26 @@
     "desc": "In 1874 Nietzsche held that monumental, antiquarian and critical history serve life when balanced and poison it when one form rules. The essay remains the brief against history that buries action.",
     "wiki": "Untimely_Meditations",
     "grokipedia": "Untimely_Meditations"
+   },
+   {
+    "id": "geo-hobson-imperialism-a-study-1902",
+    "name": "J. A. Hobson's Imperialism: A Study blames empire on surplus capital",
+    "year": 1902,
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "desc": "In 1902 the English economist J. A. Hobson argued that capital with no profitable outlet at home drove Britain to empire abroad. Lenin drew on the book for his 1916 Imperialism.",
+    "wiki": "Imperialism_(Hobson_book)",
+    "grokipedia": "Imperialism_(Hobson_book)"
+   },
+   {
+    "id": "geo-overthrow-of-hawaiian-kingdom-1893",
+    "name": "Annexationists backed by US troops depose Queen Liliʻuokalani of Hawaii",
+    "year": 1893,
+    "lat": 21.3069,
+    "lon": -157.8583,
+    "desc": "On 17 January 1893 a Committee of Safety, with US sailors and Marines ashore, deposed Queen Liliʻuokalani in Honolulu. The US annexed the islands in 1898 and apologized for the coup in 1993.",
+    "wiki": "Overthrow_of_the_Hawaiian_Kingdom",
+    "grokipedia": "Overthrow_of_the_Hawaiian_Kingdom"
    }
   ],
   "polities": [
@@ -34240,6 +34260,16 @@
     "desc": "DeepSeek launched its low-cost R1 model on 20 January 2025; on 27 January Nvidia shed about $600 billion in market value. It raised doubts that US chip controls could hold back China's AI.",
     "wiki": "DeepSeek",
     "grokipedia": "Liang_Wenfeng"
+   },
+   {
+    "id": "geo-nepal-gen-z-revolt-2025",
+    "name": "Gen Z protests force Nepal's prime minister out and set parliament ablaze",
+    "year": 2025,
+    "lat": 27.695,
+    "lon": 85.336,
+    "desc": "Youth protests over a social media ban and graft forced K. P. Sharma Oli to resign on 9 September 2025 as parliament burned. Interim PM Sushila Karki dissolved the house and called a March 2026 vote.",
+    "wiki": "2025_Nepalese_Gen_Z_protests",
+    "grokipedia": "2025_Nepalese_Gen_Z_protests"
    }
   ],
   "polities": [
