@@ -4861,6 +4861,16 @@
     "desc": "The Council of Constance (1414-1418) deposed or accepted the resignation of rival popes and elected Martin V in 1417, ending the Western Schism. It also condemned Jan Hus, who was burned in 1415.",
     "wiki": "Council_of_Constance",
     "grokipedia": "Council_of_Constance"
+   },
+   {
+    "id": "religion-safavid-shia-state-religion-1501",
+    "name": "Shah Ismail I takes Tabriz and makes Twelver Shia Islam the state religion of Iran",
+    "year": 1501,
+    "lat": 38.08,
+    "lon": 46.2919,
+    "desc": "Crowned shah in 1501, the Safavid founder proclaimed a Shia state and began forcibly converting Iran's largely Sunni population. It made Iran the Shia heartland it remains today.",
+    "wiki": "Safavid_conversion_of_Iran_to_Shia_Islam",
+    "grokipedia": "Safavid_conversion_of_Iran_to_Shia_Islam"
    }
   ],
   "polities": [
