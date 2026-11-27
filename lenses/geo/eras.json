@@ -16019,6 +16019,16 @@
     "lon": -77.0365,
     "desc": "On 11 March 1941 Roosevelt signed the Lend-Lease Act, letting the US supply arms, fuel and food free to nations whose defense it deemed vital. Aid reached Britain, China and the USSR until 1945.",
     "wiki": "Lend-Lease"
+   },
+   {
+    "id": "geo-bretton-woods-conference-1944",
+    "name": "Allied delegates at Bretton Woods create the IMF and World Bank for the postwar economy",
+    "year": 1944,
+    "lat": 44.2581,
+    "lon": -71.4412,
+    "desc": "In July 1944, 730 delegates from 44 Allied nations met in New Hampshire and agreed pegged exchange rates under a new IMF and World Bank. The deal anchored the dollar-centered postwar order.",
+    "wiki": "Bretton_Woods_Conference",
+    "grokipedia": "Bretton_Woods_Conference"
    }
   ],
   "polities": [
@@ -36150,6 +36160,16 @@
     "desc": "On 12 April 2026 Péter Magyar's Tisza won 141 of 199 seats and Viktor Orbán conceded after 16 years in power. His style of rule had been a template for conservatives across the West.",
     "wiki": "2026_Hungarian_parliamentary_election",
     "grokipedia": "Viktor_Orbán"
+   },
+   {
+    "id": "geo-new-start-expires-2026",
+    "name": "New START expires, leaving US and Russian nuclear arsenals without treaty limits",
+    "year": 2026,
+    "lat": 55.75,
+    "lon": 37.62,
+    "desc": "The 2010 treaty capping each side at 1,550 deployed strategic warheads lapsed on 5 February 2026 with no successor. No binding pact now limits the two largest nuclear arsenals.",
+    "wiki": "New_START",
+    "grokipedia": "New_START"
    }
   ],
   "polities": [
