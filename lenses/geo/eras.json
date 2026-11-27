@@ -21378,6 +21378,16 @@
     "lon": 126.9918,
     "desc": "March 2016 in Seoul. DeepMind's AlphaGo defeats Lee Sedol, one of the greatest Go players of the modern era, 4–1 in a five-game match. Go, with its 10^170 board states, had been assumed by researchers to be decades away from computer mastery. AlphaGo's Move 37 in Game 2 — a move no human professional considered, a move AlphaGo itself rated as a 1-in-10,000 choice — becomes the symbolic moment when deep reinforcement learning crosses into creativity. Demis Hassabis and DeepMind give the AI buildout a concrete proof of capability six years before ChatGPT makes it legible to the public.",
     "wiki": "AlphaGo_versus_Lee_Sedol"
+   },
+   {
+    "id": "geo-kissinger-world-order-2014",
+    "name": "Henry Kissinger publishes World Order, comparing rival visions of global order",
+    "year": 2014,
+    "lat": 40.7128,
+    "lon": -74.006,
+    "desc": "The 2014 book contrasts Westphalian Europe, imperial China, political Islam and American democratic idealism. It casts today's international order as struggling to reconcile them.",
+    "wiki": "World_Order_(book)",
+    "grokipedia": "World_Order_(book)"
    }
   ],
   "polities": [
@@ -32438,6 +32448,16 @@
     "desc": "After the far right won France's EU vote, Macron dissolved the National Assembly on 9 June 2024. The 7 July runoff gave no bloc a majority, opening a long institutional crisis.",
     "wiki": "2024_French_legislative_election",
     "grokipedia": "Emmanuel_Macron"
+   },
+   {
+    "id": "geo-hezbollah-pagers-nasrallah-2024",
+    "name": "Israel's pager blasts and the killing of Nasrallah gut Hezbollah's leadership",
+    "year": 2024,
+    "lat": 33.8514,
+    "lon": 35.5039,
+    "desc": "Hezbollah pagers and radios exploded across Lebanon on 17-18 September 2024, and an Israeli strike killed Hassan Nasrallah in Beirut on 27 September. Israel invaded southern Lebanon days later.",
+    "wiki": "2024_Hezbollah_headquarters_strike",
+    "grokipedia": "Hassan_Nasrallah"
    }
   ],
   "polities": [
