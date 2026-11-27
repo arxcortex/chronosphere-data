@@ -8854,6 +8854,16 @@
     "lon": -74.006,
     "desc": "Time magazine's April 8 cover asks: Is God Dead? Thomas Altizer and William Hamilton argue that the Christian God has lost cultural reality. The high-water mark of secular confidence in the West.",
     "wiki": "Death_of_God_theology"
+   },
+   {
+    "id": "religion-khomeini-fatwa-rushdie-1989",
+    "name": "Khomeini issues a fatwa calling for the death of Salman Rushdie over The Satanic Verses",
+    "year": 1989,
+    "lat": 35.6892,
+    "lon": 51.389,
+    "desc": "On 14 February 1989, Iran's supreme leader called on Muslims to kill the author and publishers of the 1988 novel. The affair became a global fight over blasphemy, free speech and violence.",
+    "wiki": "Satanic_Verses_controversy",
+    "grokipedia": "The_Satanic_Verses"
    }
   ],
   "polities": [
