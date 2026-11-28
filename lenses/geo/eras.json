@@ -4192,6 +4192,16 @@
     "desc": "In 653 Gaozong's court issued the Tanglü shuyi, glossing a 502-article code that fixed penalties by rank and kinship. It is the oldest Chinese code to survive whole and a model for East Asian law.",
     "wiki": "Tang_Code",
     "grokipedia": "Tang_dynasty"
+   },
+   {
+    "id": "geo-battle-of-hastings-1066",
+    "name": "Duke William defeats and kills King Harold at Hastings, starting the Norman Conquest",
+    "year": 1066,
+    "lat": 50.9125,
+    "lon": 0.4875,
+    "desc": "On 14 October 1066 Duke William's army beat Harold Godwinson's English host near Hastings, and William was crowned on Christmas Day. Norman lords soon replaced England's old ruling class.",
+    "wiki": "Battle_of_Hastings",
+    "grokipedia": "Battle_of_Hastings"
    }
   ],
   "polities": [
@@ -4730,14 +4740,14 @@
     "wiki": "Battle_of_Manzikert"
    },
    {
-    "id": "geo-battle-of-hastings-1066",
-    "name": "Duke William defeats and kills King Harold at Hastings, starting the Norman Conquest",
-    "year": 1066,
-    "lat": 50.9125,
-    "lon": 0.4875,
-    "desc": "On 14 October 1066 Duke William's army beat Harold Godwinson's English host near Hastings, and William was crowned on Christmas Day. Norman lords soon replaced England's old ruling class.",
-    "wiki": "Battle_of_Hastings",
-    "grokipedia": "Battle_of_Hastings"
+    "id": "geo-john-of-salisbury-policraticus-1159",
+    "name": "John of Salisbury's Policraticus binds kings to the law and defends killing tyrants",
+    "year": 1159,
+    "lat": 51.2798,
+    "lon": 1.0828,
+    "desc": "Written around 1159 by a Canterbury archbishop's secretary, it held that a true prince obeys the law and a tyrant may be killed. It was the first systematic defense of tyrannicide since antiquity.",
+    "wiki": "Policraticus",
+    "grokipedia": "John_of_Salisbury"
    }
   ],
   "polities": [
@@ -5615,16 +5625,6 @@
     "desc": "On 15 June 1215 rebel barons forced King John to seal Magna Carta at Runnymede. Its clauses on lawful judgment and limits on arbitrary rule became the English template for constitutional restraint.",
     "wiki": "Magna_Carta",
     "grokipedia": "Magna_Carta"
-   },
-   {
-    "id": "geo-john-of-salisbury-policraticus-1159",
-    "name": "John of Salisbury's Policraticus binds kings to the law and defends killing tyrants",
-    "year": 1159,
-    "lat": 51.2798,
-    "lon": 1.0828,
-    "desc": "Written around 1159 by a Canterbury archbishop's secretary, it held that a true prince obeys the law and a tyrant may be killed. It was the first systematic defense of tyrannicide since antiquity.",
-    "wiki": "Policraticus",
-    "grokipedia": "John_of_Salisbury"
    }
   ],
   "polities": [
