@@ -4728,6 +4728,16 @@
     "lon": 41.28,
     "desc": "The Seljuk Turks destroy the Byzantine field army and capture Emperor Romanos IV. Anatolia — the empire's demographic and military heartland — is lost. The Byzantine appeal for Western help that follows will produce the First Crusade.",
     "wiki": "Battle_of_Manzikert"
+   },
+   {
+    "id": "geo-battle-of-hastings-1066",
+    "name": "Duke William defeats and kills King Harold at Hastings, starting the Norman Conquest",
+    "year": 1066,
+    "lat": 50.9125,
+    "lon": 0.4875,
+    "desc": "On 14 October 1066 Duke William's army beat Harold Godwinson's English host near Hastings, and William was crowned on Christmas Day. Norman lords soon replaced England's old ruling class.",
+    "wiki": "Battle_of_Hastings",
+    "grokipedia": "Battle_of_Hastings"
    }
   ],
   "polities": [
@@ -5605,6 +5615,16 @@
     "desc": "On 15 June 1215 rebel barons forced King John to seal Magna Carta at Runnymede. Its clauses on lawful judgment and limits on arbitrary rule became the English template for constitutional restraint.",
     "wiki": "Magna_Carta",
     "grokipedia": "Magna_Carta"
+   },
+   {
+    "id": "geo-john-of-salisbury-policraticus-1159",
+    "name": "John of Salisbury's Policraticus binds kings to the law and defends killing tyrants",
+    "year": 1159,
+    "lat": 51.2798,
+    "lon": 1.0828,
+    "desc": "Written around 1159 by a Canterbury archbishop's secretary, it held that a true prince obeys the law and a tyrant may be killed. It was the first systematic defense of tyrannicide since antiquity.",
+    "wiki": "Policraticus",
+    "grokipedia": "John_of_Salisbury"
    }
   ],
   "polities": [
@@ -32468,6 +32488,15 @@
     "desc": "Hezbollah pagers and radios exploded across Lebanon on 17-18 September 2024, and an Israeli strike killed Hassan Nasrallah in Beirut on 27 September. Israel invaded southern Lebanon days later.",
     "wiki": "2024_Hezbollah_headquarters_strike",
     "grokipedia": "Hassan_Nasrallah"
+   },
+   {
+    "id": "geo-iran-first-direct-attack-on-israel-2024",
+    "name": "Iran launches its first direct attack on Israel with over 300 drones and missiles",
+    "year": 2024,
+    "lat": 31.208,
+    "lon": 35.012,
+    "desc": "On 13 April 2024 Iran answered an Israeli strike on its Damascus embassy with about 170 drones and 150 missiles; Israel and its allies downed most. Their long shadow war turned into open exchange.",
+    "wiki": "April_2024_Iranian_strikes_against_Israel"
    }
   ],
   "polities": [
